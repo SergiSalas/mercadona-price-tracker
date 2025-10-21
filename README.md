@@ -76,8 +76,14 @@ Run every day at 8 AM:
 MIT License © 2025 [Sergi Salas Andres]
 See the LICENSE file for details.
 
-🇪🇸 Mercadona Price Tracker
-Script en Python que rastrea los cambios de precios en la tienda online de Mercadona utilizando su API pública, guardando los datos en una base de datos SQLite y registrando cada variación con su fecha y unit_size.
+🌐 🇪🇸 Versión en Español
+
+🇪🇸 Scroll down for English version above.
+
+🛒 Rastreador de Precios de Mercadona
+
+Script en Python que rastrea los cambios de precios en la tienda online de Mercadona
+ utilizando su API pública, guardando los datos en una base de datos SQLite y registrando cada variación con su fecha y unit_size.
 
 ⚠️ Solo con fines educativos — respeta los Términos de Servicio de Mercadona y los límites de la API.
 
