@@ -1,4 +1,12 @@
+
+
 # 🛒 Mercadona Price Tracker
+
+# 🌐 🇬🇧 English Version
+
+> 🇪🇸 *Desplázate hacia abajo para ver la versión en Español.*
+
+---
 
 Python script that tracks price changes in [Mercadona’s online store](https://tienda.mercadona.es) using its **public API**, storing data in a local **SQLite** database and logging every price variation with timestamp and `unit_size`.
 
