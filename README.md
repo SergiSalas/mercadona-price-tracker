@@ -65,13 +65,11 @@ python src/mercadona_price_tracker.py
 ## 🧮 Useful SQLite queries
 
 **Get latest 50 price changes**
-(put here a SQL code block with:)
 SELECT * FROM price_history
 ORDER BY change_date DESC
 LIMIT 50;
 
 **Find most frequently changing products**
-(put here another SQL code block with:)
 SELECT name, COUNT(*) AS changes
 FROM price_history
 GROUP BY product_id
@@ -83,9 +81,9 @@ LIMIT 20;
 ## 🗓️ Automate with Cron
 
 Run every day at 8 AM:
-(put here a bash code block with:)
+```bash
 0 8 * * * /ruta/a/python /ruta/al/repo/src/mercadona_price_tracker.py >> /ruta/al/repo/logs/cron.log 2>&1
-
+```
 
 ## 📝 License
 MIT License © 2025 [Sergi Salas Andres]
@@ -158,13 +156,11 @@ python src/mercadona_price_tracker.py
 ## 🧮 Consultas útiles en SQLite
 
 **Últimos 50 cambios de precio**
-(coloca aquí un bloque de código SQL con:)
 SELECT * FROM price_history
 ORDER BY change_date DESC
 LIMIT 50;
 
 **Productos con más variaciones**
-(coloca aquí otro bloque de código SQL con:)
 SELECT name, COUNT(*) AS cambios
 FROM price_history
 GROUP BY product_id
@@ -176,9 +172,9 @@ LIMIT 20;
 ## 🗓️ Automatización con Cron
 
 Ejecutar cada día a las 8 AM:
-(coloca aquí un bloque de código bash con:)
+```bash
 0 8 * * * /ruta/a/python /ruta/al/repo/src/mercadona_price_tracker.py >> /ruta/al/repo/logs/cron.log 2>&1
-
+```
 ## 📝 Licencia
 Licencia MIT © 2025 [Sergi Salas Andres]
 Consulta el archivo LICENSE para más información.
