@@ -76,17 +76,25 @@ Run every day at 8 AM:
 MIT License © 2025 [Sergi Salas Andres]
 See the LICENSE file for details.
 
-🌐 🇪🇸 Versión en Español
+---
 
-🇪🇸 Scroll down for English version above.
+# 🌐 🇪🇸 Versión en Español
 
-🛒 Rastreador de Precios de Mercadona
+> 🇬🇧 *Scroll up for the English version.*
 
-Script en Python que rastrea los cambios de precios en la tienda online de Mercadona
- utilizando su API pública, guardando los datos en una base de datos SQLite y registrando cada variación con su fecha y unit_size.
+---
 
-⚠️ Solo con fines educativos — respeta los Términos de Servicio de Mercadona y los límites de la API.
+## 🛒 Rastreador de Precios de Mercadona
 
+Script en **Python** que rastrea los cambios de precios en la [tienda online de Mercadona](https://tienda.mercadona.es) utilizando su **API pública**, guardando los datos en una base de datos **SQLite** y registrando cada variación con su fecha y `unit_size`.
+
+> ⚠️ **Solo con fines educativos** — respeta los Términos de Servicio de Mercadona y los límites de la API.
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![SQLite](https://img.shields.io/badge/Base_de_datos-SQLite-lightgrey)
+![Estado](https://img.shields.io/badge/estado-Activo-brightgreen)
+
+---
 ✨ Características
 Recorre todas las categorías y subcategorías de la tienda.
 
