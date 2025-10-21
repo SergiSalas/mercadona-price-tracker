@@ -100,28 +100,31 @@ Script en **Python** que rastrea los cambios de precios en la [tienda online de 
 ![Estado](https://img.shields.io/badge/estado-Activo-brightgreen)
 
 ---
-✨ Características
-Recorre todas las categorías y subcategorías de la tienda.
+## ✨ Características
 
-Detecta y guarda automáticamente cada cambio de precio.
+- Recorre todas las categorías y subcategorías de la tienda.  
+- Detecta y guarda automáticamente cada cambio de precio.  
+- Registra el `unit_size` si está disponible.  
+- Utiliza dos tablas:
+  - **products** → estado actual  
+  - **price_history** → histórico de cambios  
 
-Registra el unit_size si está disponible.
+---
 
-Utiliza dos tablas:
+## 🧱 Estructura de la base de datos
 
-products → estado actual
+| Tabla | Columnas |
+|--------|----------|
+| **products** | id (PK), name, last_price, unit_size, last_update |
+| **price_history** | id (PK), product_id (FK), name, old_price, new_price, change_date |
 
-price_history → histórico de cambios
+---
 
-🧱 Estructura de la base de datos
-Tabla	Columnas
-products	id (PK), name, last_price, unit_size, last_update
-price_history	id (PK), product_id (FK), name, old_price, new_price, change_date
+## ⚙️ Requisitos
 
-⚙️ Requisitos
-Python 3.10+
-
-Dependencias:
+- **Python 3.10+**
+- Dependencias:
+- 
 ```bash
 pip install -r requirements.txt
 o simplemente:
