@@ -40,7 +40,7 @@ pip install -r requirements.txt
 or simply:
 
 pip install requests
-
+```
 
 ▶️ How to use
 
@@ -102,12 +102,12 @@ price_history	id (PK), product_id (FK), name, old_price, new_price, change_date
 Python 3.10+
 
 Dependencias:
-
+```bash
 pip install -r requirements.txt
 o simplemente:
 
 pip install requests
-
+```
 ▶️ Uso
 
 python src/mercadona_price_tracker.py
