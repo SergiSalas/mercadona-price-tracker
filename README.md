@@ -34,7 +34,7 @@ Python script that tracks price changes in [Mercadona’s online store](https://
 - Dependencies:  
   ```bash
   pip install requests
-  bash```
+
   
 ▶️ How to use
 python src/mercadona_price_tracker.py
