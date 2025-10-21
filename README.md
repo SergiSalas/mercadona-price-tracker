@@ -40,6 +40,7 @@ pip install -r requirements.txt
 or simply:
 
 pip install requests
+
 ```
 
 ▶️ How to use
