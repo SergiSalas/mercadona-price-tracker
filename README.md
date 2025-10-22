@@ -12,6 +12,7 @@ Python script that tracks price changes in [Mercadona’s online store](https://
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
+[![Scheduled run](https://github.com/<tu_usuario>/mercadona-price-tracker/actions/workflows/scheduled-run.yml/badge.svg)](https://github.com/<tu_usuario>/mercadona-price-tracker/actions/workflows/scheduled-run.yml)
 
 ---
 
@@ -78,12 +79,19 @@ LIMIT 20;
 
 ---
 
-## 🗓️ Automate with Cron
+## ⏱️ Automation (GitHub Actions)
 
-Run every day at 8 AM:
-```bash
-0 8 * * * /ruta/a/python /ruta/al/repo/src/mercadona_price_tracker.py >> /ruta/al/repo/logs/cron.log 2>&1
-```
+This project runs on a scheduled **GitHub Actions** workflow:
+
+- **Schedule (UTC):** `0 6 * * *` and `0 18 * * *`  
+  > Note: GitHub schedules use **UTC**. In Madrid, that’s ~08:00 and ~20:00 during summer (CEST), and ~07:00 and ~19:00 in winter (CET).
+- **What it does:** runs the tracker, exports data to CSV (`data_public/`), commits changes, and uploads an artifact with the CSV files.
+- **Manual runs:** go to the **Actions** tab → *Scheduled run (Mercadona Price Tracker)* → **Run workflow**.
+- **Artifacts:** each run uploads a ZIP with `products.csv` and `price_history.csv`.
+
+**Workflow file:** `.github/workflows/scheduled-run.yml`  
+**Public CSVs (versioned):** `data_public/products.csv`, `data_public/price_history.csv`
+
 
 ## 📝 License
 MIT License © 2025 [Sergi Salas Andres]
@@ -106,6 +114,7 @@ Script en **Python** que rastrea los cambios de precios en la [tienda online de 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![SQLite](https://img.shields.io/badge/Base_de_datos-SQLite-lightgrey)
 ![Estado](https://img.shields.io/badge/estado-Activo-brightgreen)
+[![Ejecución programada](https://github.com/<tu_usuario>/mercadona-price-tracker/actions/workflows/scheduled-run.yml/badge.svg)](https://github.com/<tu_usuario>/mercadona-price-tracker/actions/workflows/scheduled-run.yml)
 
 ---
 ## ✨ Características
@@ -169,12 +178,19 @@ LIMIT 20;
 
 ---
 
-## 🗓️ Automatización con Cron
+## ⏱️ Automatización (GitHub Actions)
 
-Ejecutar cada día a las 8 AM:
-```bash
-0 8 * * * /ruta/a/python /ruta/al/repo/src/mercadona_price_tracker.py >> /ruta/al/repo/logs/cron.log 2>&1
-```
+Este proyecto se ejecuta con un workflow programado de **GitHub Actions**:
+
+- **Horario (UTC):** `0 6 * * *` y `0 18 * * *`  
+  > Nota: GitHub programa en **UTC**. En Madrid esto equivale aprox. a **08:00** y **20:00** en verano (CEST) y **07:00** y **19:00** en invierno (CET).
+- **Qué hace:** ejecuta el tracker, exporta datos a CSV (`data_public/`), hace commit con los cambios y sube un artifact con los CSV.
+- **Ejecución manual:** pestaña **Actions** → *Scheduled run (Mercadona Price Tracker)* → **Run workflow**.
+- **Artifacts:** cada ejecución sube un ZIP con `products.csv` y `price_history.csv`.
+
+**Workflow:** `.github/workflows/scheduled-run.yml`  
+**CSVs públicos (versionados):** `data_public/products.csv`, `data_public/price_history.csv`
+
 ## 📝 Licencia
 Licencia MIT © 2025 [Sergi Salas Andres]
 Consulta el archivo LICENSE para más información.
