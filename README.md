@@ -12,7 +12,6 @@ Python script that tracks price changes in [Mercadona’s online store](https://
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
-[![Scheduled run](https://github.com/<owner>/<repo>/actions/workflows/scheduled-run.yml/badge.svg?branch=main)](https://github.com/<owner>/<repo>/.github/workflows/scheduled-run.yml)
 
 ---
 
@@ -114,7 +113,6 @@ Script en **Python** que rastrea los cambios de precios en la [tienda online de 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![SQLite](https://img.shields.io/badge/Base_de_datos-SQLite-lightgrey)
 ![Estado](https://img.shields.io/badge/estado-Activo-brightgreen)
-[![Ejecución programada](https://github.com/<tu_usuario>/mercadona-price-tracker/actions/workflows/scheduled-run.yml/badge.svg)](https://github.com/<tu_usuario>/mercadona-price-tracker/actions/workflows/scheduled-run.yml)
 
 ---
 ## ✨ Características
