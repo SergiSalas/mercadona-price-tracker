@@ -22,6 +22,9 @@ ENV/
 *.db
 /data/
 
+# Permitir datos públicos versionados
+!data_public/
+
 # --- OS files ---
 .DS_Store
 Thumbs.db

@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 BASE_URL = "https://tienda.mercadona.es/api"
-DB_PATH = "mercadona_prices.db"
+DB_PATH = "data/mercadona_prices.db"
 
 # Lista para almacenar los cambios de precio detectados
 price_changes = []
@@ -159,6 +159,41 @@ def save_price_changes():
     conn.commit()
     conn.close()
     print("✅ Cambios de precios guardados correctamente.")
+    
+def export_to_csv():
+    """Exporta las tablas 'products' y 'price_history' a CSV en data_public/."""
+    import os, csv
+
+    os.makedirs("data_public", exist_ok=True)
+
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    # Export: products
+    with open("data_public/products.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["id", "name", "last_price", "unit_size", "last_update"])  # cabeceras
+        for row in cursor.execute("""
+            SELECT id, name, last_price, unit_size, last_update
+            FROM products
+            ORDER BY name COLLATE NOCASE
+        """):
+            w.writerow(row)
+
+    # Export: price_history
+    with open("data_public/price_history.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["id", "product_id", "name", "old_price", "new_price", "change_date"])  # cabeceras
+        for row in cursor.execute("""
+            SELECT id, product_id, name, old_price, new_price, change_date
+            FROM price_history
+            ORDER BY change_date DESC, id DESC
+        """):
+            w.writerow(row)
+
+    conn.close()
+    print("📤 Exportación a CSV completada en data_public/")
+
 
 if __name__ == "__main__":
     start_time = time.time()  # Tiempo de inicio
@@ -167,6 +202,7 @@ if __name__ == "__main__":
     init_db()  # Inicializar la base de datos
     get_categories()  # Obtener y procesar datos
     save_price_changes()  # Guardar cambios de precio al final
+    export_to_csv() # Exporta CSV
 
     end_time = time.time()  # Tiempo de finalización
     elapsed_time = end_time - start_time  # Tiempo total

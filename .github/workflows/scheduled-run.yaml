@@ -1,0 +1,63 @@
+name: Scheduled run (Mercadona Price Tracker)
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mercadona-tracker
+  cancel-in-progress: true
+
+jobs:
+  run-tracker:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid 
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Prepare folders
+        run: |
+          mkdir -p data
+          mkdir -p data_public
+
+      - name: Run tracker
+        run: python src/mercadona_price_tracker.py
+
+      - name: Commit CSV exports
+        run: |
+          if [ -n "$(git status --porcelain data_public)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data_public
+            git commit -m "ci: update CSV exports [skip ci]"
+            git push
+          else
+            echo "No hay cambios que commitear en data_public/"
+          fi
+
+      - name: Upload CSV artifact (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mercadona-csv
+          path: data_public/*.csv
+          retention-days: 30
