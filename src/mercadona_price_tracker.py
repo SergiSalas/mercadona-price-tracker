@@ -3,6 +3,21 @@ import sqlite3
 import time
 from datetime import datetime
 
+DEFAULT_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+    "Accept": "application/json",
+    "Accept-Language": "es-ES,es;q=0.9"
+}
+REQUEST_TIMEOUT = 15
+
+def safe_get(url):
+    """GET con headers/timeout y manejo de excepciones."""
+    try:
+        return requests.get(url, headers=DEFAULT_HEADERS, timeout=REQUEST_TIMEOUT)
+    except requests.RequestException as e:
+        print(f"❌ Error de red al llamar {url}: {e}")
+        return None
+
 BASE_URL = "https://tienda.mercadona.es/api"
 DB_PATH = "data/mercadona_prices.db"
 
@@ -48,7 +63,11 @@ def get_product_details(product_id):
     while attempt < retries:
         print(f"🔍 Obteniendo detalles del producto ID {product_id} (Intento {attempt + 1}/{retries})...")
         url = f"{BASE_URL}/products/{product_id}"
-        response = requests.get(url)
+        response = safe_get(url)
+        if response is None:
+            attempt += 1
+            time.sleep(2)
+            continue
 
         if response.status_code == 200:
             product_data = response.json()
@@ -103,7 +122,10 @@ def get_products(subcategory_id):
     """Obtiene los productos de una subcategoría y consulta sus precios."""
     print(f"📂 Consultando productos en la subcategoría ID {subcategory_id}...")
     url = f"{BASE_URL}/categories/{subcategory_id}"
-    response = requests.get(url)
+    response = safe_get(url)
+    if response is None:
+        print(f"❌ Error de red al obtener productos de la subcategoría {subcategory_id}")
+        return
 
     if response.status_code == 200:
         subcategory_data = response.json()
@@ -124,7 +146,10 @@ def get_categories():
     """Recorre todas las categorías y obtiene los productos."""
     print("📌 Obteniendo lista de categorías...")
     url = f"{BASE_URL}/categories/"
-    response = requests.get(url)
+    response = safe_get(url)
+    if response is None:
+        print("❌ Error de red al obtener categorías.")
+        return
 
     if response.status_code == 200:
         categorias = response.json()
@@ -196,16 +221,22 @@ def export_to_csv():
 
 
 if __name__ == "__main__":
-    start_time = time.time()  # Tiempo de inicio
-
+    start_time = time.time()
     print("🚀 Iniciando proceso de actualización de precios...\n")
-    init_db()  # Inicializar la base de datos
-    get_categories()  # Obtener y procesar datos
-    save_price_changes()  # Guardar cambios de precio al final
-    export_to_csv() # Exporta CSV
 
-    end_time = time.time()  # Tiempo de finalización
-    elapsed_time = end_time - start_time  # Tiempo total
+    try:
+        init_db()
+        get_categories()
+        save_price_changes()
+    finally:
+        # Exporta CSV ocurra lo que ocurra
+        try:
+            export_to_csv()
+        except Exception as e:
+            print(f"⚠️ No se pudo exportar CSV: {e}")
+
+    end_time = time.time()
+    elapsed_time = end_time - start_time
     print("\n📌 Resumen de cambios de precios:")
     if price_changes:
         for change in price_changes:

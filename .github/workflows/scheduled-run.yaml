@@ -42,16 +42,25 @@ jobs:
       - name: Run tracker
         run: python src/mercadona_price_tracker.py
 
-      - name: Commit CSV exports
+      - name: List outputs (debug)
+        if: always()
         run: |
-          if [ -n "$(git status --porcelain data_public)" ]; then
+          echo "PWD: $(pwd)"
+          ls -la
+          echo "data_public:"
+          ls -la data_public || true
+
+      - name: Commit CSV exports
+        if: always()
+        run: |
+          if ls data_public/*.csv >/dev/null 2>&1; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add data_public
-            git commit -m "ci: update CSV exports [skip ci]"
-            git push
+            git commit -m "ci: update CSV exports [skip ci]" || echo "Nada que commitear"
+            git push || echo "Nada que pushear"
           else
-            echo "No hay cambios que commitear en data_public/"
+            echo "⚠️ No hay CSV que commitear."
           fi
 
       - name: Upload CSV artifact (optional)
@@ -59,5 +68,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: mercadona-csv
-          path: data_public/*.csv
+          path: data_public
+          if-no-files-found: warn
           retention-days: 30
