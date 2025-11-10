@@ -19,8 +19,13 @@ ENV/
 *.log
 
 # --- Databases ---
+# Ignorar bases de datos EXCEPTO mercadona_prices.db
 *.db
-/data/
+!data/mercadona_prices.db
+
+# Ignorar la carpeta data/ EXCEPTO mercadona_prices.db
+/data/*
+!data/mercadona_prices.db
 
 # Permitir datos públicos versionados
 !data_public/
@@ -59,6 +64,5 @@ __MACOSX/
 *.swo
 *~
 
-# --- Project specific ---
-data/
+# --- Project specific (removido data/ duplicado) ---
 logs/
