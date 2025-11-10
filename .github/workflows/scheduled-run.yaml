@@ -45,7 +45,15 @@ jobs:
           mkdir -p data_public
           mkdir -p /tmp/prev
 
-      # Guarda el CSV previo del repo (si existe) para poder fusionarlo
+      - name: Restore database from repo
+        run: |
+          if [ -f data/mercadona_prices.db ]; then
+            echo "✓ Base de datos encontrada en el repositorio"
+            ls -lh data/mercadona_prices.db
+          else
+            echo "⚠ No existe BD previa, se creará una nueva"
+          fi
+
       - name: Save previous history CSV (if any)
         run: |
           git show HEAD:data_public/price_history.csv > /tmp/prev/price_history.csv || true
@@ -66,7 +74,6 @@ jobs:
           fi
           exit 0
 
-      # Fusiona histórico previo + nuevo y elimina duplicados
       - name: Merge previous and new history CSV
         run: |
           python - << 'PY'
@@ -129,18 +136,20 @@ jobs:
           ls -la
           echo "data_public:"
           ls -la data_public || true
+          echo "data:"
+          ls -la data || true
 
-      - name: Commit CSV exports (only if changed)
+      - name: Commit database and CSV exports
         if: always()
         run: |
-          if [ -n "$(git status --porcelain data_public)" ]; then
+          if [ -n "$(git status --porcelain data data_public)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data_public
-            git commit -m "ci: update CSV exports [skip ci]" || echo "Nada que commitear"
+            git add data data_public
+            git commit -m "ci: update database and CSV exports [skip ci]" || echo "Nada que commitear"
             git push || echo "Nada que pushear"
           else
-            echo "No hay cambios en data_public/"
+            echo "No hay cambios en data/ ni data_public/"
           fi
 
       - name: Upload CSV artifact
