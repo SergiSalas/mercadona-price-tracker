@@ -118,3 +118,47 @@ id,product_id,name,old_price,new_price,change_date
 117,81661.2,Boquerón limpio sin cabeza,1.19,1.39,2025-11-13 07:37:08
 118,81661.1,Boquerón sin limpiar,1.19,1.39,2025-11-13 07:37:08
 119,82753,Baguette sin gluten,2.03,1.95,2025-11-13 07:38:19
+120,8177,Manzana roja dulce,0.44,0.42,2025-11-13 19:41:22
+121,3172,Pera Limonera,0.54,0.49,2025-11-13 19:41:24
+122,3210,Limón,0.58,0.55,2025-11-13 19:41:25
+123,3238,Mandarina,0.25,0.27,2025-11-13 19:41:25
+124,3506,Melón piel de sapo,6.64,6.85,2025-11-13 19:41:25
+125,3830,Aguacate,1.18,1.29,2025-11-13 19:41:28
+126,3076,Piña,3.49,3.57,2025-11-13 19:41:29
+127,3050,Mango,1.65,1.62,2025-11-13 19:41:30
+128,3649,Ciruela amarilla,0.56,0.52,2025-11-13 19:41:31
+129,3026,Papaya,3.32,3.27,2025-11-13 19:41:31
+130,3915,Granada,1.38,1.35,2025-11-13 19:41:32
+131,3914,Kaki,0.5,0.52,2025-11-13 19:41:33
+132,69173,Yuca,1.83,1.73,2025-11-13 19:41:44
+133,69487,Rama de Tomates,1.61,1.58,2025-11-13 19:41:50
+134,69584,Pepino,0.37,0.39,2025-11-13 19:41:51
+135,69338,Calabacín verde,0.72,0.74,2025-11-13 19:41:52
+136,69339,Calabacín blanco,0.73,0.7,2025-11-13 19:41:53
+137,69220,Coliflor,2.46,2.44,2025-11-13 19:41:54
+138,69236,Repollo liso,2.95,2.77,2025-11-13 19:41:54
+139,69580,Brócoli,1.14,1.12,2025-11-13 19:42:00
+140,69347,Berenjena rayada,0.81,0.83,2025-11-13 19:42:01
+141,69038,Nabicol,0.9,0.93,2025-11-13 19:42:05
+142,81649.1,Salmón a rodajas,29.35,28.03,2025-11-13 19:46:05
+143,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.35,28.03,2025-11-13 19:46:05
+144,81649.4,Salmón media pieza a rodajas,13.69,13.58,2025-11-13 19:46:05
+145,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,13.69,13.58,2025-11-13 19:46:06
+146,81649.6,Salmón media pieza sin aletas y sin escamas,13.69,13.58,2025-11-13 19:46:06
+147,81649.3,Salmón sin aletas y sin escamas,29.35,28.03,2025-11-13 19:46:06
+148,81241.1,Lubina limpia con cabeza,4.0,4.19,2025-11-13 19:46:09
+149,81241.5,Lubina a filetes sin cabeza y sin espina,4.0,4.19,2025-11-13 19:46:10
+150,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.0,4.19,2025-11-13 19:46:10
+151,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.0,4.19,2025-11-13 19:46:10
+152,81241.3,Lubina sin limpiar,4.0,4.19,2025-11-13 19:46:10
+153,81204.1,Bacalao a rodajas,32.32,27.83,2025-11-13 19:46:11
+154,81204.3,Bacalao media pieza a rodajas,14.26,13.92,2025-11-13 19:46:11
+155,81204.2,Bacalao abierto en libro sin cabeza y sin espina,32.32,27.83,2025-11-13 19:46:12
+156,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,14.26,13.92,2025-11-13 19:46:12
+157,81055.2,Corvina abierta a la espalda con espinas y con cabeza,13.69,14.34,2025-11-13 19:46:13
+158,81055.1,Corvina limpia con cabeza,13.69,14.34,2025-11-13 19:46:13
+159,81055.3,Corvina a filetes,13.69,14.34,2025-11-13 19:46:14
+160,81704,Sepia limpia,5.58,5.26,2025-11-13 19:46:14
+161,81200.1,Trucha abierta en libro con cabeza,5.01,5.1,2025-11-13 19:46:15
+162,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.01,5.1,2025-11-13 19:46:15
+163,81200.3,Trucha sin aletas,5.01,5.1,2025-11-13 19:46:15
