@@ -230,3 +230,6 @@ id,product_id,name,old_price,new_price,change_date
 229,81200.1,Trucha abierta en libro con cabeza,5.1,5.46,2025-11-14 19:49:59
 230,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.1,5.46,2025-11-14 19:49:59
 231,81200.3,Trucha sin aletas,5.1,5.46,2025-11-14 19:50:00
+232,28731,Ron añejo Negrita,9.5,9.3,2025-11-15 07:20:47
+233,81100.2,Sardina limpia sin cabeza,1.19,0.99,2025-11-15 07:34:55
+234,81100.1,Sardina sin limpiar,1.19,0.99,2025-11-15 07:34:55
