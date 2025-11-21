@@ -564,3 +564,53 @@ id,product_id,name,old_price,new_price,change_date
 563,35613,Mascarilla Repara & Protege Pantene cabello dañado y seco,2.6,2.85,2025-11-21 07:31:40
 564,35614,Ampollas tratamiento intensivo Repara & Protege Pantene cabello dañado,3.9,4.35,2025-11-21 07:31:44
 565,35612,Champú Repara & Protege Pantene cabello débil y dañado,3.15,3.55,2025-11-21 07:31:48
+566,3021,Manzana Granny Smith,0.46,0.48,2025-11-21 19:43:12
+567,3172,Pera Limonera,0.57,0.62,2025-11-21 19:43:12
+568,3210,Limón,0.54,0.51,2025-11-21 19:43:14
+569,3506,Melón piel de sapo,6.64,6.47,2025-11-21 19:43:14
+570,3820,Kiwi verde,0.55,0.59,2025-11-21 19:43:17
+571,3076,Piña,4.1,4.02,2025-11-21 19:43:18
+572,3050,Mango,1.62,1.65,2025-11-21 19:43:20
+573,3026,Papaya,3.07,3.12,2025-11-21 19:43:20
+574,3915,Granada,1.26,1.29,2025-11-21 19:43:22
+575,3914,Kaki,0.48,0.46,2025-11-21 19:43:22
+576,69239,Batata,1.01,0.99,2025-11-21 19:43:36
+577,69338,Calabacín verde,0.7,0.72,2025-11-21 19:43:45
+578,69310,Pimiento rojo,0.86,0.89,2025-11-21 19:43:45
+579,69312,Pimiento verde,0.78,0.81,2025-11-21 19:43:46
+580,69220,Coliflor,2.21,2.34,2025-11-21 19:43:48
+581,69236,Repollo liso,2.99,3.13,2025-11-21 19:43:48
+582,69580,Brócoli,1.14,1.12,2025-11-21 19:43:54
+583,69347,Berenjena rayada,0.79,0.77,2025-11-21 19:43:55
+584,69038,Nabicol,0.93,0.96,2025-11-21 19:44:00
+585,81649.1,Salmón a rodajas,29.89,29.57,2025-11-21 19:48:55
+586,81649.4,Salmón media pieza a rodajas,15.22,14.78,2025-11-21 19:48:55
+587,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.89,29.57,2025-11-21 19:48:56
+588,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,15.22,14.78,2025-11-21 19:48:56
+589,81649.3,Salmón sin aletas y sin escamas,29.89,29.57,2025-11-21 19:48:56
+590,81649.6,Salmón media pieza sin aletas y sin escamas,15.22,14.78,2025-11-21 19:48:57
+591,81234.1,Dorada limpia con cabeza,5.27,5.74,2025-11-21 19:48:58
+592,81234.5,Dorada a filetes sin cabeza y sin espina,5.27,5.74,2025-11-21 19:48:59
+593,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.27,5.74,2025-11-21 19:48:59
+594,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.27,5.74,2025-11-21 19:48:59
+595,81234.3,Dorada sin limpiar,5.27,5.74,2025-11-21 19:49:00
+596,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.97,4.88,2025-11-21 19:49:00
+597,81241.1,Lubina limpia con cabeza,4.97,4.88,2025-11-21 19:49:00
+598,81241.5,Lubina a filetes sin cabeza y sin espina,4.97,4.88,2025-11-21 19:49:01
+599,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.97,4.88,2025-11-21 19:49:01
+600,81241.3,Lubina sin limpiar,4.97,4.88,2025-11-21 19:49:01
+601,82610.4,Merluza media pieza a rodajas,7.99,8.54,2025-11-21 19:49:03
+602,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.99,8.54,2025-11-21 19:49:03
+603,81204.1,Bacalao a rodajas,41.75,35.88,2025-11-21 19:49:04
+604,82610.6,Merluza media pieza sin aletas y sin escamas,7.99,8.54,2025-11-21 19:49:04
+605,81204.2,Bacalao abierto en libro sin cabeza y sin espina,41.75,35.88,2025-11-21 19:49:05
+606,81204.3,Bacalao media pieza a rodajas,17.14,16.45,2025-11-21 19:49:05
+607,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.14,16.45,2025-11-21 19:49:06
+608,81055.1,Corvina limpia con cabeza,15.0,14.78,2025-11-21 19:49:06
+609,81055.3,Corvina a filetes,15.0,14.78,2025-11-21 19:49:07
+610,81055.2,Corvina abierta a la espalda con espinas y con cabeza,15.0,14.78,2025-11-21 19:49:07
+611,81704,Sepia limpia,5.1,5.74,2025-11-21 19:49:07
+612,81701,Sepia limpia pequeña,2.24,2.09,2025-11-21 19:49:08
+613,81200.1,Trucha abierta en libro con cabeza,8.59,7.61,2025-11-21 19:49:09
+614,81200.2,Trucha abierta en libro sin cabeza y sin espina,8.59,7.61,2025-11-21 19:49:09
+615,81200.3,Trucha sin aletas,8.59,7.61,2025-11-21 19:49:10
