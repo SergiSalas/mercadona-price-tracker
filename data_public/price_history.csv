@@ -618,3 +618,51 @@ id,product_id,name,old_price,new_price,change_date
 617,28712,Ginebra London Dry Gin Beefeater,14.25,13.25,2025-11-22 07:21:25
 618,81100.1,Sardina sin limpiar,0.99,1.19,2025-11-22 07:39:02
 619,81100.2,Sardina limpia sin cabeza,0.99,1.19,2025-11-22 07:39:03
+620,3170,Pera Ercolina,0.23,0.26,2025-11-22 19:42:15
+621,8175,Manzana roja acidulce,0.48,0.5,2025-11-22 19:42:16
+622,3172,Pera Limonera,0.62,0.57,2025-11-22 19:42:16
+623,3506,Melón piel de sapo,6.47,6.36,2025-11-22 19:42:17
+624,3830,Aguacate,1.12,1.06,2025-11-22 19:42:22
+625,3076,Piña,4.02,4.06,2025-11-22 19:42:22
+626,3050,Mango,1.65,1.62,2025-11-22 19:42:24
+627,3026,Papaya,3.12,3.17,2025-11-22 19:42:24
+628,3915,Granada,1.29,1.35,2025-11-22 19:42:27
+629,69968,Tomate canario,0.32,0.34,2025-11-22 19:42:47
+630,69912,Tomate pera,0.2,0.22,2025-11-22 19:42:47
+631,69487,Rama de Tomates,1.5,1.47,2025-11-22 19:42:50
+632,69444,Tomate rosa,1.6,1.53,2025-11-22 19:42:50
+633,69236,Repollo liso,3.13,3.08,2025-11-22 19:42:55
+634,69326,Berenjena,0.78,0.8,2025-11-22 19:43:03
+635,69347,Berenjena rayada,0.77,0.74,2025-11-22 19:43:04
+636,69038,Nabicol,0.96,0.93,2025-11-22 19:43:09
+637,81649.1,Salmón a rodajas,29.57,29.67,2025-11-22 19:48:21
+638,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.57,29.67,2025-11-22 19:48:22
+639,81649.4,Salmón media pieza a rodajas,14.78,14.67,2025-11-22 19:48:22
+640,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,14.78,14.67,2025-11-22 19:48:22
+641,81649.6,Salmón media pieza sin aletas y sin escamas,14.78,14.67,2025-11-22 19:48:23
+642,81649.3,Salmón sin aletas y sin escamas,29.57,29.67,2025-11-22 19:48:23
+643,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.74,5.46,2025-11-22 19:48:25
+644,81234.1,Dorada limpia con cabeza,5.74,5.46,2025-11-22 19:48:25
+645,81234.5,Dorada a filetes sin cabeza y sin espina,5.74,5.46,2025-11-22 19:48:26
+646,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.74,5.46,2025-11-22 19:48:26
+647,81234.3,Dorada sin limpiar,5.74,5.46,2025-11-22 19:48:26
+648,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.88,4.78,2025-11-22 19:48:27
+649,81241.1,Lubina limpia con cabeza,4.88,4.78,2025-11-22 19:48:27
+650,81241.5,Lubina a filetes sin cabeza y sin espina,4.88,4.78,2025-11-22 19:48:28
+651,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.88,4.78,2025-11-22 19:48:28
+652,81241.3,Lubina sin limpiar,4.88,4.78,2025-11-22 19:48:28
+653,82610.1,Merluza a rodajas,13.91,13.25,2025-11-22 19:48:29
+654,82610.4,Merluza media pieza a rodajas,8.54,8.43,2025-11-22 19:48:29
+655,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.91,13.25,2025-11-22 19:48:30
+656,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.54,8.43,2025-11-22 19:48:30
+657,82610.3,Merluza sin aletas y sin escamas,13.91,13.25,2025-11-22 19:48:30
+658,82610.6,Merluza media pieza sin aletas y sin escamas,8.54,8.43,2025-11-22 19:48:31
+659,81204.3,Bacalao media pieza a rodajas,16.45,16.1,2025-11-22 19:48:32
+660,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,16.45,16.1,2025-11-22 19:48:32
+661,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.78,14.67,2025-11-22 19:48:33
+662,81055.1,Corvina limpia con cabeza,14.78,14.67,2025-11-22 19:48:33
+663,81055.3,Corvina a filetes,14.78,14.67,2025-11-22 19:48:34
+664,81701,Sepia limpia pequeña,2.09,1.94,2025-11-22 19:48:34
+665,81200.1,Trucha abierta en libro con cabeza,7.61,6.27,2025-11-22 19:48:35
+666,81200.2,Trucha abierta en libro sin cabeza y sin espina,7.61,6.27,2025-11-22 19:48:36
+667,81200.3,Trucha sin aletas,7.61,6.27,2025-11-22 19:48:36
