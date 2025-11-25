@@ -754,3 +754,56 @@ id,product_id,name,old_price,new_price,change_date
 753,10005,Chocolate líquido a la taza Hacendado,2.35,2.25,2025-11-25 07:23:56
 754,81100.2,Sardina limpia sin cabeza,1.19,1.39,2025-11-25 07:37:06
 755,81100.1,Sardina sin limpiar,1.19,1.39,2025-11-25 07:37:06
+756,62380,Bogavante americano mediano crudo Hacendado,15.67,14.85,2025-11-25 19:40:31
+757,3824,Banana,0.26,0.27,2025-11-25 19:45:49
+758,3132,Plátano macho,0.81,0.84,2025-11-25 19:45:49
+759,8177,Manzana roja dulce,0.46,0.44,2025-11-25 19:45:51
+760,3119,Pera Conferencia,0.47,0.44,2025-11-25 19:45:51
+761,3172,Pera Limonera,0.57,0.54,2025-11-25 19:45:53
+762,3210,Limón,0.54,0.56,2025-11-25 19:45:54
+763,3506,Melón piel de sapo,6.36,6.2,2025-11-25 19:45:54
+764,3235,Naranja de mesa,0.59,0.6,2025-11-25 19:45:56
+765,3076,Piña,3.9,3.71,2025-11-25 19:45:58
+766,3050,Mango,1.65,1.74,2025-11-25 19:45:59
+767,3026,Papaya,3.12,3.17,2025-11-25 19:46:00
+768,3915,Granada,1.2,1.17,2025-11-25 19:46:01
+769,69066,Patata,0.46,0.44,2025-11-25 19:46:12
+770,69173,Yuca,1.76,1.62,2025-11-25 19:46:14
+771,69912,Tomate pera,0.26,0.28,2025-11-25 19:46:17
+772,69444,Tomate rosa,1.56,1.5,2025-11-25 19:46:20
+773,69339,Calabacín blanco,0.75,0.79,2025-11-25 19:46:23
+774,69310,Pimiento rojo,0.89,0.92,2025-11-25 19:46:23
+775,69320,Pimiento verde freír,0.25,0.28,2025-11-25 19:46:23
+776,69312,Pimiento verde,0.81,0.78,2025-11-25 19:46:24
+777,69220,Coliflor,2.3,2.6,2025-11-25 19:46:25
+778,69236,Repollo liso,2.9,2.93,2025-11-25 19:46:25
+779,69580,Brócoli,1.17,1.22,2025-11-25 19:46:30
+780,69347,Berenjena rayada,0.83,0.86,2025-11-25 19:46:31
+781,69623,Alcachofa,0.96,0.91,2025-11-25 19:46:32
+782,69038,Nabicol,0.96,0.99,2025-11-25 19:46:35
+783,81649.1,Salmón a rodajas,29.67,29.35,2025-11-25 19:50:54
+784,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.67,29.35,2025-11-25 19:50:55
+785,81649.3,Salmón sin aletas y sin escamas,29.67,29.35,2025-11-25 19:50:55
+786,81241.5,Lubina a filetes sin cabeza y sin espina,4.78,4.88,2025-11-25 19:50:59
+787,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.78,4.88,2025-11-25 19:50:59
+788,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.78,4.88,2025-11-25 19:50:59
+789,81241.1,Lubina limpia con cabeza,4.78,4.88,2025-11-25 19:50:59
+790,81241.3,Lubina sin limpiar,4.78,4.88,2025-11-25 19:51:00
+791,82610.1,Merluza a rodajas,13.36,12.7,2025-11-25 19:51:00
+792,82610.4,Merluza media pieza a rodajas,7.77,7.56,2025-11-25 19:51:00
+793,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.36,12.7,2025-11-25 19:51:01
+794,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.77,7.56,2025-11-25 19:51:01
+795,82610.3,Merluza sin aletas y sin escamas,13.36,12.7,2025-11-25 19:51:01
+796,81204.1,Bacalao a rodajas,29.67,30.02,2025-11-25 19:51:02
+797,82610.6,Merluza media pieza sin aletas y sin escamas,7.77,7.56,2025-11-25 19:51:02
+798,81204.2,Bacalao abierto en libro sin cabeza y sin espina,29.67,30.02,2025-11-25 19:51:03
+799,81204.3,Bacalao media pieza a rodajas,15.41,15.18,2025-11-25 19:51:03
+800,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,15.41,15.18,2025-11-25 19:51:03
+801,81055.3,Corvina a filetes,14.45,13.91,2025-11-25 19:51:04
+802,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.45,13.91,2025-11-25 19:51:04
+803,81055.1,Corvina limpia con cabeza,14.45,13.91,2025-11-25 19:51:04
+804,81704,Sepia limpia,5.74,5.9,2025-11-25 19:51:05
+805,81701,Sepia limpia pequeña,1.94,1.79,2025-11-25 19:51:05
+806,81200.1,Trucha abierta en libro con cabeza,5.19,4.92,2025-11-25 19:51:06
+807,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.19,4.92,2025-11-25 19:51:06
+808,81200.3,Trucha sin aletas,5.19,4.92,2025-11-25 19:51:06
