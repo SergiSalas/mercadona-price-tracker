@@ -843,3 +843,51 @@ id,product_id,name,old_price,new_price,change_date
 842,81204.3,Bacalao media pieza a rodajas,15.18,15.41,2025-11-26 19:46:45
 843,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,15.18,15.41,2025-11-26 19:46:46
 844,81701,Sepia limpia pequeña,1.79,1.64,2025-11-26 19:46:48
+845,22163,Café soluble Classic Hacendado,4.7,4.5,2025-11-27 07:24:26
+846,22164,Café soluble descafeinado Hacendado,4.95,4.75,2025-11-27 07:24:28
+847,3499,Costilla de vacuno,3.7,3.83,2025-11-27 07:24:43
+848,8970,Alas de pollo adobadas picantes,3.33,3.02,2025-11-27 07:24:57
+849,2873,Burger de vacuno,5.9,6.2,2025-11-27 07:25:20
+850,3547,Burger de vacuno gruesas,4.8,5.1,2025-11-27 07:25:21
+851,52776,Preparado de carne picada vacuno,5.35,5.6,2025-11-27 07:25:26
+852,12746,Tacos de vacuno marinado para guisar,9.42,9.72,2025-11-27 07:25:27
+853,8932,Entrecot de vacuno añojo,6.5,6.63,2025-11-27 07:25:28
+854,8934,Lomo de vacuno añojo,7.75,7.92,2025-11-27 07:25:29
+855,8931,Solomillo de vacuno,11.66,11.8,2025-11-27 07:25:29
+856,14485,Churrasquito de vacuno añojo,3.47,3.55,2025-11-27 07:25:30
+857,58293,Jamón serrano Incarlopsa,65.0,58.0,2025-11-27 07:26:49
+858,50483,Queso tierno bola edam de vaca Holland Corona,4.1,3.9,2025-11-27 07:27:09
+859,50478,Queso tierno gouda de vaca Holland,3.8,3.6,2025-11-27 07:27:09
+860,50480,Queso tierno maasdam de vaca Holland Corona,3.7,3.5,2025-11-27 07:27:09
+861,50654,Queso lonchas gouda de vaca Hacendado,2.55,2.45,2025-11-27 07:27:11
+862,50459,Queso lonchas edam de vaca Holland Corona,2.4,2.3,2025-11-27 07:27:12
+863,51146,Queso en polvo grana padano Hacendado,1.8,1.7,2025-11-27 07:27:15
+864,50619,Queso brie marcillat de vaca Plaisir de Roy,1.75,1.65,2025-11-27 07:27:29
+865,24260,Gambón grande congelado,23.0,22.0,2025-11-27 07:27:53
+866,62306,Vieira Hacendado ultracongelada,2.25,2.35,2025-11-27 07:27:57
+867,73002,Maquinillas de afeitar desechables Gillette Sensor Comfort 3 hojas,5.75,5.05,2025-11-27 07:30:13
+868,46029,Desodorante roll-on Invisible Black & White Nivea antitranspirante,2.3,2.0,2025-11-27 07:30:55
+869,46030,Desodorante roll-on Invisible Black & White Nivea Men antitranspirante,2.3,2.0,2025-11-27 07:30:56
+870,35965,Desodorante roll-on original Dove antitranspirante,2.0,2.5,2025-11-27 07:30:58
+871,44398,Desodorante invisible black + white Rexona antimanchas,2.4,2.9,2025-11-27 07:31:00
+872,44400,Desodorante invisible ice fresh Rexona Men antitranspirante y antimanchas,2.4,2.9,2025-11-27 07:31:00
+873,35964,Desodorante original Dove antitranspirante,3.55,2.95,2025-11-27 07:31:01
+874,14972,Lote infantil Dragona Iris,11.0,9.0,2025-11-27 07:32:29
+875,14971,Lote infantil Dragón Onyx,11.0,9.0,2025-11-27 07:32:29
+876,49867,"Molde de aluminio cuadrado 2,7L Alibérico",2.3,2.45,2025-11-27 07:35:26
+877,49837,"Molde de aluminio rectangular 0,5L Alibérico",1.75,1.95,2025-11-27 07:35:28
+878,49863,"Molde de aluminio rectangular 1,5L Alibérico",3.15,3.35,2025-11-27 07:35:28
+879,87292,Langostino cocido,6.6,6.3,2025-11-27 07:37:04
+880,81100.1,Sardina sin limpiar,1.39,1.19,2025-11-27 07:37:33
+881,81100.2,Sardina limpia sin cabeza,1.39,1.19,2025-11-27 07:37:34
+882,23476,Bífidus desnatado natural edulcorado Activia 0% m.g.,3.89,3.3,2025-11-27 07:40:11
+883,23477,Bífidus desnatado natural Activia 0% m.g.,3.89,3.3,2025-11-27 07:40:12
+884,68243,Natillas de chocolate Danet,1.8,2.0,2025-11-27 07:40:16
+885,86245,Natillas de vainilla Danet,1.8,2.0,2025-11-27 07:40:16
+886,20738,Bebida láctea natural Actimel,4.95,5.99,2025-11-27 07:40:38
+887,20709,Bebida láctea natural Actimel 0% m.g,4.95,5.99,2025-11-27 07:40:38
+888,20941,Bebida láctea de fresa Danacol 0% azúcares añadidos,5.45,5.9,2025-11-27 07:40:39
+889,20940,Bebida láctea natural Danacol 0% azúcares añadidos,5.45,5.9,2025-11-27 07:40:39
+890,20942,Bebida láctea tropical Danacol 0% azúcares añadidos,5.45,5.9,2025-11-27 07:40:39
+891,68124,Danonino sabor fresa Danone,1.45,1.7,2025-11-27 07:40:46
+892,68125,Danonino sabor fresa y plátano Danone,1.45,1.7,2025-11-27 07:40:47
