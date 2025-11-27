@@ -891,3 +891,52 @@ id,product_id,name,old_price,new_price,change_date
 890,20942,Bebida láctea tropical Danacol 0% azúcares añadidos,5.45,5.9,2025-11-27 07:40:39
 891,68124,Danonino sabor fresa Danone,1.45,1.7,2025-11-27 07:40:46
 892,68125,Danonino sabor fresa y plátano Danone,1.45,1.7,2025-11-27 07:40:47
+893,3824,Banana,0.27,0.26,2025-11-27 19:41:54
+894,3132,Plátano macho,0.84,0.81,2025-11-27 19:41:55
+895,3172,Pera Limonera,0.51,0.49,2025-11-27 19:41:58
+896,3506,Melón piel de sapo,6.11,6.05,2025-11-27 19:41:59
+897,3202,Pomelo,0.89,0.86,2025-11-27 19:42:02
+898,3076,Piña,3.28,3.26,2025-11-27 19:42:04
+899,3050,Mango,1.65,1.71,2025-11-27 19:42:05
+900,3026,Papaya,3.22,3.27,2025-11-27 19:42:05
+901,3915,Granada,1.17,1.2,2025-11-27 19:42:07
+902,69239,Batata,0.96,0.94,2025-11-27 19:42:18
+903,69487,Rama de Tomates,1.47,1.45,2025-11-27 19:42:27
+904,69444,Tomate rosa,1.5,1.46,2025-11-27 19:42:27
+905,69339,Calabacín blanco,0.79,0.81,2025-11-27 19:42:30
+906,69312,Pimiento verde,0.78,0.81,2025-11-27 19:42:30
+907,69220,Coliflor,2.77,2.87,2025-11-27 19:42:31
+908,69580,Brócoli,1.22,1.3,2025-11-27 19:42:40
+909,69347,Berenjena rayada,0.86,0.83,2025-11-27 19:42:41
+910,69623,Alcachofa,0.91,0.86,2025-11-27 19:42:43
+911,69038,Nabicol,0.99,1.02,2025-11-27 19:42:45
+912,81649.1,Salmón a rodajas,27.59,27.92,2025-11-27 19:48:35
+913,81649.4,Salmón media pieza a rodajas,14.24,14.34,2025-11-27 19:48:35
+914,81649.2,Salmón abierto en libro sin cabeza y sin espina,27.59,27.92,2025-11-27 19:48:36
+915,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,14.24,14.34,2025-11-27 19:48:36
+916,81649.3,Salmón sin aletas y sin escamas,27.59,27.92,2025-11-27 19:48:36
+917,81649.6,Salmón media pieza sin aletas y sin escamas,14.24,14.34,2025-11-27 19:48:37
+918,81234.1,Dorada limpia con cabeza,5.46,5.55,2025-11-27 19:48:38
+919,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.46,5.55,2025-11-27 19:48:40
+920,81234.5,Dorada a filetes sin cabeza y sin espina,5.46,5.55,2025-11-27 19:48:41
+921,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.46,5.55,2025-11-27 19:48:41
+922,81234.3,Dorada sin limpiar,5.46,5.55,2025-11-27 19:48:41
+923,81241.5,Lubina a filetes sin cabeza y sin espina,4.88,4.97,2025-11-27 19:48:42
+924,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.88,4.97,2025-11-27 19:48:42
+925,81241.1,Lubina limpia con cabeza,4.88,4.97,2025-11-27 19:48:42
+926,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.88,4.97,2025-11-27 19:48:43
+927,81241.3,Lubina sin limpiar,4.88,4.97,2025-11-27 19:48:43
+928,82610.4,Merluza media pieza a rodajas,7.56,7.45,2025-11-27 19:48:44
+929,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.56,7.45,2025-11-27 19:48:44
+930,82610.6,Merluza media pieza sin aletas y sin escamas,7.56,7.45,2025-11-27 19:48:45
+931,81204.1,Bacalao a rodajas,30.02,32.09,2025-11-27 19:48:46
+932,81204.2,Bacalao abierto en libro sin cabeza y sin espina,30.02,32.09,2025-11-27 19:48:46
+933,81204.3,Bacalao media pieza a rodajas,15.41,15.53,2025-11-27 19:48:46
+934,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,15.41,15.53,2025-11-27 19:48:46
+935,81055.3,Corvina a filetes,13.91,13.8,2025-11-27 19:48:47
+936,81055.2,Corvina abierta a la espalda con espinas y con cabeza,13.91,13.8,2025-11-27 19:48:47
+937,81055.1,Corvina limpia con cabeza,13.91,13.8,2025-11-27 19:48:47
+938,81701,Sepia limpia pequeña,1.64,1.79,2025-11-27 19:48:48
+939,81200.1,Trucha abierta en libro con cabeza,4.92,5.01,2025-11-27 19:48:49
+940,81200.2,Trucha abierta en libro sin cabeza y sin espina,4.92,5.01,2025-11-27 19:48:49
+941,81200.3,Trucha sin aletas,4.92,5.01,2025-11-27 19:48:49
