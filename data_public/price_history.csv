@@ -1050,3 +1050,73 @@ id,product_id,name,old_price,new_price,change_date
 1049,81055.3,Corvina a filetes,13.25,13.03,2025-11-29 19:45:07
 1050,81055.2,Corvina abierta a la espalda con espinas y con cabeza,13.25,13.03,2025-11-29 19:45:07
 1051,81704,Sepia limpia,5.58,5.42,2025-11-29 19:45:07
+1052,27314,Agua mineral grande Bezoya,4.44,4.14,2025-12-01 07:21:00
+1053,27230,Agua mineral grande Bezoya,0.74,0.69,2025-12-01 07:21:01
+1054,29625,Bebida isotónica limón Aquarius,0.95,0.85,2025-12-01 07:21:11
+1055,29605,Bebida isotónica limón Aquarius,7.12,6.56,2025-12-01 07:21:11
+1056,29624,Bebida isotónica naranja Aquarius,0.95,0.85,2025-12-01 07:21:12
+1057,29604,Bebida isotónica naranja Aquarius,7.12,6.56,2025-12-01 07:21:12
+1058,27913,Bebida energética original Burn,1.25,1.0,2025-12-01 07:21:20
+1059,29365,Bebida energética original Burn,4.6,3.32,2025-12-01 07:21:20
+1060,28181,Refresco Coca-Cola,1.35,1.49,2025-12-01 07:21:25
+1061,9886,Refresco Coca-Cola,2.5,2.9,2025-12-01 07:21:25
+1062,27321,Refresco Coca-Cola,10.8,9.96,2025-12-01 07:21:26
+1063,27426,Refresco Coca-Cola Zero azúcar,10.8,9.96,2025-12-01 07:21:28
+1064,13816,Refresco Coca-Cola Zero azúcar,1.35,1.49,2025-12-01 07:21:29
+1065,9887,Refresco Coca-Cola Zero azúcar,2.5,2.9,2025-12-01 07:21:29
+1066,27184,Refresco Coca-Cola light,8.1,7.47,2025-12-01 07:21:30
+1067,26997,Refresco Coca-Cola Zero Zero,10.8,9.96,2025-12-01 07:21:31
+1068,13817,Refresco Fanta limón,6.93,6.12,2025-12-01 07:21:36
+1069,27602,Refresco Fanta limón,0.8,0.75,2025-12-01 07:21:37
+1070,27608,Refresco Fanta limón zero azúcares añadidos,0.8,0.75,2025-12-01 07:21:37
+1071,8779,Refresco Fanta limón zero azúcares añadidos,6.16,4.8,2025-12-01 07:21:37
+1072,27502,Refresco Fanta naranja,0.8,0.75,2025-12-01 07:21:43
+1073,27571,Refresco Fanta naranja,6.93,6.12,2025-12-01 07:21:43
+1074,27510,Refresco Fanta naranja zero azúcares añadidos,0.8,0.75,2025-12-01 07:21:44
+1075,8778,Refresco Fanta naranja zero azúcares añadidos,6.16,4.8,2025-12-01 07:21:44
+1076,27759,Bebida Florida Sunny Delight,1.65,1.95,2025-12-01 07:21:59
+1077,34606,Nuez natural Hacendado,3.95,3.7,2025-12-01 07:22:28
+1078,33556,Aperitivo de patata sabor crema agria y cebolla Pringles,2.6,1.99,2025-12-01 07:22:41
+1079,33555,Aperitivo de patata sabor original Pringles,2.6,1.99,2025-12-01 07:22:41
+1080,12510,Barritas de barquillo Kit-Kat bañadas de chocolate con leche,2.95,3.75,2025-12-01 07:23:56
+1081,86496,Bombones de chocolate con leche Lindor Lindt,9.95,7.95,2025-12-01 07:24:05
+1082,9280,Papilla verduritas con merluza Hero Solo +6 meses,1.5,1.75,2025-12-01 07:24:34
+1083,9247,Papilla arroz con pollo Hero Solo +6 meses,1.5,1.75,2025-12-01 07:24:35
+1084,9058,Papilla verduritas con pollo y ternera Hero Solo +6 meses,1.5,1.75,2025-12-01 07:24:35
+1085,9246,Papilla verduritas con delicias de pavo Hero Solo natur +6 meses,1.5,1.75,2025-12-01 07:24:36
+1086,9242,Papilla zanahorias baby con ternera Hero Solo +6 meses,1.5,1.75,2025-12-01 07:24:36
+1087,9259,Papilla zanahorias con arroz en caldito de pollo Hero Solo +6 meses,1.5,1.75,2025-12-01 07:24:37
+1088,9407,Leche de continuación en polvo 2 Nativa Nestlé,10.75,11.95,2025-12-01 07:24:46
+1089,27137,Cerveza doble malta Voll-Damm,1.02,0.79,2025-12-01 07:25:10
+1090,28057,Cerveza doble malta Voll-Damm,6.12,4.47,2025-12-01 07:25:10
+1091,66586,Cerveza especial Estrella Galicia,8.7,6.9,2025-12-01 07:25:14
+1092,28731,Ron añejo Negrita,9.3,8.95,2025-12-01 07:25:42
+1093,13216,Cacao soluble instantáneo Nesquik,3.3,3.95,2025-12-01 07:26:24
+1094,11753,Café molido natural Bonka,4.5,4.15,2025-12-01 07:26:41
+1095,11845,Café molido mezcla Marcilla crème express,5.45,4.85,2025-12-01 07:26:43
+1096,11111,Café soluble natural Nescafé classic,5.4,4.7,2025-12-01 07:26:47
+1097,11104,Café soluble descafeinado Nescafé classic,5.4,4.7,2025-12-01 07:26:49
+1098,62322,Cigala cruda mediana Hacendado ultracongelada,9.31,9.38,2025-12-01 07:30:57
+1099,63161,Rabas empanadas Hacendado ultracongeladas,4.25,4.15,2025-12-01 07:31:21
+1100,15545,Churros Hacendado ultracongelados,1.5,1.4,2025-12-01 07:31:30
+1101,7026,Caldo de cocido casero Gallina Blanca,2.2,1.85,2025-12-01 07:32:25
+1102,7024,Caldo de pollo casero Gallina Blanca,2.2,1.85,2025-12-01 07:32:25
+1103,22081,Fumet caldo de pescado Hacendado,3.0,2.85,2025-12-01 07:32:27
+1104,3824,Banana,0.26,0.29,2025-12-01 07:36:58
+1105,3235,Naranja de mesa,0.6,0.57,2025-12-01 07:37:05
+1106,3485,Naranjas,5.75,5.0,2025-12-01 07:37:05
+1107,3277,Naranjas,4.35,4.05,2025-12-01 07:37:05
+1108,3820,Kiwi verde,0.59,0.42,2025-12-01 07:37:06
+1109,3832,Kiwis verdes,4.55,3.37,2025-12-01 07:37:06
+1110,3202,Pomelo,0.83,0.55,2025-12-01 07:37:06
+1111,69935,Tomate negro,0.29,0.32,2025-12-01 07:37:30
+1112,69487,Rama de Tomates,1.5,1.63,2025-12-01 07:37:31
+1113,69220,Coliflor,3.05,2.38,2025-12-01 07:37:36
+1114,69657,Mix de setas intenso,3.92,3.76,2025-12-01 07:37:39
+1115,10531,Leche semidesnatada Asturiana,7.02,6.78,2025-12-01 07:38:06
+1116,10712,Leche semidesnatada Asturiana,1.17,1.13,2025-12-01 07:38:07
+1117,10801,Leche desnatada Asturiana,1.13,1.09,2025-12-01 07:38:13
+1118,10532,Leche desnatada Asturiana,6.78,6.54,2025-12-01 07:38:13
+1119,10530,Leche entera Asturiana,7.74,7.44,2025-12-01 07:38:17
+1120,10617,Leche entera Asturiana,1.29,1.24,2025-12-01 07:38:18
+1121,26138,Alubias con tomate Heinz,1.3,1.5,2025-12-01 07:45:33
