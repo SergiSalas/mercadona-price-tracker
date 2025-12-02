@@ -1185,3 +1185,55 @@ id,product_id,name,old_price,new_price,change_date
 1184,67154,Cerveza tostada Turia,6.72,7.8,2025-12-02 07:24:40
 1185,66587,Cerveza especial Estrella Galicia,7.2,8.04,2025-12-02 07:24:41
 1186,66172,Cerveza Corona,6.96,7.92,2025-12-02 07:24:44
+1187,58246,Salchichón de bellota ibérico La Hacienda del ibérico,11.61,10.8,2025-12-02 19:41:56
+1188,3132,Plátano macho,0.81,0.84,2025-12-02 19:50:34
+1189,3028,Manzana Golden,0.46,0.48,2025-12-02 19:50:35
+1190,3170,Pera Ercolina,0.26,0.23,2025-12-02 19:50:37
+1191,3172,Pera Limonera,0.54,0.57,2025-12-02 19:50:37
+1192,8175,Manzana roja acidulce,0.55,0.58,2025-12-02 19:50:38
+1193,3506,Melón piel de sapo,6.22,6.47,2025-12-02 19:50:38
+1194,3897,Lima,0.33,0.29,2025-12-02 19:50:42
+1195,3076,Piña,3.35,3.57,2025-12-02 19:50:43
+1196,3915,Granada,1.32,1.35,2025-12-02 19:50:47
+1197,69173,Yuca,1.66,1.73,2025-12-02 19:51:03
+1198,60369,Tomate ensalada,0.5,0.53,2025-12-02 19:51:07
+1199,69912,Tomate pera,0.26,0.28,2025-12-02 19:51:08
+1200,69487,Rama de Tomates,1.61,1.68,2025-12-02 19:51:11
+1201,69338,Calabacín verde,0.74,0.72,2025-12-02 19:51:16
+1202,69339,Calabacín blanco,0.81,0.84,2025-12-02 19:51:17
+1203,69312,Pimiento verde,0.81,0.84,2025-12-02 19:51:17
+1204,69220,Coliflor,2.27,1.97,2025-12-02 19:51:19
+1205,69236,Repollo liso,2.74,2.66,2025-12-02 19:51:19
+1206,69580,Brócoli,1.27,1.17,2025-12-02 19:51:29
+1207,69326,Berenjena,0.74,0.7,2025-12-02 19:51:30
+1208,69347,Berenjena rayada,0.77,0.74,2025-12-02 19:51:30
+1209,69623,Alcachofa,0.86,0.82,2025-12-02 19:51:34
+1210,69038,Nabicol,0.99,0.96,2025-12-02 19:51:39
+1211,81649.1,Salmón a rodajas,29.24,29.57,2025-12-02 19:57:49
+1212,81649.4,Salmón media pieza a rodajas,14.89,15.33,2025-12-02 19:57:50
+1213,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.24,29.57,2025-12-02 19:57:51
+1214,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,14.89,15.33,2025-12-02 19:57:51
+1215,81649.6,Salmón media pieza sin aletas y sin escamas,14.89,15.33,2025-12-02 19:57:51
+1216,81649.3,Salmón sin aletas y sin escamas,29.24,29.57,2025-12-02 19:57:51
+1217,81241.1,Lubina limpia con cabeza,5.07,4.97,2025-12-02 19:57:55
+1218,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.07,4.97,2025-12-02 19:57:57
+1219,81241.5,Lubina a filetes sin cabeza y sin espina,5.07,4.97,2025-12-02 19:57:58
+1220,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.07,4.97,2025-12-02 19:57:58
+1221,81241.3,Lubina sin limpiar,5.07,4.97,2025-12-02 19:57:58
+1222,82610.1,Merluza a rodajas,13.14,13.25,2025-12-02 19:57:59
+1223,82610.4,Merluza media pieza a rodajas,7.77,7.56,2025-12-02 19:57:59
+1224,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.14,13.25,2025-12-02 19:58:00
+1225,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.77,7.56,2025-12-02 19:58:00
+1226,82610.6,Merluza media pieza sin aletas y sin escamas,7.77,7.56,2025-12-02 19:58:01
+1227,82610.3,Merluza sin aletas y sin escamas,13.14,13.25,2025-12-02 19:58:01
+1228,81204.3,Bacalao media pieza a rodajas,16.33,16.45,2025-12-02 19:58:02
+1229,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,16.33,16.45,2025-12-02 19:58:03
+1230,81055.1,Corvina limpia con cabeza,12.92,13.25,2025-12-02 19:58:03
+1231,81055.3,Corvina a filetes,12.92,13.25,2025-12-02 19:58:04
+1232,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.92,13.25,2025-12-02 19:58:04
+1233,81704,Sepia limpia,5.74,5.9,2025-12-02 19:58:04
+1234,81200.1,Trucha abierta en libro con cabeza,4.92,4.83,2025-12-02 19:58:10
+1235,81200.2,Trucha abierta en libro sin cabeza y sin espina,4.92,4.83,2025-12-02 19:58:11
+1236,81200.3,Trucha sin aletas,4.92,4.83,2025-12-02 19:58:11
+1237,81225.1,Lenguado sin cabeza y sin piel,3.5,3.77,2025-12-02 19:58:12
+1238,81225.2,Lenguado sin limpiar,3.5,3.77,2025-12-02 19:58:12
