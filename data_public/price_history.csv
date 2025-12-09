@@ -1533,3 +1533,55 @@ id,product_id,name,old_price,new_price,change_date
 1532,68131,Judía verde plana,2.0,1.7,2025-12-09 07:37:51
 1533,69889,Judía verde plana,3.45,2.95,2025-12-09 07:37:51
 1534,69878,Judía verde redonda,3.2,2.8,2025-12-09 07:37:53
+1535,3132,Plátano macho,0.84,0.81,2025-12-09 19:43:38
+1536,3028,Manzana Golden,0.44,0.4,2025-12-09 19:43:39
+1537,3170,Pera Ercolina,0.23,0.26,2025-12-09 19:43:40
+1538,3172,Pera Limonera,0.49,0.51,2025-12-09 19:43:41
+1539,3506,Melón piel de sapo,6.8,6.76,2025-12-09 19:43:42
+1540,3076,Piña,4.23,3.78,2025-12-09 19:43:48
+1541,3050,Mango,1.13,1.1,2025-12-09 19:43:49
+1542,3026,Papaya,3.02,3.07,2025-12-09 19:43:49
+1543,69239,Batata,0.99,0.96,2025-12-09 19:44:04
+1544,69173,Yuca,1.76,1.79,2025-12-09 19:44:04
+1545,69487,Rama de Tomates,1.75,1.7,2025-12-09 19:44:10
+1546,69444,Tomate rosa,1.63,1.94,2025-12-09 19:44:10
+1547,69310,Pimiento rojo,0.92,0.95,2025-12-09 19:44:12
+1548,69220,Coliflor,2.46,2.77,2025-12-09 19:44:15
+1549,69236,Repollo liso,2.45,2.43,2025-12-09 19:44:15
+1550,69580,Brócoli,1.09,1.22,2025-12-09 19:44:22
+1551,69347,Berenjena rayada,0.72,0.77,2025-12-09 19:44:23
+1552,81649.1,Salmón a rodajas,29.35,29.24,2025-12-09 19:48:53
+1553,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.35,29.24,2025-12-09 19:48:54
+1554,81649.4,Salmón media pieza a rodajas,15.77,15.66,2025-12-09 19:48:54
+1555,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,15.77,15.66,2025-12-09 19:48:54
+1556,81649.6,Salmón media pieza sin aletas y sin escamas,15.77,15.66,2025-12-09 19:48:55
+1557,81649.3,Salmón sin aletas y sin escamas,29.35,29.24,2025-12-09 19:48:55
+1558,81234.1,Dorada limpia con cabeza,5.37,5.74,2025-12-09 19:48:56
+1559,81234.5,Dorada a filetes sin cabeza y sin espina,5.37,5.74,2025-12-09 19:48:57
+1560,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.37,5.74,2025-12-09 19:48:57
+1561,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.37,5.74,2025-12-09 19:48:57
+1562,81234.3,Dorada sin limpiar,5.37,5.74,2025-12-09 19:48:58
+1563,81241.1,Lubina limpia con cabeza,4.29,4.39,2025-12-09 19:48:58
+1564,81241.5,Lubina a filetes sin cabeza y sin espina,4.29,4.39,2025-12-09 19:48:59
+1565,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.29,4.39,2025-12-09 19:48:59
+1566,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.29,4.39,2025-12-09 19:48:59
+1567,81241.3,Lubina sin limpiar,4.29,4.39,2025-12-09 19:49:00
+1568,82610.1,Merluza a rodajas,12.37,12.92,2025-12-09 19:49:00
+1569,82610.4,Merluza media pieza a rodajas,8.65,10.95,2025-12-09 19:49:00
+1570,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.37,12.92,2025-12-09 19:49:01
+1571,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.65,10.95,2025-12-09 19:49:01
+1572,82610.6,Merluza media pieza sin aletas y sin escamas,8.65,10.95,2025-12-09 19:49:01
+1573,82610.3,Merluza sin aletas y sin escamas,12.37,12.92,2025-12-09 19:49:01
+1574,81204.1,Bacalao a rodajas,40.02,43.13,2025-12-09 19:49:02
+1575,81204.3,Bacalao media pieza a rodajas,18.63,17.6,2025-12-09 19:49:02
+1576,81204.2,Bacalao abierto en libro sin cabeza y sin espina,40.02,43.13,2025-12-09 19:49:03
+1577,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,18.63,17.6,2025-12-09 19:49:03
+1578,81055.3,Corvina a filetes,15.88,14.78,2025-12-09 19:49:04
+1579,81055.2,Corvina abierta a la espalda con espinas y con cabeza,15.88,14.78,2025-12-09 19:49:04
+1580,81055.1,Corvina limpia con cabeza,15.88,14.78,2025-12-09 19:49:04
+1581,81704,Sepia limpia,8.93,7.34,2025-12-09 19:49:04
+1582,81200.1,Trucha abierta en libro con cabeza,4.65,4.74,2025-12-09 19:49:06
+1583,81225.1,Lenguado sin cabeza y sin piel,4.04,3.77,2025-12-09 19:49:07
+1584,81200.2,Trucha abierta en libro sin cabeza y sin espina,4.65,4.74,2025-12-09 19:49:07
+1585,81200.3,Trucha sin aletas,4.65,4.74,2025-12-09 19:49:07
+1586,81225.2,Lenguado sin limpiar,4.04,3.77,2025-12-09 19:49:08
