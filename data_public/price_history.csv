@@ -1603,3 +1603,58 @@ id,product_id,name,old_price,new_price,change_date
 1602,14443,Bizcocho azúcar sin gluten,2.8,2.9,2025-12-10 07:41:06
 1603,84736,Bizcocho de chocolate sin gluten y sin lactosa,3.1,3.2,2025-12-10 07:41:06
 1604,22388,6 Panecillos integrales 100%,0.99,1.05,2025-12-10 07:41:46
+1605,3132,Plátano macho,0.81,0.78,2025-12-10 19:48:29
+1606,8177,Manzana roja dulce,0.4,0.42,2025-12-10 19:48:32
+1607,3506,Melón piel de sapo,6.76,6.55,2025-12-10 19:48:34
+1608,3210,Limón,0.54,0.51,2025-12-10 19:48:35
+1609,3235,Naranja de mesa,0.57,0.56,2025-12-10 19:48:36
+1610,3820,Kiwi verde,0.39,0.42,2025-12-10 19:48:37
+1611,3202,Pomelo,0.53,0.51,2025-12-10 19:48:37
+1612,3076,Piña,3.78,4.11,2025-12-10 19:48:38
+1613,3050,Mango,1.1,1.13,2025-12-10 19:48:40
+1614,3026,Papaya,3.07,3.12,2025-12-10 19:48:40
+1615,69066,Patata,0.42,0.44,2025-12-10 19:48:52
+1616,69239,Batata,0.96,0.89,2025-12-10 19:48:53
+1617,69173,Yuca,1.79,1.66,2025-12-10 19:48:54
+1618,69968,Tomate canario,0.4,0.38,2025-12-10 19:48:57
+1619,69937,Tomate ensalada,0.52,0.5,2025-12-10 19:48:57
+1620,69487,Rama de Tomates,1.7,1.66,2025-12-10 19:49:00
+1621,69444,Tomate rosa,1.94,1.84,2025-12-10 19:49:00
+1622,69338,Calabacín verde,0.74,0.76,2025-12-10 19:49:03
+1623,69339,Calabacín blanco,0.79,0.81,2025-12-10 19:49:04
+1624,69220,Coliflor,2.77,2.97,2025-12-10 19:49:05
+1625,69236,Repollo liso,2.43,2.45,2025-12-10 19:49:05
+1626,69580,Brócoli,1.22,1.25,2025-12-10 19:49:10
+1627,69347,Berenjena rayada,0.77,0.81,2025-12-10 19:49:11
+1628,69038,Nabicol,0.99,1.02,2025-12-10 19:49:15
+1629,81649.1,Salmón a rodajas,29.24,30.77,2025-12-10 19:53:21
+1630,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.24,30.77,2025-12-10 19:53:21
+1631,81649.4,Salmón media pieza a rodajas,15.66,16.53,2025-12-10 19:53:21
+1632,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,15.66,16.53,2025-12-10 19:53:21
+1633,81649.6,Salmón media pieza sin aletas y sin escamas,15.66,16.53,2025-12-10 19:53:22
+1634,81649.3,Salmón sin aletas y sin escamas,29.24,30.77,2025-12-10 19:53:22
+1635,81234.5,Dorada a filetes sin cabeza y sin espina,5.74,6.01,2025-12-10 19:53:24
+1636,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.74,6.01,2025-12-10 19:53:24
+1637,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.74,6.01,2025-12-10 19:53:24
+1638,81234.1,Dorada limpia con cabeza,5.74,6.01,2025-12-10 19:53:24
+1639,81234.3,Dorada sin limpiar,5.74,6.01,2025-12-10 19:53:25
+1640,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.39,4.49,2025-12-10 19:53:25
+1641,81241.1,Lubina limpia con cabeza,4.39,4.49,2025-12-10 19:53:25
+1642,81241.5,Lubina a filetes sin cabeza y sin espina,4.39,4.49,2025-12-10 19:53:26
+1643,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.39,4.49,2025-12-10 19:53:26
+1644,81241.3,Lubina sin limpiar,4.39,4.49,2025-12-10 19:53:26
+1645,82610.1,Merluza a rodajas,12.92,13.36,2025-12-10 19:53:27
+1646,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.92,13.36,2025-12-10 19:53:27
+1647,82610.4,Merluza media pieza a rodajas,10.95,9.86,2025-12-10 19:53:27
+1648,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,10.95,9.86,2025-12-10 19:53:27
+1649,82610.6,Merluza media pieza sin aletas y sin escamas,10.95,9.86,2025-12-10 19:53:28
+1650,82610.3,Merluza sin aletas y sin escamas,12.92,13.36,2025-12-10 19:53:28
+1651,81204.3,Bacalao media pieza a rodajas,17.6,19.67,2025-12-10 19:53:29
+1652,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.6,19.67,2025-12-10 19:53:29
+1653,81055.3,Corvina a filetes,14.78,13.91,2025-12-10 19:53:30
+1654,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.78,13.91,2025-12-10 19:53:30
+1655,81055.1,Corvina limpia con cabeza,14.78,13.91,2025-12-10 19:53:30
+1656,81704,Sepia limpia,7.34,6.06,2025-12-10 19:53:31
+1657,81200.1,Trucha abierta en libro con cabeza,4.74,4.92,2025-12-10 19:53:32
+1658,81200.2,Trucha abierta en libro sin cabeza y sin espina,4.74,4.92,2025-12-10 19:53:32
+1659,81200.3,Trucha sin aletas,4.74,4.92,2025-12-10 19:53:32
