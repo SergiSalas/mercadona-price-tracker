@@ -1759,3 +1759,58 @@ id,product_id,name,old_price,new_price,change_date
 1758,82610.6,Merluza media pieza sin aletas y sin escamas,9.09,8.26,2025-12-12 07:41:31
 1759,85028,Cocas Cidoncha congeladas,2.41,2.4,2025-12-12 07:44:24
 1760,85827,Cocas de dacsa Susana congeladas,1.89,1.9,2025-12-12 07:44:25
+1761,3819,Plátano de Canarias IGP,0.38,0.41,2025-12-12 19:46:19
+1762,3028,Manzana Golden,0.4,0.44,2025-12-12 19:46:21
+1763,8177,Manzana roja dulce,0.42,0.48,2025-12-12 19:46:22
+1764,3021,Manzana Granny Smith,0.35,0.37,2025-12-12 19:46:23
+1765,3172,Pera Limonera,0.49,0.46,2025-12-12 19:46:23
+1766,3506,Melón piel de sapo,6.53,6.51,2025-12-12 19:46:24
+1767,3210,Limón,0.51,0.48,2025-12-12 19:46:25
+1768,3820,Kiwi verde,0.39,0.42,2025-12-12 19:46:27
+1769,3897,Lima,0.29,0.33,2025-12-12 19:46:27
+1770,3202,Pomelo,0.51,0.53,2025-12-12 19:46:27
+1771,3076,Piña,4.08,4.25,2025-12-12 19:46:28
+1772,3050,Mango,1.13,1.16,2025-12-12 19:46:30
+1773,3915,Granada,1.38,1.32,2025-12-12 19:46:32
+1774,69066,Patata,0.44,0.46,2025-12-12 19:46:41
+1775,69173,Yuca,1.66,1.62,2025-12-12 19:46:43
+1776,69937,Tomate ensalada,0.52,0.5,2025-12-12 19:46:46
+1777,69444,Tomate rosa,1.87,1.8,2025-12-12 19:46:49
+1778,69310,Pimiento rojo,1.01,1.02,2025-12-12 19:46:51
+1779,69312,Pimiento verde,0.81,0.78,2025-12-12 19:46:52
+1780,69220,Coliflor,3.01,3.1,2025-12-12 19:46:53
+1781,69236,Repollo liso,2.41,2.39,2025-12-12 19:46:53
+1782,69580,Brócoli,1.22,1.14,2025-12-12 19:46:58
+1783,69326,Berenjena,0.68,0.66,2025-12-12 19:46:59
+1784,69347,Berenjena rayada,0.81,0.83,2025-12-12 19:46:59
+1785,81649.1,Salmón a rodajas,34.27,36.68,2025-12-12 19:51:01
+1786,81649.4,Salmón media pieza a rodajas,17.08,18.18,2025-12-12 19:51:01
+1787,81649.2,Salmón abierto en libro sin cabeza y sin espina,34.27,36.68,2025-12-12 19:51:02
+1788,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,17.08,18.18,2025-12-12 19:51:02
+1789,81649.6,Salmón media pieza sin aletas y sin escamas,17.08,18.18,2025-12-12 19:51:03
+1790,81649.3,Salmón sin aletas y sin escamas,34.27,36.68,2025-12-12 19:51:03
+1791,81234.1,Dorada limpia con cabeza,6.2,6.11,2025-12-12 19:51:04
+1792,81234.5,Dorada a filetes sin cabeza y sin espina,6.2,6.11,2025-12-12 19:51:05
+1793,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.2,6.11,2025-12-12 19:51:05
+1794,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.2,6.11,2025-12-12 19:51:05
+1795,81234.3,Dorada sin limpiar,6.2,6.11,2025-12-12 19:51:06
+1796,81241.5,Lubina a filetes sin cabeza y sin espina,4.68,4.78,2025-12-12 19:51:07
+1797,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.68,4.78,2025-12-12 19:51:07
+1798,81241.1,Lubina limpia con cabeza,4.68,4.78,2025-12-12 19:51:07
+1799,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.68,4.78,2025-12-12 19:51:08
+1800,81241.3,Lubina sin limpiar,4.68,4.78,2025-12-12 19:51:08
+1801,82610.1,Merluza a rodajas,11.84,11.24,2025-12-12 19:51:09
+1802,82610.2,Merluza abierta en libro sin cabeza y sin espina,11.84,11.24,2025-12-12 19:51:09
+1803,82610.4,Merluza media pieza a rodajas,8.26,7.36,2025-12-12 19:51:09
+1804,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.26,7.36,2025-12-12 19:51:10
+1805,82610.6,Merluza media pieza sin aletas y sin escamas,8.26,7.36,2025-12-12 19:51:10
+1806,82610.3,Merluza sin aletas y sin escamas,11.84,11.24,2025-12-12 19:51:10
+1807,81055.3,Corvina a filetes,12.92,12.48,2025-12-12 19:51:13
+1808,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.92,12.48,2025-12-12 19:51:13
+1809,81055.1,Corvina limpia con cabeza,12.92,12.48,2025-12-12 19:51:13
+1810,81704,Sepia limpia,5.58,5.9,2025-12-12 19:51:13
+1811,81200.1,Trucha abierta en libro con cabeza,5.01,5.64,2025-12-12 19:51:14
+1812,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.01,5.64,2025-12-12 19:51:15
+1813,81200.3,Trucha sin aletas,5.01,5.64,2025-12-12 19:51:15
+1814,81225.1,Lenguado sin cabeza y sin piel,3.77,3.5,2025-12-12 19:51:16
+1815,81225.2,Lenguado sin limpiar,3.77,3.5,2025-12-12 19:51:16
