@@ -1934,3 +1934,52 @@ id,product_id,name,old_price,new_price,change_date
 1933,80781,Ensaladilla americana Hacendado,1.6,1.7,2025-12-15 07:46:32
 1934,80795,Ensaladilla rusa Hacendado,3.0,2.8,2025-12-15 07:46:32
 1935,80794,Tabulé oriental Hacendado,1.6,1.7,2025-12-15 07:46:35
+1936,3819,Plátano de Canarias IGP,0.41,0.38,2025-12-15 19:47:40
+1937,3028,Manzana Golden,0.44,0.4,2025-12-15 19:47:42
+1938,3021,Manzana Granny Smith,0.37,0.4,2025-12-15 19:47:44
+1939,3506,Melón piel de sapo,6.34,6.3,2025-12-15 19:47:45
+1940,3235,Naranja de mesa,0.56,0.57,2025-12-15 19:47:47
+1941,3202,Pomelo,0.53,0.55,2025-12-15 19:47:48
+1942,3820,Kiwi verde,0.46,0.42,2025-12-15 19:47:49
+1943,3076,Piña,4.23,4.27,2025-12-15 19:47:50
+1944,3915,Granada,1.32,1.35,2025-12-15 19:47:55
+1945,69066,Patata,0.48,0.46,2025-12-15 19:48:07
+1946,69173,Yuca,1.76,1.79,2025-12-15 19:48:09
+1947,69937,Tomate ensalada,0.48,0.5,2025-12-15 19:48:12
+1948,69487,Rama de Tomates,1.63,1.68,2025-12-15 19:48:15
+1949,69312,Pimiento verde,0.78,0.81,2025-12-15 19:48:20
+1950,69220,Coliflor,3.1,3.01,2025-12-15 19:48:21
+1951,69236,Repollo liso,2.39,2.38,2025-12-15 19:48:21
+1952,69326,Berenjena,0.66,0.7,2025-12-15 19:48:27
+1953,69347,Berenjena rayada,0.81,0.86,2025-12-15 19:48:27
+1954,69580,Brócoli,1.14,1.09,2025-12-15 19:48:27
+1955,69623,Alcachofa,0.91,0.86,2025-12-15 19:48:29
+1956,69038,Nabicol,1.02,1.05,2025-12-15 19:48:33
+1957,81649.1,Salmón a rodajas,38.0,38.43,2025-12-15 19:52:56
+1958,81649.2,Salmón abierto en libro sin cabeza y sin espina,38.0,38.43,2025-12-15 19:52:56
+1959,81649.4,Salmón media pieza a rodajas,18.83,18.62,2025-12-15 19:52:56
+1960,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,18.83,18.62,2025-12-15 19:52:56
+1961,81649.6,Salmón media pieza sin aletas y sin escamas,18.83,18.62,2025-12-15 19:52:57
+1962,81649.3,Salmón sin aletas y sin escamas,38.0,38.43,2025-12-15 19:52:57
+1963,81234.1,Dorada limpia con cabeza,6.11,6.2,2025-12-15 19:52:58
+1964,81234.5,Dorada a filetes sin cabeza y sin espina,6.11,6.2,2025-12-15 19:52:59
+1965,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.11,6.2,2025-12-15 19:52:59
+1966,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.11,6.2,2025-12-15 19:52:59
+1967,81234.3,Dorada sin limpiar,6.11,6.2,2025-12-15 19:53:00
+1968,81241.1,Lubina limpia con cabeza,4.68,4.88,2025-12-15 19:53:00
+1969,81241.5,Lubina a filetes sin cabeza y sin espina,4.68,4.88,2025-12-15 19:53:01
+1970,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.68,4.88,2025-12-15 19:53:01
+1971,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.68,4.88,2025-12-15 19:53:01
+1972,81241.3,Lubina sin limpiar,4.68,4.88,2025-12-15 19:53:02
+1973,82610.1,Merluza a rodajas,12.26,12.59,2025-12-15 19:53:02
+1974,82610.4,Merluza media pieza a rodajas,7.77,7.88,2025-12-15 19:53:02
+1975,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.26,12.59,2025-12-15 19:53:03
+1976,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.77,7.88,2025-12-15 19:53:03
+1977,82610.3,Merluza sin aletas y sin escamas,12.26,12.59,2025-12-15 19:53:03
+1978,82610.6,Merluza media pieza sin aletas y sin escamas,7.77,7.88,2025-12-15 19:53:04
+1979,81204.3,Bacalao media pieza a rodajas,19.21,17.37,2025-12-15 19:53:05
+1980,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,19.21,17.37,2025-12-15 19:53:05
+1981,81055.3,Corvina a filetes,12.7,13.58,2025-12-15 19:53:06
+1982,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.7,13.58,2025-12-15 19:53:06
+1983,81055.1,Corvina limpia con cabeza,12.7,13.58,2025-12-15 19:53:06
+1984,81704,Sepia limpia,7.62,8.22,2025-12-15 19:53:06
