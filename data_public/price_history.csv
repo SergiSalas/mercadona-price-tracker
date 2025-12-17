@@ -2092,3 +2092,49 @@ id,product_id,name,old_price,new_price,change_date
 2091,52560,Helado vainilla praliné con nueces pecán Hacendado,3.5,3.65,2025-12-17 07:30:05
 2092,52563,Helado capuccino Hacendado,3.25,3.4,2025-12-17 07:30:06
 2093,52561,Helado sabor huevo de chocolate Hacendado,3.75,3.65,2025-12-17 07:30:07
+2094,3028,Manzana Golden,0.42,0.4,2025-12-17 19:47:20
+2095,3235,Naranja de mesa,0.57,0.56,2025-12-17 19:47:25
+2096,3830,Aguacate,0.95,1.01,2025-12-17 19:47:27
+2097,3076,Piña,4.35,4.19,2025-12-17 19:47:28
+2098,3050,Mango,1.25,1.28,2025-12-17 19:47:29
+2099,3026,Papaya,2.97,2.87,2025-12-17 19:47:30
+2100,3915,Granada,1.41,1.53,2025-12-17 19:47:31
+2101,69239,Batata,0.92,0.94,2025-12-17 19:47:43
+2102,69173,Yuca,1.79,1.9,2025-12-17 19:47:44
+2103,69937,Tomate ensalada,0.48,0.5,2025-12-17 19:47:47
+2104,69935,Tomate negro,0.32,0.35,2025-12-17 19:47:49
+2105,69487,Rama de Tomates,1.73,1.8,2025-12-17 19:47:50
+2106,69584,Pepino,0.39,0.37,2025-12-17 19:47:51
+2107,69310,Pimiento rojo,0.93,0.87,2025-12-17 19:47:52
+2108,69339,Calabacín blanco,0.84,0.81,2025-12-17 19:47:53
+2109,69220,Coliflor,2.87,2.77,2025-12-17 19:47:54
+2110,69312,Pimiento verde,0.81,0.84,2025-12-17 19:47:54
+2111,69326,Berenjena,0.66,0.68,2025-12-17 19:48:00
+2112,69347,Berenjena rayada,0.79,0.77,2025-12-17 19:48:01
+2113,81649.1,Salmón a rodajas,38.43,37.12,2025-12-17 19:52:19
+2114,81649.2,Salmón abierto en libro sin cabeza y sin espina,38.43,37.12,2025-12-17 19:52:20
+2115,81649.4,Salmón media pieza a rodajas,18.4,18.07,2025-12-17 19:52:20
+2116,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,18.4,18.07,2025-12-17 19:52:20
+2117,81649.6,Salmón media pieza sin aletas y sin escamas,18.4,18.07,2025-12-17 19:52:21
+2118,81649.3,Salmón sin aletas y sin escamas,38.43,37.12,2025-12-17 19:52:21
+2119,81241.5,Lubina a filetes sin cabeza y sin espina,4.88,4.97,2025-12-17 19:52:25
+2120,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.88,4.97,2025-12-17 19:52:25
+2121,81241.1,Lubina limpia con cabeza,4.88,4.97,2025-12-17 19:52:25
+2122,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.88,4.97,2025-12-17 19:52:26
+2123,81241.3,Lubina sin limpiar,4.88,4.97,2025-12-17 19:52:26
+2124,82610.1,Merluza a rodajas,12.05,12.37,2025-12-17 19:52:27
+2125,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.05,12.37,2025-12-17 19:52:27
+2126,82610.4,Merluza media pieza a rodajas,7.45,7.01,2025-12-17 19:52:27
+2127,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.45,7.01,2025-12-17 19:52:27
+2128,81204.1,Bacalao a rodajas,32.66,37.61,2025-12-17 19:52:28
+2129,82610.6,Merluza media pieza sin aletas y sin escamas,7.45,7.01,2025-12-17 19:52:28
+2130,82610.3,Merluza sin aletas y sin escamas,12.05,12.37,2025-12-17 19:52:28
+2131,81204.2,Bacalao abierto en libro sin cabeza y sin espina,32.66,37.61,2025-12-17 19:52:29
+2132,81204.3,Bacalao media pieza a rodajas,18.29,17.25,2025-12-17 19:52:29
+2133,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,18.29,17.25,2025-12-17 19:52:29
+2134,81704,Sepia limpia,8.97,9.12,2025-12-17 19:52:31
+2135,81200.1,Trucha abierta en libro con cabeza,5.46,4.92,2025-12-17 19:52:32
+2136,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.46,4.92,2025-12-17 19:52:32
+2137,81200.3,Trucha sin aletas,5.46,4.92,2025-12-17 19:52:32
+2138,85717,Rosco de vino y almendra La Muralla,0.15,0.18,2025-12-17 19:53:34
+2139,85745,Cortadillo de cabello de Ángel La Muralla,0.22,0.29,2025-12-17 19:53:38
