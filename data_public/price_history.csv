@@ -2264,3 +2264,38 @@ id,product_id,name,old_price,new_price,change_date
 2263,66447,Cerveza Amstel,9.0,6.6,2025-12-20 07:22:44
 2264,84397,10 Pasteles de boniato 57%,3.9,3.5,2025-12-20 07:39:54
 2265,84815,10 Pasteles de cabello de Ángel 57%,3.9,3.5,2025-12-20 07:39:54
+2266,3172,Pera Limonera,0.51,0.54,2025-12-20 19:42:25
+2267,3076,Piña,3.58,3.47,2025-12-20 19:42:32
+2268,3915,Granada,1.56,1.59,2025-12-20 19:42:36
+2269,69239,Batata,0.94,0.96,2025-12-20 19:42:49
+2270,69937,Tomate ensalada,0.5,0.52,2025-12-20 19:42:54
+2271,69935,Tomate negro,0.35,0.38,2025-12-20 19:42:57
+2272,69487,Rama de Tomates,1.94,1.97,2025-12-20 19:42:58
+2273,69310,Pimiento rojo,0.81,0.78,2025-12-20 19:43:01
+2274,69312,Pimiento verde,0.87,0.9,2025-12-20 19:43:02
+2275,69220,Coliflor,2.6,2.56,2025-12-20 19:43:03
+2276,69326,Berenjena,0.72,0.74,2025-12-20 19:43:09
+2277,69623,Alcachofa,0.86,0.82,2025-12-20 19:43:12
+2278,69038,Nabicol,1.05,0.9,2025-12-20 19:43:15
+2279,81234.1,Dorada limpia con cabeza,6.38,6.66,2025-12-20 19:48:01
+2280,81234.5,Dorada a filetes sin cabeza y sin espina,6.38,6.66,2025-12-20 19:48:02
+2281,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.38,6.66,2025-12-20 19:48:02
+2282,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.38,6.66,2025-12-20 19:48:02
+2283,81234.3,Dorada sin limpiar,6.38,6.66,2025-12-20 19:48:03
+2284,82610.1,Merluza a rodajas,12.48,12.7,2025-12-20 19:48:05
+2285,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.48,12.7,2025-12-20 19:48:06
+2286,82610.4,Merluza media pieza a rodajas,7.23,7.45,2025-12-20 19:48:06
+2287,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.23,7.45,2025-12-20 19:48:06
+2288,82610.6,Merluza media pieza sin aletas y sin escamas,7.23,7.45,2025-12-20 19:48:07
+2289,82610.3,Merluza sin aletas y sin escamas,12.48,12.7,2025-12-20 19:48:07
+2290,81204.1,Bacalao a rodajas,37.61,42.55,2025-12-20 19:48:08
+2291,81204.2,Bacalao abierto en libro sin cabeza y sin espina,37.61,42.55,2025-12-20 19:48:08
+2292,81204.3,Bacalao media pieza a rodajas,17.25,17.48,2025-12-20 19:48:08
+2293,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.25,17.48,2025-12-20 19:48:09
+2294,81055.1,Corvina limpia con cabeza,15.44,14.78,2025-12-20 19:48:09
+2295,81055.3,Corvina a filetes,15.44,14.78,2025-12-20 19:48:10
+2296,81055.2,Corvina abierta a la espalda con espinas y con cabeza,15.44,14.78,2025-12-20 19:48:10
+2297,81704,Sepia limpia,8.82,9.12,2025-12-20 19:48:10
+2298,81200.1,Trucha abierta en libro con cabeza,5.01,5.1,2025-12-20 19:48:12
+2299,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.01,5.1,2025-12-20 19:48:12
+2300,81200.3,Trucha sin aletas,5.01,5.1,2025-12-20 19:48:12
