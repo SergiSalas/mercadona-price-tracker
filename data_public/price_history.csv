@@ -2641,3 +2641,57 @@ id,product_id,name,old_price,new_price,change_date
 2640,21588,Napolitana de chocolate 35%,0.85,0.95,2025-12-29 07:44:36
 2641,84289,Empanada rellena de pollo y setas con crema de queso,3.6,3.65,2025-12-29 07:44:41
 2642,85719,Hojaldrada de crema sin azúcar añadido La Muralla,0.18,0.15,2025-12-29 07:44:58
+2643,8175,Manzana roja acidulce,0.62,0.58,2025-12-29 19:44:39
+2644,3172,Pera Limonera,0.49,0.51,2025-12-29 19:44:39
+2645,3506,Melón piel de sapo,6.17,5.99,2025-12-29 19:44:40
+2646,3897,Lima,0.33,0.29,2025-12-29 19:44:42
+2647,3820,Kiwi verde,0.46,0.39,2025-12-29 19:44:43
+2648,3076,Piña,3.43,3.49,2025-12-29 19:44:44
+2649,3050,Mango,1.46,1.21,2025-12-29 19:44:45
+2650,3026,Papaya,3.17,3.02,2025-12-29 19:44:45
+2651,3915,Granada,1.59,1.56,2025-12-29 19:44:48
+2652,3914,Kaki,0.55,0.53,2025-12-29 19:44:48
+2653,69239,Batata,0.94,0.92,2025-12-29 19:44:59
+2654,69173,Yuca,1.55,1.79,2025-12-29 19:45:00
+2655,69937,Tomate ensalada,0.54,0.52,2025-12-29 19:45:03
+2656,69912,Tomate pera,0.28,0.26,2025-12-29 19:45:03
+2657,69487,Rama de Tomates,2.11,2.23,2025-12-29 19:45:06
+2658,69444,Tomate rosa,1.94,1.9,2025-12-29 19:45:06
+2659,69339,Calabacín blanco,0.88,0.81,2025-12-29 19:45:09
+2660,69338,Calabacín verde,0.68,0.72,2025-12-29 19:45:09
+2661,69320,Pimiento verde freír,0.28,0.25,2025-12-29 19:45:09
+2662,69220,Coliflor,2.62,2.5,2025-12-29 19:45:11
+2663,69236,Repollo liso,2.47,2.32,2025-12-29 19:45:11
+2664,69326,Berenjena,0.7,0.64,2025-12-29 19:45:16
+2665,69347,Berenjena rayada,0.83,0.81,2025-12-29 19:45:16
+2666,69580,Brócoli,1.09,1.12,2025-12-29 19:45:16
+2667,69038,Nabicol,1.02,0.99,2025-12-29 19:45:21
+2668,81649.1,Salmón a rodajas,36.9,37.56,2025-12-29 19:49:20
+2669,81649.2,Salmón abierto en libro sin cabeza y sin espina,36.9,37.56,2025-12-29 19:49:20
+2670,81649.4,Salmón media pieza a rodajas,18.29,18.83,2025-12-29 19:49:20
+2671,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,18.29,18.83,2025-12-29 19:49:21
+2672,81649.6,Salmón media pieza sin aletas y sin escamas,18.29,18.83,2025-12-29 19:49:21
+2673,81649.3,Salmón sin aletas y sin escamas,36.9,37.56,2025-12-29 19:49:21
+2674,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.97,5.17,2025-12-29 19:49:25
+2675,81241.1,Lubina limpia con cabeza,4.97,5.17,2025-12-29 19:49:25
+2676,81241.5,Lubina a filetes sin cabeza y sin espina,4.97,5.17,2025-12-29 19:49:26
+2677,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.97,5.17,2025-12-29 19:49:26
+2678,81241.3,Lubina sin limpiar,4.97,5.17,2025-12-29 19:49:26
+2679,82610.1,Merluza a rodajas,11.64,11.14,2025-12-29 19:49:27
+2680,82610.2,Merluza abierta en libro sin cabeza y sin espina,11.64,11.14,2025-12-29 19:49:27
+2681,82610.4,Merluza media pieza a rodajas,6.37,6.07,2025-12-29 19:49:27
+2682,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,6.37,6.07,2025-12-29 19:49:28
+2683,82610.6,Merluza media pieza sin aletas y sin escamas,6.37,6.07,2025-12-29 19:49:28
+2684,82610.3,Merluza sin aletas y sin escamas,11.64,11.14,2025-12-29 19:49:28
+2685,81055.1,Corvina limpia con cabeza,12.48,12.59,2025-12-29 19:49:30
+2686,81055.3,Corvina a filetes,12.48,12.59,2025-12-29 19:49:31
+2687,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.48,12.59,2025-12-29 19:49:31
+2688,81704,Sepia limpia,7.48,7.62,2025-12-29 19:49:31
+2689,81200.1,Trucha abierta en libro con cabeza,5.01,5.37,2025-12-29 19:49:32
+2690,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.01,5.37,2025-12-29 19:49:33
+2691,81200.3,Trucha sin aletas,5.01,5.37,2025-12-29 19:49:33
+2692,85845,Mantecado de cacao sin gluten La Muralla,0.2,0.17,2025-12-29 19:50:37
+2693,85649,Polvoroncito de chocolate La Muralla,0.18,0.15,2025-12-29 19:50:37
+2694,85745,Cortadillo de cabello de Ángel La Muralla,0.29,0.24,2025-12-29 19:50:38
+2695,85713,Hojaldrada La Muralla,0.15,0.13,2025-12-29 19:50:38
+2696,13710,Codillo de cerdo asado Hacendado,4.67,4.61,2025-12-29 19:52:11
