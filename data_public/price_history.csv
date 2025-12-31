@@ -2770,3 +2770,54 @@ id,product_id,name,old_price,new_price,change_date
 2769,86866,Cerveza especial mini Mahou,4.92,6.12,2025-12-31 07:25:11
 2770,76596,Loción corporal reafirmante Q10 Nivea y vitamina C,6.25,5.95,2025-12-31 07:33:36
 2771,19932,Lote mujer Rose Nude,11.5,10.0,2025-12-31 07:35:42
+2772,3824,Banana,0.29,0.28,2025-12-31 19:45:18
+2773,3119,Pera Conferencia,0.49,0.52,2025-12-31 19:45:20
+2774,3172,Pera Limonera,0.54,0.51,2025-12-31 19:45:22
+2775,3506,Melón piel de sapo,5.99,6.34,2025-12-31 19:45:23
+2776,3210,Limón,0.54,0.51,2025-12-31 19:45:24
+2777,3076,Piña,3.51,3.71,2025-12-31 19:45:28
+2778,3026,Papaya,2.77,2.62,2025-12-31 19:45:30
+2779,3915,Granada,1.53,1.44,2025-12-31 19:45:33
+2780,69239,Batata,0.92,0.94,2025-12-31 19:45:45
+2781,69173,Yuca,1.76,1.79,2025-12-31 19:45:46
+2782,69937,Tomate ensalada,0.54,0.52,2025-12-31 19:45:49
+2783,69912,Tomate pera,0.26,0.28,2025-12-31 19:45:49
+2784,69487,Rama de Tomates,2.09,2.04,2025-12-31 19:45:52
+2785,69444,Tomate rosa,1.84,1.9,2025-12-31 19:45:53
+2786,69338,Calabacín verde,0.72,0.74,2025-12-31 19:45:55
+2787,69310,Pimiento rojo,0.75,0.78,2025-12-31 19:45:55
+2788,69312,Pimiento verde,0.87,0.84,2025-12-31 19:45:56
+2789,69220,Coliflor,2.54,2.62,2025-12-31 19:45:57
+2790,69236,Repollo liso,2.18,2.09,2025-12-31 19:45:58
+2791,69038,Nabicol,0.84,0.78,2025-12-31 19:46:09
+2792,81649.1,Salmón a rodajas,38.76,34.38,2025-12-31 19:50:36
+2793,81649.2,Salmón abierto en libro sin cabeza y sin espina,38.76,34.38,2025-12-31 19:50:36
+2794,81649.4,Salmón media pieza a rodajas,17.85,16.75,2025-12-31 19:50:36
+2795,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,17.85,16.75,2025-12-31 19:50:37
+2796,81649.6,Salmón media pieza sin aletas y sin escamas,17.85,16.75,2025-12-31 19:50:37
+2797,81649.3,Salmón sin aletas y sin escamas,38.76,34.38,2025-12-31 19:50:37
+2798,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.2,6.29,2025-12-31 19:50:39
+2799,81234.1,Dorada limpia con cabeza,6.2,6.29,2025-12-31 19:50:39
+2800,81234.5,Dorada a filetes sin cabeza y sin espina,6.2,6.29,2025-12-31 19:50:40
+2801,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.2,6.29,2025-12-31 19:50:40
+2802,81234.3,Dorada sin limpiar,6.2,6.29,2025-12-31 19:50:40
+2803,81241.5,Lubina a filetes sin cabeza y sin espina,4.88,4.58,2025-12-31 19:50:41
+2804,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.88,4.58,2025-12-31 19:50:41
+2805,81241.1,Lubina limpia con cabeza,4.88,4.58,2025-12-31 19:50:41
+2806,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.88,4.58,2025-12-31 19:50:42
+2807,81241.3,Lubina sin limpiar,4.88,4.58,2025-12-31 19:50:42
+2808,82610.1,Merluza a rodajas,11.14,11.24,2025-12-31 19:50:43
+2809,82610.2,Merluza abierta en libro sin cabeza y sin espina,11.14,11.24,2025-12-31 19:50:43
+2810,82610.4,Merluza media pieza a rodajas,5.97,6.27,2025-12-31 19:50:43
+2811,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,5.97,6.27,2025-12-31 19:50:44
+2812,82610.3,Merluza sin aletas y sin escamas,11.14,11.24,2025-12-31 19:50:44
+2813,82610.6,Merluza media pieza sin aletas y sin escamas,5.97,6.27,2025-12-31 19:50:45
+2814,81204.3,Bacalao media pieza a rodajas,23.23,23.46,2025-12-31 19:50:46
+2815,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,23.23,23.46,2025-12-31 19:50:46
+2816,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.48,11.61,2025-12-31 19:50:47
+2817,81055.1,Corvina limpia con cabeza,12.48,11.61,2025-12-31 19:50:47
+2818,81055.3,Corvina a filetes,12.48,11.61,2025-12-31 19:50:48
+2819,81704,Sepia limpia,8.97,9.42,2025-12-31 19:50:48
+2820,81200.1,Trucha abierta en libro con cabeza,6.44,6.89,2025-12-31 19:50:49
+2821,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.44,6.89,2025-12-31 19:50:50
+2822,81200.3,Trucha sin aletas,6.44,6.89,2025-12-31 19:50:50
