@@ -3105,3 +3105,64 @@ id,product_id,name,old_price,new_price,change_date
 3104,81200.1,Trucha abierta en libro con cabeza,7.88,6.44,2026-01-06 19:53:58
 3105,81200.2,Trucha abierta en libro sin cabeza y sin espina,7.88,6.44,2026-01-06 19:53:59
 3106,81200.3,Trucha sin aletas,7.88,6.44,2026-01-06 19:53:59
+3107,35840,Mayonesa Hellmann's,2.65,2.95,2026-01-07 07:21:09
+3108,35839,Salsa Original Ligeresa,2.0,2.35,2026-01-07 07:21:09
+3109,27348,Refresco Coca-Cola,3.72,4.1,2026-01-07 07:22:04
+3110,27342,Refresco Coca-Cola,2.1,2.15,2026-01-07 07:22:05
+3111,27445,Refresco Coca-Cola Zero azúcar,2.1,2.15,2026-01-07 07:22:09
+3112,27449,Refresco Coca-Cola Zero azúcar,3.72,4.1,2026-01-07 07:22:09
+3113,28180,Refresco Coca-Cola Zero Zero,3.72,4.1,2026-01-07 07:22:13
+3114,27462,Refresco Coca-Cola Zero Zero,2.1,2.15,2026-01-07 07:22:14
+3115,9040,Preparado lácteo crecimiento Peques 3 Puleva,1.99,1.89,2026-01-07 07:25:44
+3116,9049,Preparado lácteo crecimiento Peques 3 Puleva,11.94,11.34,2026-01-07 07:25:44
+3117,9034,Preparado lácteo con cereales crecimiento Peques 3 Puleva,1.99,1.89,2026-01-07 07:25:45
+3118,9057,Preparado lácteo con cereales crecimiento Peques 3 Puleva,11.94,11.34,2026-01-07 07:25:45
+3119,20321,Preparado lácteo con cereales y frutas Peques 3 Puleva,2.0,1.89,2026-01-07 07:25:47
+3120,60980,Cerveza tostada Turia,0.84,0.89,2026-01-07 07:26:13
+3121,60600,Cerveza tostada Turia,8.28,10.08,2026-01-07 07:26:13
+3122,15859,Cerveza Amstel,0.52,0.53,2026-01-07 07:26:17
+3123,66413,Cerveza Amstel,5.4,6.36,2026-01-07 07:26:17
+3124,28400,Vermouth blanco Martini,9.5,11.9,2026-01-07 07:26:35
+3125,28401,Vermouth rojo Martini,9.5,11.9,2026-01-07 07:26:35
+3126,28712,Ginebra London Dry Gin Beefeater,12.95,13.25,2026-01-07 07:26:36
+3127,28715,Ginebra London Dry Gin Larios,10.95,12.45,2026-01-07 07:26:36
+3128,28032,Ginebra Dry Gin Seagram's,15.45,14.5,2026-01-07 07:26:37
+3129,14265,Ginebra London Dry Gin Glivery,5.9,6.25,2026-01-07 07:26:39
+3130,14452,Bebida espirituosa centenario Terry,6.95,6.65,2026-01-07 07:26:40
+3131,28999,Bebida zumo de manzana El Lagar sin alcohol,1.9,2.4,2026-01-07 07:26:52
+3132,28969,Cava brut Anna Codorníu,8.0,9.15,2026-01-07 07:26:54
+3133,28908,Cava brut nature Jaume Serra,3.75,3.95,2026-01-07 07:26:54
+3134,28005,Cava brut Freixenet,6.5,7.45,2026-01-07 07:26:55
+3135,28939,Cava semi seco Cabré & Sabaté,2.9,3.2,2026-01-07 07:26:55
+3136,28006,Cava semi seco Freixenet,6.5,7.45,2026-01-07 07:26:56
+3137,67125,Vino blanco albariño DO Rías Baixas Pazo de Orantes,5.7,6.0,2026-01-07 07:27:01
+3138,14394,Vino blanco espumoso sabor melón Piccolo Giovanni frizzante,2.2,2.5,2026-01-07 07:27:08
+3139,66320,Vino tinto DO Rioja El Coto crianza,5.95,6.35,2026-01-07 07:27:12
+3140,66346,Vino tinto DO Rioja Coto de Imaz reserva,7.95,8.65,2026-01-07 07:27:14
+3141,37134,Vino tinto DO Valdepeñas Viña Albali crianza,2.7,3.0,2026-01-07 07:27:15
+3142,12017,Cacao en polvo a la taza Valor,3.6,4.1,2026-01-07 07:27:24
+3143,10005,Chocolate líquido a la taza Hacendado,2.25,2.45,2026-01-07 07:27:25
+3144,11931,Café en cápsula espresso intenso Dolce Gusto,4.25,4.95,2026-01-07 07:27:28
+3145,11869,Café en cápsula descafeinado espresso intenso Dolce Gusto,4.25,4.95,2026-01-07 07:27:29
+3146,11801,Café con leche en cápsula Dolce Gusto,4.25,4.95,2026-01-07 07:27:30
+3147,11918,Café en cápsula ristretto napoli Dolce Gusto,4.25,4.95,2026-01-07 07:27:30
+3148,11785,Café en cápsula cortado Dolce Gusto,4.25,4.95,2026-01-07 07:27:31
+3149,14713,Barritas de avena Crunchy Nature Valley con chocolate negro,2.6,1.95,2026-01-07 07:29:27
+3150,24260,Gambón grande congelado,21.0,23.0,2026-01-07 07:32:07
+3151,24181,Gamba pelada cruda tamaño mediano Hacendado ultracongelada,4.95,5.0,2026-01-07 07:32:09
+3152,24230,Gamba pelada cruda tamaño grande Hacendado ultracongelada,5.95,6.35,2026-01-07 07:32:10
+3153,15545,Churros Hacendado ultracongelados,1.4,1.5,2026-01-07 07:32:46
+3154,3819,Plátano de Canarias IGP,0.41,0.36,2026-01-07 07:38:08
+3155,3028,Manzana Golden,0.4,0.44,2026-01-07 07:38:10
+3156,3269,Manzanas Golden,2.7,3.0,2026-01-07 07:38:10
+3157,8177,Manzana roja dulce,0.48,0.62,2026-01-07 07:38:11
+3158,3119,Pera Conferencia,0.55,0.51,2026-01-07 07:38:11
+3159,14470,Peras Conferencia,2.46,2.3,2026-01-07 07:38:11
+3160,3021,Manzana Granny Smith,0.37,0.41,2026-01-07 07:38:12
+3161,69099,Patatas,5.0,6.15,2026-01-07 07:38:38
+3162,69580,Brócoli,1.14,0.88,2026-01-07 07:39:00
+3163,69623,Alcachofa,0.79,0.63,2026-01-07 07:39:02
+3164,10146,Bebida láctea Omega 3 Puleva con leche desnatada,11.34,10.5,2026-01-07 07:39:29
+3165,10884,Bebida láctea Omega 3 Puleva con leche desnatada,1.89,1.75,2026-01-07 07:39:30
+3166,87292,Langostino cocido,6.3,6.6,2026-01-07 07:43:33
+3167,62502,Palitos de surimi Hacendado,1.9,2.0,2026-01-07 07:43:37
