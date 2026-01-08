@@ -3224,3 +3224,48 @@ id,product_id,name,old_price,new_price,change_date
 3223,81200.1,Trucha abierta en libro con cabeza,6.44,5.46,2026-01-07 19:50:44
 3224,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.44,5.46,2026-01-07 19:50:45
 3225,81200.3,Trucha sin aletas,6.44,5.46,2026-01-07 19:50:45
+3226,28119,Bebida energética Energy Ultra zero Monster,1.45,1.79,2026-01-08 07:21:14
+3227,28670,Bebida energética Energy Ultra zero Monster,5.36,6.68,2026-01-08 07:21:14
+3228,28664,Bebida energética energy Monster,5.36,6.68,2026-01-08 07:21:14
+3229,28016,Bebida energética Energy Monster,1.45,1.79,2026-01-08 07:21:15
+3230,13815,Bebida energética Mango Loco Monster,5.36,6.68,2026-01-08 07:21:17
+3231,13814,Bebida energética Mango Loco Monster,1.45,1.79,2026-01-08 07:21:18
+3232,27326,Refresco Coca-Cola,0.92,0.95,2026-01-08 07:21:22
+3233,27321,Refresco Coca-Cola,10.8,11.16,2026-01-08 07:21:22
+3234,27414,Refresco Coca-Cola Zero azúcar,0.92,0.95,2026-01-08 07:21:23
+3235,27426,Refresco Coca-Cola Zero azúcar,10.8,11.16,2026-01-08 07:21:23
+3236,26997,Refresco Coca-Cola Zero Zero,10.8,11.16,2026-01-08 07:21:25
+3237,27406,Refresco Coca-Cola light,0.92,0.95,2026-01-08 07:21:25
+3238,27184,Refresco Coca-Cola light,8.1,8.37,2026-01-08 07:21:25
+3239,27559,Refresco Coca-Cola Zero Zero,0.92,0.95,2026-01-08 07:21:26
+3240,27610,Refresco Fanta limón,1.65,1.85,2026-01-08 07:21:30
+3241,27845,Refresco lima limón Sprite,0.55,0.65,2026-01-08 07:21:34
+3242,28176,Refresco lima limón Sprite,4.0,4.88,2026-01-08 07:21:34
+3243,27526,Refresco Fanta naranja,3.0,3.6,2026-01-08 07:21:35
+3244,27545,Refresco Fanta naranja zero azúcares añadidos,1.65,1.85,2026-01-08 07:21:36
+3245,11688,Refresco té sabor limón Fuze Tea,1.49,1.99,2026-01-08 07:21:45
+3246,27965,Limonada natural Don Simón light sin gas,1.15,1.4,2026-01-08 07:21:46
+3247,8953,Aperitivo de patata con sabor a nata agria y cebolla,1.85,1.75,2026-01-08 07:22:22
+3248,12094,Disquitos Pintarolas de chocolate con leche coloreados,2.15,2.0,2026-01-08 07:23:15
+3249,11553,Pañales bebé talla 1 de 2-5 kg Dodot,20.95,16.95,2026-01-08 07:23:53
+3250,47287,Pañales bebé talla 2 de 4-8 kg Dodot,20.95,16.95,2026-01-08 07:23:54
+3251,52879,Pañales bebé talla 3 de 6-10 kg Dodot,20.95,16.95,2026-01-08 07:23:54
+3252,50478,Queso tierno gouda de vaca Hacendado,3.6,3.55,2026-01-08 07:28:12
+3253,50654,Queso lonchas gouda de vaca Hacendado,2.45,2.35,2026-01-08 07:28:14
+3254,51232,Queso en porciones light Hacendado,1.65,1.6,2026-01-08 07:28:19
+3255,51197,Queso feta mezcla Hacendado en dados,2.4,2.5,2026-01-08 07:28:24
+3256,50021,Queso rulo de cabra Hacendado,2.35,2.45,2026-01-08 07:28:29
+3257,19862,Queso de cabra Montesinos,2.35,2.4,2026-01-08 07:28:32
+3258,70711,Tarta helada nata y chocolate Hacendado,2.0,2.1,2026-01-08 07:28:56
+3259,73006,Maquinillas de afeitar desechables Gillette Blue Plus 2 hojas,3.4,3.05,2026-01-08 07:31:19
+3260,46028,Desodorante roll-on Dermo extra control Sanex antitranspirante,2.35,1.95,2026-01-08 07:31:58
+3261,46156,Desodorante roll-on Dermo Sensitive Sanex antitranspirante,2.35,1.95,2026-01-08 07:31:59
+3262,45078,Desodorante roll-on Active control Sanex men antitranspirante,2.35,1.95,2026-01-08 07:32:00
+3263,47252,Desodorante roll-on Zero Sanex,2.35,1.95,2026-01-08 07:32:01
+3264,22125,Desodorante invisible Black & White Nivea,2.95,2.5,2026-01-08 07:32:04
+3265,22124,Desodorante invisible Black & White Nivea Men antitranspirante,2.95,2.5,2026-01-08 07:32:05
+3266,47554,Protegeslip Cotton flexiform Carefree regular + tanga,1.95,1.7,2026-01-08 07:32:42
+3267,10282,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,1.95,1.75,2026-01-08 07:34:35
+3268,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,11.7,10.5,2026-01-08 07:34:35
+3269,16830,Detergente ropa Ariel líquido,5.95,7.95,2026-01-08 07:35:03
+3270,86379,Lavavajillas frescor anti-olor Somat en gel duo,4.55,4.95,2026-01-08 07:36:06
