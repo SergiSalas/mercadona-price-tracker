@@ -3269,3 +3269,54 @@ id,product_id,name,old_price,new_price,change_date
 3268,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,11.7,10.5,2026-01-08 07:34:35
 3269,16830,Detergente ropa Ariel líquido,5.95,7.95,2026-01-08 07:35:03
 3270,86379,Lavavajillas frescor anti-olor Somat en gel duo,4.55,4.95,2026-01-08 07:36:06
+3271,3132,Plátano macho,0.78,0.81,2026-01-08 19:41:12
+3272,3210,Limón,0.54,0.51,2026-01-08 19:41:16
+3273,3238,Mandarina,0.35,0.33,2026-01-08 19:41:16
+3274,3506,Melón piel de sapo,6.2,6.17,2026-01-08 19:41:16
+3275,3820,Kiwi verde,0.36,0.39,2026-01-08 19:41:18
+3276,3897,Lima,0.33,0.29,2026-01-08 19:41:18
+3277,3076,Piña,4.02,3.92,2026-01-08 19:41:19
+3278,3026,Papaya,3.17,2.97,2026-01-08 19:41:21
+3279,69173,Yuca,2.04,1.9,2026-01-08 19:41:33
+3280,69912,Tomate pera,0.32,0.3,2026-01-08 19:41:36
+3281,69487,Rama de Tomates,2.14,2.02,2026-01-08 19:41:38
+3282,69935,Tomate negro,0.41,0.38,2026-01-08 19:41:38
+3283,69444,Tomate rosa,1.9,1.94,2026-01-08 19:41:38
+3284,69584,Pepino,0.33,0.31,2026-01-08 19:41:39
+3285,69338,Calabacín verde,0.7,0.72,2026-01-08 19:41:41
+3286,69310,Pimiento rojo,0.75,0.78,2026-01-08 19:41:41
+3287,69220,Coliflor,2.17,2.36,2026-01-08 19:41:42
+3288,69312,Pimiento verde,0.76,0.78,2026-01-08 19:41:42
+3289,69236,Repollo liso,2.11,2.14,2026-01-08 19:41:43
+3290,69580,Brócoli,0.92,0.98,2026-01-08 19:41:47
+3291,69038,Nabicol,0.99,1.09,2026-01-08 19:41:52
+3292,81649.1,Salmón a rodajas,38.0,40.3,2026-01-08 19:45:26
+3293,81649.4,Salmón media pieza a rodajas,19.71,19.27,2026-01-08 19:45:26
+3294,81649.2,Salmón abierto en libro sin cabeza y sin espina,38.0,40.3,2026-01-08 19:45:27
+3295,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,19.71,19.27,2026-01-08 19:45:27
+3296,81649.6,Salmón media pieza sin aletas y sin escamas,19.71,19.27,2026-01-08 19:45:27
+3297,81649.3,Salmón sin aletas y sin escamas,38.0,40.3,2026-01-08 19:45:27
+3298,81234.5,Dorada a filetes sin cabeza y sin espina,6.29,6.2,2026-01-08 19:45:29
+3299,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.29,6.2,2026-01-08 19:45:29
+3300,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.29,6.2,2026-01-08 19:45:29
+3301,81234.1,Dorada limpia con cabeza,6.29,6.2,2026-01-08 19:45:29
+3302,81234.3,Dorada sin limpiar,6.29,6.2,2026-01-08 19:45:30
+3303,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.56,6.14,2026-01-08 19:45:30
+3304,81241.1,Lubina limpia con cabeza,5.56,6.14,2026-01-08 19:45:30
+3305,81241.5,Lubina a filetes sin cabeza y sin espina,5.56,6.14,2026-01-08 19:45:31
+3306,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.56,6.14,2026-01-08 19:45:31
+3307,81241.3,Lubina sin limpiar,5.56,6.14,2026-01-08 19:45:31
+3308,82610.1,Merluza a rodajas,16.32,16.75,2026-01-08 19:45:32
+3309,82610.2,Merluza abierta en libro sin cabeza y sin espina,16.32,16.75,2026-01-08 19:45:32
+3310,82610.3,Merluza sin aletas y sin escamas,16.32,16.75,2026-01-08 19:45:33
+3311,81204.1,Bacalao a rodajas,42.32,37.15,2026-01-08 19:45:34
+3312,81204.2,Bacalao abierto en libro sin cabeza y sin espina,42.32,37.15,2026-01-08 19:45:34
+3313,81204.3,Bacalao media pieza a rodajas,16.22,14.49,2026-01-08 19:45:34
+3314,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,16.22,14.49,2026-01-08 19:45:34
+3315,81055.2,Corvina abierta a la espalda con espinas y con cabeza,11.06,11.72,2026-01-08 19:45:35
+3316,81055.1,Corvina limpia con cabeza,11.06,11.72,2026-01-08 19:45:35
+3317,81055.3,Corvina a filetes,11.06,11.72,2026-01-08 19:45:36
+3318,81704,Sepia limpia,9.89,10.21,2026-01-08 19:45:36
+3319,81200.1,Trucha abierta en libro con cabeza,5.46,5.37,2026-01-08 19:45:37
+3320,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.46,5.37,2026-01-08 19:45:37
+3321,81200.3,Trucha sin aletas,5.46,5.37,2026-01-08 19:45:37
