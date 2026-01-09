@@ -3341,3 +3341,61 @@ id,product_id,name,old_price,new_price,change_date
 3340,35327,Laca cabello Ultra Fuerte Pantene fijación 5,2.95,4.25,2026-01-09 07:33:26
 3341,8900,Maquinilla de afeitar recargable Deliplus Flection System 6 hojas,6.95,6.0,2026-01-09 07:33:49
 3342,8901,Recambios maquinilla de afeitar Deliplus Flection System 6 hojas,7.95,7.0,2026-01-09 07:33:51
+3343,58489,Salchichón de bellota ibérico cortado a máquina,3.33,4.07,2026-01-09 19:40:23
+3344,58267,Salchichón de cebo ibérico cortado a máquina,2.61,3.19,2026-01-09 19:40:23
+3345,58265,Chorizo de cebo ibérico cortado a máquina,2.61,3.19,2026-01-09 19:40:30
+3346,58388,Chorizo de bellota ibérico cular cortado a máquina,3.33,4.07,2026-01-09 19:40:31
+3347,58261,Lomo de cebo ibérico cortado a máquina,4.95,6.05,2026-01-09 19:40:34
+3348,22879,Jamón cebo ibérico cortado a máquina,9.54,10.07,2026-01-09 19:40:38
+3349,15700,Jamón serrano cortado a máquina,4.5,4.75,2026-01-09 19:40:38
+3350,3819,Plátano de Canarias IGP,0.36,0.34,2026-01-09 19:47:41
+3351,3238,Mandarina,0.33,0.31,2026-01-09 19:47:47
+3352,3050,Mango,1.21,1.24,2026-01-09 19:47:53
+3353,3026,Papaya,2.97,2.67,2026-01-09 19:47:53
+3354,69173,Yuca,1.9,2.0,2026-01-09 19:48:08
+3355,69968,Tomate canario,0.48,0.5,2026-01-09 19:48:11
+3356,69912,Tomate pera,0.3,0.28,2026-01-09 19:48:12
+3357,69935,Tomate negro,0.38,0.41,2026-01-09 19:48:14
+3358,69487,Rama de Tomates,2.02,1.94,2026-01-09 19:48:15
+3359,69444,Tomate rosa,1.94,1.9,2026-01-09 19:48:15
+3360,69584,Pepino,0.31,0.33,2026-01-09 19:48:17
+3361,69339,Calabacín blanco,0.73,0.7,2026-01-09 19:48:19
+3362,69338,Calabacín verde,0.72,0.7,2026-01-09 19:48:19
+3363,69320,Pimiento verde freír,0.28,0.25,2026-01-09 19:48:19
+3364,69312,Pimiento verde,0.78,0.87,2026-01-09 19:48:20
+3365,69220,Coliflor,2.36,2.64,2026-01-09 19:48:21
+3366,69236,Repollo liso,2.14,2.23,2026-01-09 19:48:21
+3367,69580,Brócoli,0.98,1.0,2026-01-09 19:48:27
+3368,81649.1,Salmón a rodajas,40.3,36.79,2026-01-09 19:53:16
+3369,81649.2,Salmón abierto en libro sin cabeza y sin espina,40.3,36.79,2026-01-09 19:53:17
+3370,81649.4,Salmón media pieza a rodajas,19.27,18.62,2026-01-09 19:53:17
+3371,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,19.27,18.62,2026-01-09 19:53:17
+3372,81649.6,Salmón media pieza sin aletas y sin escamas,19.27,18.62,2026-01-09 19:53:18
+3373,81649.3,Salmón sin aletas y sin escamas,40.3,36.79,2026-01-09 19:53:18
+3374,81234.1,Dorada limpia con cabeza,6.2,6.11,2026-01-09 19:53:19
+3375,81234.5,Dorada a filetes sin cabeza y sin espina,6.2,6.11,2026-01-09 19:53:20
+3376,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.2,6.11,2026-01-09 19:53:20
+3377,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.2,6.11,2026-01-09 19:53:20
+3378,81234.3,Dorada sin limpiar,6.2,6.11,2026-01-09 19:53:21
+3379,81241.1,Lubina limpia con cabeza,6.14,6.05,2026-01-09 19:53:21
+3380,81241.5,Lubina a filetes sin cabeza y sin espina,6.14,6.05,2026-01-09 19:53:22
+3381,81241.2,Lubina abierta a la espalda con espinas y con cabeza,6.14,6.05,2026-01-09 19:53:22
+3382,81241.4,Lubina abierta en libro sin cabeza y sin espina,6.14,6.05,2026-01-09 19:53:22
+3383,81241.3,Lubina sin limpiar,6.14,6.05,2026-01-09 19:53:23
+3384,82610.1,Merluza a rodajas,16.75,15.55,2026-01-09 19:53:23
+3385,82610.2,Merluza abierta en libro sin cabeza y sin espina,16.75,15.55,2026-01-09 19:53:24
+3386,82610.4,Merluza media pieza a rodajas,9.42,9.2,2026-01-09 19:53:24
+3387,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,9.42,9.2,2026-01-09 19:53:24
+3388,82610.6,Merluza media pieza sin aletas y sin escamas,9.42,9.2,2026-01-09 19:53:25
+3389,82610.3,Merluza sin aletas y sin escamas,16.75,15.55,2026-01-09 19:53:25
+3390,81204.1,Bacalao a rodajas,37.15,40.6,2026-01-09 19:53:26
+3391,81204.2,Bacalao abierto en libro sin cabeza y sin espina,37.15,40.6,2026-01-09 19:53:26
+3392,81204.3,Bacalao media pieza a rodajas,14.49,16.33,2026-01-09 19:53:26
+3393,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,14.49,16.33,2026-01-09 19:53:27
+3394,81055.1,Corvina limpia con cabeza,11.72,12.05,2026-01-09 19:53:27
+3395,81055.3,Corvina a filetes,11.72,12.05,2026-01-09 19:53:28
+3396,81055.2,Corvina abierta a la espalda con espinas y con cabeza,11.72,12.05,2026-01-09 19:53:28
+3397,81704,Sepia limpia,10.21,10.37,2026-01-09 19:53:28
+3398,81200.1,Trucha abierta en libro con cabeza,5.37,5.01,2026-01-09 19:53:29
+3399,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.37,5.01,2026-01-09 19:53:30
+3400,81200.3,Trucha sin aletas,5.37,5.01,2026-01-09 19:53:30
