@@ -3478,3 +3478,54 @@ id,product_id,name,old_price,new_price,change_date
 3477,69326,Berenjena,0.62,0.8,2026-01-12 07:40:28
 3478,69347,Berenjena rayada,0.74,0.76,2026-01-12 07:40:28
 3479,62503,Delicias del mar de surimi Hacendado,1.9,2.0,2026-01-12 07:45:02
+3480,3132,Plátano macho,0.81,0.84,2026-01-12 19:48:34
+3481,8177,Manzana roja dulce,0.73,0.7,2026-01-12 19:48:37
+3482,3506,Melón piel de sapo,6.15,6.11,2026-01-12 19:48:39
+3483,3830,Aguacate,0.94,0.99,2026-01-12 19:48:43
+3484,3076,Piña,4.04,3.78,2026-01-12 19:48:44
+3485,3026,Papaya,2.57,2.43,2026-01-12 19:48:47
+3486,69239,Batata,0.89,0.92,2026-01-12 19:49:03
+3487,69968,Tomate canario,0.48,0.46,2026-01-12 19:49:07
+3488,69937,Tomate ensalada,0.54,0.52,2026-01-12 19:49:07
+3489,69935,Tomate negro,0.41,0.32,2026-01-12 19:49:10
+3490,69487,Rama de Tomates,1.87,1.85,2026-01-12 19:49:11
+3491,69444,Tomate rosa,1.87,2.01,2026-01-12 19:49:11
+3492,69312,Pimiento verde,0.9,0.92,2026-01-12 19:49:15
+3493,69220,Coliflor,2.95,2.99,2026-01-12 19:49:16
+3494,69236,Repollo liso,2.34,2.54,2026-01-12 19:49:16
+3495,69326,Berenjena,0.8,0.78,2026-01-12 19:49:22
+3496,69580,Brócoli,1.33,1.35,2026-01-12 19:49:22
+3497,69347,Berenjena rayada,0.76,0.71,2026-01-12 19:49:23
+3498,69623,Alcachofa,0.63,0.6,2026-01-12 19:49:25
+3499,69038,Nabicol,1.05,1.02,2026-01-12 19:49:28
+3500,81649.1,Salmón a rodajas,36.46,35.04,2026-01-12 19:54:03
+3501,81649.2,Salmón abierto en libro sin cabeza y sin espina,36.46,35.04,2026-01-12 19:54:03
+3502,81649.4,Salmón media pieza a rodajas,18.18,17.63,2026-01-12 19:54:03
+3503,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,18.18,17.63,2026-01-12 19:54:04
+3504,81649.6,Salmón media pieza sin aletas y sin escamas,18.18,17.63,2026-01-12 19:54:04
+3505,81649.3,Salmón sin aletas y sin escamas,36.46,35.04,2026-01-12 19:54:04
+3506,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.64,5.27,2026-01-12 19:54:06
+3507,81234.1,Dorada limpia con cabeza,5.64,5.27,2026-01-12 19:54:06
+3508,81234.5,Dorada a filetes sin cabeza y sin espina,5.64,5.27,2026-01-12 19:54:07
+3509,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.64,5.27,2026-01-12 19:54:07
+3510,81234.3,Dorada sin limpiar,5.64,5.27,2026-01-12 19:54:07
+3511,81241.2,Lubina abierta a la espalda con espinas y con cabeza,6.05,6.24,2026-01-12 19:54:08
+3512,81241.1,Lubina limpia con cabeza,6.05,6.24,2026-01-12 19:54:08
+3513,81241.5,Lubina a filetes sin cabeza y sin espina,6.05,6.24,2026-01-12 19:54:09
+3514,81241.4,Lubina abierta en libro sin cabeza y sin espina,6.05,6.24,2026-01-12 19:54:09
+3515,81241.3,Lubina sin limpiar,6.05,6.24,2026-01-12 19:54:09
+3516,82610.1,Merluza a rodajas,13.8,13.36,2026-01-12 19:54:10
+3517,82610.4,Merluza media pieza a rodajas,8.87,7.12,2026-01-12 19:54:10
+3518,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.8,13.36,2026-01-12 19:54:11
+3519,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.87,7.12,2026-01-12 19:54:11
+3520,82610.3,Merluza sin aletas y sin escamas,13.8,13.36,2026-01-12 19:54:11
+3521,82610.6,Merluza media pieza sin aletas y sin escamas,8.87,7.12,2026-01-12 19:54:12
+3522,81204.3,Bacalao media pieza a rodajas,18.06,18.29,2026-01-12 19:54:13
+3523,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,18.06,18.29,2026-01-12 19:54:13
+3524,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.7,13.25,2026-01-12 19:54:14
+3525,81055.1,Corvina limpia con cabeza,12.7,13.25,2026-01-12 19:54:14
+3526,81055.3,Corvina a filetes,12.7,13.25,2026-01-12 19:54:15
+3527,81704,Sepia limpia,11.17,10.37,2026-01-12 19:54:15
+3528,81200.1,Trucha abierta en libro con cabeza,5.37,5.55,2026-01-12 19:54:16
+3529,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.37,5.55,2026-01-12 19:54:16
+3530,81200.3,Trucha sin aletas,5.37,5.55,2026-01-12 19:54:17
