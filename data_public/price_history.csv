@@ -3743,3 +3743,54 @@ id,product_id,name,old_price,new_price,change_date
 3742,12986,Detergente ropa todo en 1 frescor floral Ariel Pods en cápsulas,4.85,4.95,2026-01-16 07:35:16
 3743,86652,Abrillantador lavavajillas líquido Finish,3.15,3.95,2026-01-16 07:36:17
 3744,42371,Limpiamáquinas lavavajillas Finish líquido,2.95,3.75,2026-01-16 07:36:17
+3745,3132,Plátano macho,0.81,0.78,2026-01-16 19:48:28
+3746,3021,Manzana Granny Smith,0.53,0.6,2026-01-16 19:48:31
+3747,8175,Manzana roja acidulce,0.58,0.6,2026-01-16 19:48:32
+3748,3172,Pera Limonera,0.46,0.49,2026-01-16 19:48:32
+3749,3506,Melón piel de sapo,6.09,6.28,2026-01-16 19:48:33
+3750,3210,Limón,0.51,0.56,2026-01-16 19:48:34
+3751,3830,Aguacate,0.99,1.04,2026-01-16 19:48:37
+3752,3076,Piña,3.41,3.74,2026-01-16 19:48:38
+3753,3050,Mango,1.29,1.4,2026-01-16 19:48:40
+3754,3026,Papaya,2.62,2.67,2026-01-16 19:48:40
+3755,69239,Batata,0.94,0.92,2026-01-16 19:48:55
+3756,69173,Yuca,2.04,1.97,2026-01-16 19:48:56
+3757,69935,Tomate negro,0.41,0.32,2026-01-16 19:49:02
+3758,69487,Rama de Tomates,1.9,1.97,2026-01-16 19:49:03
+3759,69444,Tomate rosa,1.97,2.01,2026-01-16 19:49:03
+3760,69338,Calabacín verde,0.82,0.84,2026-01-16 19:49:06
+3761,69339,Calabacín blanco,0.89,0.96,2026-01-16 19:49:07
+3762,69312,Pimiento verde,0.87,0.81,2026-01-16 19:49:07
+3763,69220,Coliflor,2.95,2.93,2026-01-16 19:49:08
+3764,69236,Repollo liso,2.75,2.77,2026-01-16 19:49:09
+3765,69326,Berenjena,0.78,0.75,2026-01-16 19:49:14
+3766,69580,Brócoli,1.3,1.33,2026-01-16 19:49:14
+3767,69347,Berenjena rayada,0.64,0.69,2026-01-16 19:49:15
+3768,69623,Alcachofa,0.63,0.67,2026-01-16 19:49:17
+3769,69038,Nabicol,0.96,0.87,2026-01-16 19:49:20
+3770,81649.1,Salmón a rodajas,29.13,32.3,2026-01-16 19:53:59
+3771,81649.4,Salmón media pieza a rodajas,16.53,16.97,2026-01-16 19:53:59
+3772,81649.2,Salmón abierto en libro sin cabeza y sin espina,29.13,32.3,2026-01-16 19:54:00
+3773,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,16.53,16.97,2026-01-16 19:54:00
+3774,81649.6,Salmón media pieza sin aletas y sin escamas,16.53,16.97,2026-01-16 19:54:01
+3775,81649.3,Salmón sin aletas y sin escamas,29.13,32.3,2026-01-16 19:54:01
+3776,81241.5,Lubina a filetes sin cabeza y sin espina,5.36,5.27,2026-01-16 19:54:05
+3777,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.36,5.27,2026-01-16 19:54:05
+3778,81241.1,Lubina limpia con cabeza,5.36,5.27,2026-01-16 19:54:05
+3779,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.36,5.27,2026-01-16 19:54:06
+3780,81241.3,Lubina sin limpiar,5.36,5.27,2026-01-16 19:54:06
+3781,82610.1,Merluza a rodajas,11.24,11.44,2026-01-16 19:54:07
+3782,82610.2,Merluza abierta en libro sin cabeza y sin espina,11.24,11.44,2026-01-16 19:54:07
+3783,82610.4,Merluza media pieza a rodajas,6.17,6.27,2026-01-16 19:54:07
+3784,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,6.17,6.27,2026-01-16 19:54:08
+3785,82610.6,Merluza media pieza sin aletas y sin escamas,6.17,6.27,2026-01-16 19:54:08
+3786,82610.3,Merluza sin aletas y sin escamas,11.24,11.44,2026-01-16 19:54:08
+3787,81204.1,Bacalao a rodajas,37.95,35.42,2026-01-16 19:54:09
+3788,81204.2,Bacalao abierto en libro sin cabeza y sin espina,37.95,35.42,2026-01-16 19:54:10
+3789,81055.1,Corvina limpia con cabeza,12.81,12.26,2026-01-16 19:54:11
+3790,81055.3,Corvina a filetes,12.81,12.26,2026-01-16 19:54:12
+3791,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.81,12.26,2026-01-16 19:54:12
+3792,81704,Sepia limpia,9.09,6.7,2026-01-16 19:54:12
+3793,81200.1,Trucha abierta en libro con cabeza,7.88,8.68,2026-01-16 19:54:13
+3794,81200.2,Trucha abierta en libro sin cabeza y sin espina,7.88,8.68,2026-01-16 19:54:13
+3795,81200.3,Trucha sin aletas,7.88,8.68,2026-01-16 19:54:14
