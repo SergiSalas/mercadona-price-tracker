@@ -3799,3 +3799,45 @@ id,product_id,name,old_price,new_price,change_date
 3798,28715,Ginebra London Dry Gin Larios,12.45,12.2,2026-01-17 07:22:19
 3799,28724,Licor de hierbas Jägermeister,14.7,14.4,2026-01-17 07:22:29
 3800,25742,Panecillo de trigo integral 30%,0.37,0.35,2026-01-17 07:36:50
+3801,3021,Manzana Granny Smith,0.6,0.62,2026-01-17 19:40:04
+3802,3172,Pera Limonera,0.49,0.46,2026-01-17 19:40:05
+3803,3506,Melón piel de sapo,6.28,6.38,2026-01-17 19:40:06
+3804,3076,Piña,3.74,3.53,2026-01-17 19:40:09
+3805,3050,Mango,1.4,1.38,2026-01-17 19:40:10
+3806,69066,Patata,0.44,0.46,2026-01-17 19:40:20
+3807,69239,Batata,0.92,0.94,2026-01-17 19:40:22
+3808,69173,Yuca,1.97,1.9,2026-01-17 19:40:22
+3809,69937,Tomate ensalada,0.52,0.54,2026-01-17 19:40:25
+3810,69339,Calabacín blanco,0.96,0.98,2026-01-17 19:40:31
+3811,69310,Pimiento rojo,0.75,0.78,2026-01-17 19:40:31
+3812,69220,Coliflor,2.93,2.81,2026-01-17 19:40:32
+3813,69312,Pimiento verde,0.81,0.73,2026-01-17 19:40:32
+3814,69236,Repollo liso,2.77,2.68,2026-01-17 19:40:33
+3815,69347,Berenjena rayada,0.69,0.71,2026-01-17 19:40:37
+3816,69580,Brócoli,1.33,1.35,2026-01-17 19:40:37
+3817,69038,Nabicol,0.87,0.93,2026-01-17 19:40:41
+3818,81649.1,Salmón a rodajas,32.3,33.95,2026-01-17 19:44:12
+3819,81649.2,Salmón abierto en libro sin cabeza y sin espina,32.3,33.95,2026-01-17 19:44:12
+3820,81649.4,Salmón media pieza a rodajas,16.97,17.19,2026-01-17 19:44:12
+3821,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,16.97,17.19,2026-01-17 19:44:13
+3822,81649.6,Salmón media pieza sin aletas y sin escamas,16.97,17.19,2026-01-17 19:44:13
+3823,81649.3,Salmón sin aletas y sin escamas,32.3,33.95,2026-01-17 19:44:13
+3824,81241.5,Lubina a filetes sin cabeza y sin espina,5.27,5.46,2026-01-17 19:44:16
+3825,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.27,5.46,2026-01-17 19:44:16
+3826,81241.1,Lubina limpia con cabeza,5.27,5.46,2026-01-17 19:44:16
+3827,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.27,5.46,2026-01-17 19:44:17
+3828,81241.3,Lubina sin limpiar,5.27,5.46,2026-01-17 19:44:17
+3829,82610.1,Merluza a rodajas,11.44,11.34,2026-01-17 19:44:17
+3830,82610.2,Merluza abierta en libro sin cabeza y sin espina,11.44,11.34,2026-01-17 19:44:18
+3831,82610.3,Merluza sin aletas y sin escamas,11.44,11.34,2026-01-17 19:44:18
+3832,81204.1,Bacalao a rodajas,35.42,37.03,2026-01-17 19:44:19
+3833,81204.3,Bacalao media pieza a rodajas,18.86,19.55,2026-01-17 19:44:19
+3834,81204.2,Bacalao abierto en libro sin cabeza y sin espina,35.42,37.03,2026-01-17 19:44:20
+3835,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,18.86,19.55,2026-01-17 19:44:20
+3836,81055.1,Corvina limpia con cabeza,12.26,12.37,2026-01-17 19:44:20
+3837,81055.3,Corvina a filetes,12.26,12.37,2026-01-17 19:44:21
+3838,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.26,12.37,2026-01-17 19:44:21
+3839,81704,Sepia limpia,6.7,6.06,2026-01-17 19:44:21
+3840,81200.1,Trucha abierta en libro con cabeza,8.68,9.93,2026-01-17 19:44:22
+3841,81200.2,Trucha abierta en libro sin cabeza y sin espina,8.68,9.93,2026-01-17 19:44:22
+3842,81200.3,Trucha sin aletas,8.68,9.93,2026-01-17 19:44:23
