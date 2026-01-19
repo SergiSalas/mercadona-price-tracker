@@ -3841,3 +3841,70 @@ id,product_id,name,old_price,new_price,change_date
 3840,81200.1,Trucha abierta en libro con cabeza,8.68,9.93,2026-01-17 19:44:22
 3841,81200.2,Trucha abierta en libro sin cabeza y sin espina,8.68,9.93,2026-01-17 19:44:22
 3842,81200.3,Trucha sin aletas,8.68,9.93,2026-01-17 19:44:23
+3843,28119,Bebida energética Energy Ultra zero Monster,1.79,1.45,2026-01-19 07:26:24
+3844,28670,Bebida energética Energy Ultra zero Monster,6.68,5.36,2026-01-19 07:26:24
+3845,28016,Bebida energética Energy Monster,1.79,1.45,2026-01-19 07:26:25
+3846,28664,Bebida energética energy Monster,6.68,5.36,2026-01-19 07:26:25
+3847,27913,Bebida energética original Burn,1.0,1.25,2026-01-19 07:26:27
+3848,29365,Bebida energética original Burn,3.32,4.6,2026-01-19 07:26:27
+3849,13814,Bebida energética Mango Loco Monster,1.79,1.45,2026-01-19 07:26:28
+3850,13815,Bebida energética Mango Loco Monster,6.68,5.36,2026-01-19 07:26:28
+3851,27602,Refresco Fanta limón,0.75,0.8,2026-01-19 07:26:44
+3852,13817,Refresco Fanta limón,5.94,6.93,2026-01-19 07:26:44
+3853,27608,Refresco Fanta limón zero azúcares añadidos,0.75,0.8,2026-01-19 07:26:45
+3854,8779,Refresco Fanta limón zero azúcares añadidos,4.24,6.16,2026-01-19 07:26:45
+3855,28176,Refresco lima limón Sprite,4.88,4.0,2026-01-19 07:26:48
+3856,26990,Refresco lima limón Sprite,1.35,1.65,2026-01-19 07:26:48
+3857,27845,Refresco lima limón Sprite,0.65,0.55,2026-01-19 07:26:49
+3858,27526,Refresco Fanta naranja,3.6,3.0,2026-01-19 07:26:50
+3859,27502,Refresco Fanta naranja,0.75,0.8,2026-01-19 07:26:51
+3860,27571,Refresco Fanta naranja,5.94,6.93,2026-01-19 07:26:51
+3861,27510,Refresco Fanta naranja zero azúcares añadidos,0.75,0.8,2026-01-19 07:26:52
+3862,8778,Refresco Fanta naranja zero azúcares añadidos,4.24,6.16,2026-01-19 07:26:52
+3863,11688,Refresco té sabor limón Fuze Tea,1.99,1.49,2026-01-19 07:27:02
+3864,27137,Cerveza doble malta Voll-Damm,0.89,1.07,2026-01-19 07:29:48
+3865,28057,Cerveza doble malta Voll-Damm,5.34,6.18,2026-01-19 07:29:48
+3866,27357,Cerveza especial Estrella Galicia,0.89,0.93,2026-01-19 07:29:52
+3867,66586,Cerveza especial Estrella Galicia,7.6,8.8,2026-01-19 07:29:52
+3868,86866,Cerveza especial mini Mahou,6.12,7.2,2026-01-19 07:30:01
+3869,86867,Cerveza especial mini Mahou,0.59,0.63,2026-01-19 07:30:02
+3870,67739,Cacao soluble instantáneo Nesquik,16.4,13.9,2026-01-19 07:30:58
+3871,13019,Cacao soluble ColaCao original,5.0,4.4,2026-01-19 07:30:59
+3872,11931,Café en cápsula espresso intenso Dolce Gusto,4.95,3.95,2026-01-19 07:31:05
+3873,11869,Café en cápsula descafeinado espresso intenso Dolce Gusto,4.95,3.95,2026-01-19 07:31:06
+3874,11801,Café con leche en cápsula Dolce Gusto,4.95,3.95,2026-01-19 07:31:07
+3875,11918,Café en cápsula ristretto napoli Dolce Gusto,4.95,3.95,2026-01-19 07:31:07
+3876,11785,Café en cápsula cortado Dolce Gusto,4.95,3.95,2026-01-19 07:31:08
+3877,11753,Café molido natural Bonka,4.5,3.95,2026-01-19 07:31:15
+3878,24200,Sepia faraónica limpia Hacendado congelada,5.98,6.4,2026-01-19 07:35:35
+3879,24242,Calamar troceado limpio Hacendado congelado,4.95,6.0,2026-01-19 07:35:36
+3880,24274,Sepia faraónica troceada limpia Hacendado congelada,5.0,6.0,2026-01-19 07:35:36
+3881,24206,Sepia limpia pequeña Hacendado congelada,5.0,6.0,2026-01-19 07:35:38
+3882,63432,Calamar patagónico pequeño Hacendado ultracongelado,4.5,5.5,2026-01-19 07:35:43
+3883,3076,Piña,3.53,3.62,2026-01-19 07:41:23
+3884,30506,Media piña,2.21,2.25,2026-01-19 07:41:24
+3885,3024,Piña natural a rodajas,3.48,3.8,2026-01-19 07:41:24
+3886,3715,Fresón,5.5,4.88,2026-01-19 07:41:26
+3887,69584,Pepino,0.33,0.36,2026-01-19 07:41:47
+3888,69379,Coles de bruselas,2.4,2.1,2026-01-19 07:41:52
+3889,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.18,5.57,2026-01-19 07:46:27
+3890,81234.1,Dorada limpia con cabeza,5.18,5.57,2026-01-19 07:46:27
+3891,81234.5,Dorada a filetes sin cabeza y sin espina,5.18,5.57,2026-01-19 07:46:28
+3892,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.18,5.57,2026-01-19 07:46:28
+3893,81234.3,Dorada sin limpiar,5.18,5.57,2026-01-19 07:46:28
+3894,87302,Filetes de dorada,4.5,4.6,2026-01-19 07:46:29
+3895,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.46,6.13,2026-01-19 07:46:29
+3896,81241.1,Lubina limpia con cabeza,5.46,6.13,2026-01-19 07:46:29
+3897,81241.5,Lubina a filetes sin cabeza y sin espina,5.46,6.13,2026-01-19 07:46:30
+3898,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.46,6.13,2026-01-19 07:46:30
+3899,81241.3,Lubina sin limpiar,5.46,6.13,2026-01-19 07:46:30
+3900,87313,Filete de lubina,4.6,4.7,2026-01-19 07:46:31
+3901,82610.1,Merluza a rodajas,11.34,12.82,2026-01-19 07:46:31
+3902,82610.4,Merluza media pieza a rodajas,6.27,7.09,2026-01-19 07:46:31
+3903,82610.2,Merluza abierta en libro sin cabeza y sin espina,11.34,12.82,2026-01-19 07:46:32
+3904,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,6.27,7.09,2026-01-19 07:46:32
+3905,82610.3,Merluza sin aletas y sin escamas,11.34,12.82,2026-01-19 07:46:32
+3906,82610.6,Merluza media pieza sin aletas y sin escamas,6.27,7.09,2026-01-19 07:46:33
+3907,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.37,12.99,2026-01-19 07:46:35
+3908,81055.1,Corvina limpia con cabeza,12.37,12.99,2026-01-19 07:46:35
+3909,81055.3,Corvina a filetes,12.37,12.99,2026-01-19 07:46:36
