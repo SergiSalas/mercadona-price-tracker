@@ -4368,3 +4368,51 @@ id,product_id,name,old_price,new_price,change_date
 4367,58278,Jamón cebo ibérico cortado a tapas,7.02,7.11,2026-01-28 07:31:18
 4368,8566,Jamón de cebo ibérico 50% La Hacienda del Ibérico,148.75,153.0,2026-01-28 07:31:23
 4369,58154,Paleta de cebo ibérica La Hacienda del Ibérico,69.0,75.0,2026-01-28 07:31:24
+4370,3132,Plátano macho,0.87,0.84,2026-01-28 19:51:43
+4371,8177,Manzana roja dulce,0.76,0.73,2026-01-28 19:51:45
+4372,3021,Manzana Granny Smith,0.53,0.5,2026-01-28 19:51:46
+4373,3506,Melón piel de sapo,6.13,6.47,2026-01-28 19:51:47
+4374,3210,Limón,0.58,0.6,2026-01-28 19:51:48
+4375,3202,Pomelo,0.51,0.53,2026-01-28 19:51:50
+4376,3076,Piña,3.92,3.88,2026-01-28 19:51:52
+4377,69173,Yuca,1.83,1.86,2026-01-28 19:52:09
+4378,69968,Tomate canario,0.5,0.52,2026-01-28 19:52:13
+4379,69912,Tomate pera,0.26,0.28,2026-01-28 19:52:13
+4380,69338,Calabacín verde,1.0,0.98,2026-01-28 19:52:19
+4381,69310,Pimiento rojo,0.75,0.78,2026-01-28 19:52:19
+4382,69220,Coliflor,2.42,2.32,2026-01-28 19:52:21
+4383,69236,Repollo liso,2.36,2.25,2026-01-28 19:52:21
+4384,69580,Brócoli,1.33,1.27,2026-01-28 19:52:26
+4385,81649.1,Salmón a rodajas,41.5,41.94,2026-01-28 19:56:33
+4386,81649.4,Salmón media pieza a rodajas,21.9,20.37,2026-01-28 19:56:33
+4387,81649.2,Salmón abierto en libro sin cabeza y sin espina,41.5,41.94,2026-01-28 19:56:34
+4388,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,21.9,20.37,2026-01-28 19:56:34
+4389,81649.3,Salmón sin aletas y sin escamas,41.5,41.94,2026-01-28 19:56:34
+4390,81649.6,Salmón media pieza sin aletas y sin escamas,21.9,20.37,2026-01-28 19:56:35
+4391,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.27,5.57,2026-01-28 19:56:36
+4392,81234.1,Dorada limpia con cabeza,6.27,5.57,2026-01-28 19:56:36
+4393,81234.5,Dorada a filetes sin cabeza y sin espina,6.27,5.57,2026-01-28 19:56:37
+4394,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.27,5.57,2026-01-28 19:56:37
+4395,81234.3,Dorada sin limpiar,6.27,5.57,2026-01-28 19:56:37
+4396,81241.2,Lubina abierta a la espalda con espinas y con cabeza,6.13,6.79,2026-01-28 19:56:38
+4397,81241.1,Lubina limpia con cabeza,6.13,6.79,2026-01-28 19:56:38
+4398,81241.5,Lubina a filetes sin cabeza y sin espina,6.13,6.79,2026-01-28 19:56:39
+4399,81241.4,Lubina abierta en libro sin cabeza y sin espina,6.13,6.79,2026-01-28 19:56:39
+4400,81241.3,Lubina sin limpiar,6.13,6.79,2026-01-28 19:56:39
+4401,82610.1,Merluza a rodajas,14.85,14.63,2026-01-28 19:56:40
+4402,82610.2,Merluza abierta en libro sin cabeza y sin espina,14.85,14.63,2026-01-28 19:56:40
+4403,82610.4,Merluza media pieza a rodajas,9.45,9.34,2026-01-28 19:56:40
+4404,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,9.45,9.34,2026-01-28 19:56:41
+4405,82610.6,Merluza media pieza sin aletas y sin escamas,9.45,9.34,2026-01-28 19:56:41
+4406,82610.3,Merluza sin aletas y sin escamas,14.85,14.63,2026-01-28 19:56:41
+4407,81204.1,Bacalao a rodajas,47.12,46.33,2026-01-28 19:56:43
+4408,81204.2,Bacalao abierto en libro sin cabeza y sin espina,47.12,46.33,2026-01-28 19:56:43
+4409,81204.3,Bacalao media pieza a rodajas,24.55,22.7,2026-01-28 19:56:43
+4410,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,24.55,22.7,2026-01-28 19:56:43
+4411,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.49,13.8,2026-01-28 19:56:44
+4412,81055.1,Corvina limpia con cabeza,14.49,13.8,2026-01-28 19:56:44
+4413,81055.3,Corvina a filetes,14.49,13.8,2026-01-28 19:56:45
+4414,81704,Sepia limpia,8.13,7.98,2026-01-28 19:56:45
+4415,81200.1,Trucha abierta en libro con cabeza,9.22,7.61,2026-01-28 19:56:46
+4416,81200.2,Trucha abierta en libro sin cabeza y sin espina,9.22,7.61,2026-01-28 19:56:46
+4417,81200.3,Trucha sin aletas,9.22,7.61,2026-01-28 19:56:46
