@@ -4651,3 +4651,61 @@ id,product_id,name,old_price,new_price,change_date
 4650,10504,Leche entera Asturiana,10.98,11.94,2026-02-02 08:05:21
 4651,10617,Leche entera Asturiana,1.29,1.24,2026-02-02 08:05:24
 4652,10530,Leche entera Asturiana,7.74,7.44,2026-02-02 08:05:24
+4653,3119,Pera Conferencia,0.47,0.49,2026-02-02 19:57:14
+4654,3210,Limón,0.6,0.58,2026-02-02 19:57:18
+4655,3235,Naranja de mesa,0.57,0.59,2026-02-02 19:57:18
+4656,3202,Pomelo,0.59,0.6,2026-02-02 19:57:19
+4657,3820,Kiwi verde,0.36,0.39,2026-02-02 19:57:20
+4658,3830,Aguacate,0.99,1.04,2026-02-02 19:57:21
+4659,3050,Mango,1.04,1.02,2026-02-02 19:57:22
+4660,3026,Papaya,2.87,2.92,2026-02-02 19:57:22
+4661,69066,Patata,0.42,0.46,2026-02-02 19:57:33
+4662,69239,Batata,1.03,1.13,2026-02-02 19:57:35
+4663,69968,Tomate canario,0.52,0.5,2026-02-02 19:57:38
+4664,69937,Tomate ensalada,0.56,0.54,2026-02-02 19:57:38
+4665,69912,Tomate pera,0.32,0.3,2026-02-02 19:57:39
+4666,69487,Rama de Tomates,1.99,2.04,2026-02-02 19:57:41
+4667,69935,Tomate negro,0.3,0.32,2026-02-02 19:57:41
+4668,69444,Tomate rosa,1.9,1.8,2026-02-02 19:57:41
+4669,69584,Pepino,0.36,0.34,2026-02-02 19:57:42
+4670,69338,Calabacín verde,1.03,1.0,2026-02-02 19:57:44
+4671,69339,Calabacín blanco,0.96,1.01,2026-02-02 19:57:45
+4672,69312,Pimiento verde,0.76,0.78,2026-02-02 19:57:45
+4673,69220,Coliflor,2.32,2.38,2026-02-02 19:57:46
+4674,69236,Repollo liso,2.23,2.2,2026-02-02 19:57:46
+4675,69326,Berenjena,0.8,0.83,2026-02-02 19:57:51
+4676,69623,Alcachofa,0.67,0.63,2026-02-02 19:57:53
+4677,69038,Nabicol,0.81,0.9,2026-02-02 19:57:56
+4678,81649.1,Salmón a rodajas,41.94,31.43,2026-02-02 20:02:01
+4679,81649.2,Salmón abierto en libro sin cabeza y sin espina,41.94,31.43,2026-02-02 20:02:01
+4680,81649.4,Salmón media pieza a rodajas,16.43,16.64,2026-02-02 20:02:01
+4681,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,16.43,16.64,2026-02-02 20:02:02
+4682,81649.6,Salmón media pieza sin aletas y sin escamas,16.43,16.64,2026-02-02 20:02:02
+4683,81649.3,Salmón sin aletas y sin escamas,41.94,31.43,2026-02-02 20:02:02
+4684,81234.5,Dorada a filetes sin cabeza y sin espina,5.57,5.67,2026-02-02 20:02:04
+4685,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.57,5.67,2026-02-02 20:02:04
+4686,81234.1,Dorada limpia con cabeza,5.57,5.67,2026-02-02 20:02:04
+4687,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.57,5.67,2026-02-02 20:02:05
+4688,81234.3,Dorada sin limpiar,5.57,5.67,2026-02-02 20:02:05
+4689,81241.5,Lubina a filetes sin cabeza y sin espina,6.79,7.01,2026-02-02 20:02:06
+4690,81241.2,Lubina abierta a la espalda con espinas y con cabeza,6.79,7.01,2026-02-02 20:02:06
+4691,81241.4,Lubina abierta en libro sin cabeza y sin espina,6.79,7.01,2026-02-02 20:02:06
+4692,81241.1,Lubina limpia con cabeza,6.79,7.01,2026-02-02 20:02:06
+4693,81241.3,Lubina sin limpiar,6.79,7.01,2026-02-02 20:02:07
+4694,82610.1,Merluza a rodajas,14.63,14.96,2026-02-02 20:02:07
+4695,82610.2,Merluza abierta en libro sin cabeza y sin espina,14.63,14.96,2026-02-02 20:02:08
+4696,82610.4,Merluza media pieza a rodajas,9.9,9.79,2026-02-02 20:02:08
+4697,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,9.9,9.79,2026-02-02 20:02:08
+4698,81204.1,Bacalao a rodajas,34.06,33.79,2026-02-02 20:02:09
+4699,82610.6,Merluza media pieza sin aletas y sin escamas,9.9,9.79,2026-02-02 20:02:09
+4700,82610.3,Merluza sin aletas y sin escamas,14.63,14.96,2026-02-02 20:02:09
+4701,81204.2,Bacalao abierto en libro sin cabeza y sin espina,34.06,33.79,2026-02-02 20:02:10
+4702,81204.3,Bacalao media pieza a rodajas,17.95,17.03,2026-02-02 20:02:10
+4703,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.95,17.03,2026-02-02 20:02:10
+4704,81055.3,Corvina a filetes,12.88,13.23,2026-02-02 20:02:11
+4705,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.88,13.23,2026-02-02 20:02:11
+4706,81055.1,Corvina limpia con cabeza,12.88,13.23,2026-02-02 20:02:11
+4707,81704,Sepia limpia,8.13,7.82,2026-02-02 20:02:12
+4708,81200.1,Trucha abierta en libro con cabeza,8.5,8.41,2026-02-02 20:02:13
+4709,81200.2,Trucha abierta en libro sin cabeza y sin espina,8.5,8.41,2026-02-02 20:02:13
+4710,81200.3,Trucha sin aletas,8.5,8.41,2026-02-02 20:02:13
