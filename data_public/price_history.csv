@@ -4577,3 +4577,77 @@ id,product_id,name,old_price,new_price,change_date
 4576,81200.1,Trucha abierta en libro con cabeza,7.7,8.5,2026-01-31 19:53:56
 4577,81200.2,Trucha abierta en libro sin cabeza y sin espina,7.7,8.5,2026-01-31 19:53:56
 4578,81200.3,Trucha sin aletas,7.7,8.5,2026-01-31 19:53:57
+4579,28119,Bebida energética Energy Ultra zero Monster,1.45,1.79,2026-02-02 07:52:37
+4580,28670,Bebida energética Energy Ultra zero Monster,5.36,6.68,2026-02-02 07:52:37
+4581,28664,Bebida energética energy Monster,5.36,6.68,2026-02-02 07:52:37
+4582,28016,Bebida energética Energy Monster,1.45,1.79,2026-02-02 07:52:38
+4583,27913,Bebida energética original Burn,1.25,1.0,2026-02-02 07:52:39
+4584,29365,Bebida energética original Burn,4.6,3.32,2026-02-02 07:52:39
+4585,13814,Bebida energética Mango Loco Monster,1.45,1.79,2026-02-02 07:52:40
+4586,13815,Bebida energética Mango Loco Monster,5.36,6.68,2026-02-02 07:52:40
+4587,27348,Refresco Coca-Cola,4.1,3.8,2026-02-02 07:52:43
+4588,27449,Refresco Coca-Cola Zero azúcar,4.1,3.8,2026-02-02 07:52:46
+4589,28180,Refresco Coca-Cola Zero Zero,4.1,3.8,2026-02-02 07:52:49
+4590,27845,Refresco lima limón Sprite,0.55,0.65,2026-02-02 07:52:56
+4591,28176,Refresco lima limón Sprite,4.0,4.88,2026-02-02 07:52:56
+4592,27526,Refresco Fanta naranja,3.0,3.6,2026-02-02 07:52:57
+4593,27545,Refresco Fanta naranja zero azúcares añadidos,1.85,1.59,2026-02-02 07:52:58
+4594,11688,Refresco té sabor limón Fuze Tea,1.49,1.99,2026-02-02 07:53:07
+4595,34024,Nuez natural Hacendado pelada,2.75,2.6,2026-02-02 07:53:23
+4596,23575,Almendra natural Hacendado sin piel,3.05,2.9,2026-02-02 07:53:31
+4597,52667,Nuez troceada pelada Hacendado,1.9,1.8,2026-02-02 07:53:34
+4598,86809,Cocktail natural Hacendado,2.8,2.7,2026-02-02 07:53:36
+4599,16285,Barritas de barquillo Kit-Kat bañadas de chocolate con leche,2.3,1.95,2026-02-02 07:54:41
+4600,14468,Surtido bombones de chocolate Belga Hacendado,4.9,4.6,2026-02-02 07:54:42
+4601,35602,Papilla 8 cereales con galleta María Nestlé +6 meses,5.45,5.75,2026-02-02 07:55:03
+4602,35601,Papilla 8 cereales con miel Nestlé +6 meses,5.45,5.75,2026-02-02 07:55:03
+4603,9826,Cerveza especial Mahou,7.0,8.4,2026-02-02 07:55:19
+4604,28069,Cerveza Amstel,1.49,1.59,2026-02-02 07:55:26
+4605,86046,Cerveza Amstel,7.74,9.54,2026-02-02 07:55:26
+4606,66587,Cerveza especial Estrella Galicia,7.32,8.16,2026-02-02 07:55:30
+4607,14452,Bebida espirituosa centenario Terry,6.65,6.95,2026-02-02 07:55:44
+4608,67739,Cacao soluble instantáneo Nesquik,13.9,17.45,2026-02-02 07:56:14
+4609,13216,Cacao soluble instantáneo Nesquik,3.95,4.2,2026-02-02 07:56:15
+4610,13204,Cacao soluble instantáneo Nesquik,6.95,7.5,2026-02-02 07:56:15
+4611,11931,Café en cápsula espresso intenso Dolce Gusto,3.95,4.95,2026-02-02 07:56:20
+4612,11801,Café con leche en cápsula Dolce Gusto,3.95,4.95,2026-02-02 07:56:21
+4613,11869,Café en cápsula descafeinado espresso intenso Dolce Gusto,3.95,4.95,2026-02-02 07:56:21
+4614,11785,Café en cápsula cortado Dolce Gusto,3.95,4.95,2026-02-02 07:56:22
+4615,11918,Café en cápsula ristretto napoli Dolce Gusto,3.95,4.95,2026-02-02 07:56:22
+4616,11753,Café molido natural Bonka,3.95,4.5,2026-02-02 07:56:28
+4617,11136,Café soluble natural Nescafé classic,8.5,7.95,2026-02-02 07:56:32
+4618,11101,Café soluble descafeinado Nescafé classic,8.5,7.95,2026-02-02 07:56:33
+4619,2689,Espinazo de cerdo,1.8,2.1,2026-02-02 07:56:46
+4620,2851,Manos de cerdo,3.55,3.9,2026-02-02 07:56:47
+4621,35805,Tocino de cerdo,1.29,1.48,2026-02-02 07:56:47
+4622,2635,Rabo de cerdo,1.75,2.0,2026-02-02 07:56:48
+4623,2794,Filetes pechuga de pavo,4.99,5.16,2026-02-02 07:56:49
+4624,2812,Media careta de cerdo sin oreja,3.37,3.52,2026-02-02 07:57:11
+4625,2859,Filetes hígado de cerdo,3.16,3.37,2026-02-02 07:57:12
+4626,2849,Filetes lomo de cerdo extra tiernos,3.94,4.0,2026-02-02 07:57:14
+4627,2797,Conejo entero,10.65,10.41,2026-02-02 07:57:16
+4628,25972,Medio conejo troceado,5.76,5.64,2026-02-02 07:57:16
+4629,14087,Galletas tostadas Tosta Rica,2.95,2.5,2026-02-02 07:57:50
+4630,60874,Almeja Hacendado congelada,1.7,1.8,2026-02-02 07:59:49
+4631,62191,Filetes de panga Hacendado ultracongelados,4.65,4.9,2026-02-02 07:59:54
+4632,24511,Lomos de salmón sin piel y sin espinas Hacendado congelado,6.5,6.35,2026-02-02 07:59:58
+4633,3819,Plátano de Canarias IGP,0.34,0.37,2026-02-02 08:04:21
+4634,3716,Fresón,7.57,7.12,2026-02-02 08:04:31
+4635,3715,Fresón,4.88,4.5,2026-02-02 08:04:31
+4636,69580,Brócoli,1.22,0.94,2026-02-02 08:04:56
+4637,10502,Leche semidesnatada Asturiana,1.7,1.85,2026-02-02 08:05:12
+4638,10505,Leche semidesnatada Asturiana,10.2,11.1,2026-02-02 08:05:12
+4639,10531,Leche semidesnatada Asturiana,7.02,6.78,2026-02-02 08:05:14
+4640,10712,Leche semidesnatada Asturiana,1.17,1.13,2026-02-02 08:05:15
+4641,10884,Bebida láctea Omega 3 Puleva con leche desnatada,1.75,1.89,2026-02-02 08:05:17
+4642,10146,Bebida láctea Omega 3 Puleva con leche desnatada,10.5,11.34,2026-02-02 08:05:17
+4643,10599,Leche desnatada Asturiana,1.65,1.79,2026-02-02 08:05:18
+4644,10516,Leche desnatada Asturiana,9.9,10.74,2026-02-02 08:05:18
+4645,10282,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,1.75,1.95,2026-02-02 08:05:19
+4646,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,10.5,11.7,2026-02-02 08:05:19
+4647,10801,Leche desnatada Asturiana,1.13,1.09,2026-02-02 08:05:20
+4648,10532,Leche desnatada Asturiana,6.78,6.54,2026-02-02 08:05:20
+4649,10506,Leche entera Asturiana,1.83,1.99,2026-02-02 08:05:21
+4650,10504,Leche entera Asturiana,10.98,11.94,2026-02-02 08:05:21
+4651,10617,Leche entera Asturiana,1.29,1.24,2026-02-02 08:05:24
+4652,10530,Leche entera Asturiana,7.74,7.44,2026-02-02 08:05:24
