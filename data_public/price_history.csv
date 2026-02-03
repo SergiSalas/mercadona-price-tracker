@@ -4743,3 +4743,50 @@ id,product_id,name,old_price,new_price,change_date
 4742,9833,Bocaditos en salsa perro adulto Special Dog Excellence con salmón y verduras,1.65,1.5,2026-02-03 07:59:36
 4743,15970,"Comida perro adulto Compy con pollo, ternera, frutas y verduras",6.0,5.75,2026-02-03 07:59:39
 4744,52101,Comida perro adulto Compy original,13.1,12.8,2026-02-03 07:59:40
+4745,3028,Manzana Golden,0.46,0.44,2026-02-03 20:07:46
+4746,3210,Limón,0.58,0.6,2026-02-03 20:07:49
+4747,3506,Melón piel de sapo,7.1,6.91,2026-02-03 20:07:49
+4748,3202,Pomelo,0.6,0.62,2026-02-03 20:07:51
+4749,3076,Piña,3.9,3.72,2026-02-03 20:07:52
+4750,3026,Papaya,2.92,2.82,2026-02-03 20:07:54
+4751,69239,Batata,1.13,1.15,2026-02-03 20:08:05
+4752,69173,Yuca,1.97,2.04,2026-02-03 20:08:05
+4753,69968,Tomate canario,0.5,0.42,2026-02-03 20:08:08
+4754,69444,Tomate rosa,1.8,1.67,2026-02-03 20:08:11
+4755,69312,Pimiento verde,0.78,0.81,2026-02-03 20:08:15
+4756,69236,Repollo liso,2.2,2.21,2026-02-03 20:08:16
+4757,69580,Brócoli,0.94,0.96,2026-02-03 20:08:20
+4758,69038,Nabicol,0.9,0.93,2026-02-03 20:08:25
+4759,81649.1,Salmón a rodajas,31.43,30.77,2026-02-03 20:12:00
+4760,81649.4,Salmón media pieza a rodajas,16.64,17.3,2026-02-03 20:12:00
+4761,81649.2,Salmón abierto en libro sin cabeza y sin espina,31.43,30.77,2026-02-03 20:12:01
+4762,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,16.64,17.3,2026-02-03 20:12:01
+4763,81649.6,Salmón media pieza sin aletas y sin escamas,16.64,17.3,2026-02-03 20:12:01
+4764,81649.3,Salmón sin aletas y sin escamas,31.43,30.77,2026-02-03 20:12:01
+4765,81234.5,Dorada a filetes sin cabeza y sin espina,5.67,5.57,2026-02-03 20:12:03
+4766,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.67,5.57,2026-02-03 20:12:03
+4767,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.67,5.57,2026-02-03 20:12:03
+4768,81234.1,Dorada limpia con cabeza,5.67,5.57,2026-02-03 20:12:03
+4769,81234.3,Dorada sin limpiar,5.67,5.57,2026-02-03 20:12:04
+4770,81241.2,Lubina abierta a la espalda con espinas y con cabeza,7.01,7.12,2026-02-03 20:12:04
+4771,81241.1,Lubina limpia con cabeza,7.01,7.12,2026-02-03 20:12:04
+4772,81241.5,Lubina a filetes sin cabeza y sin espina,7.01,7.12,2026-02-03 20:12:05
+4773,81241.4,Lubina abierta en libro sin cabeza y sin espina,7.01,7.12,2026-02-03 20:12:05
+4774,81241.3,Lubina sin limpiar,7.01,7.12,2026-02-03 20:12:05
+4775,82610.1,Merluza a rodajas,14.96,15.08,2026-02-03 20:12:06
+4776,82610.2,Merluza abierta en libro sin cabeza y sin espina,14.96,15.08,2026-02-03 20:12:06
+4777,82610.4,Merluza media pieza a rodajas,9.79,10.13,2026-02-03 20:12:06
+4778,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,9.79,10.13,2026-02-03 20:12:06
+4779,81204.1,Bacalao a rodajas,33.79,30.23,2026-02-03 20:12:07
+4780,82610.6,Merluza media pieza sin aletas y sin escamas,9.79,10.13,2026-02-03 20:12:07
+4781,82610.3,Merluza sin aletas y sin escamas,14.96,15.08,2026-02-03 20:12:07
+4782,81204.2,Bacalao abierto en libro sin cabeza y sin espina,33.79,30.23,2026-02-03 20:12:08
+4783,81204.3,Bacalao media pieza a rodajas,17.03,16.5,2026-02-03 20:12:08
+4784,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.03,16.5,2026-02-03 20:12:08
+4785,81055.3,Corvina a filetes,13.23,12.19,2026-02-03 20:12:09
+4786,81055.2,Corvina abierta a la espalda con espinas y con cabeza,13.23,12.19,2026-02-03 20:12:09
+4787,81055.1,Corvina limpia con cabeza,13.23,12.19,2026-02-03 20:12:09
+4788,81704,Sepia limpia,7.82,8.45,2026-02-03 20:12:10
+4789,81200.1,Trucha abierta en libro con cabeza,8.41,7.7,2026-02-03 20:12:10
+4790,81200.2,Trucha abierta en libro sin cabeza y sin espina,8.41,7.7,2026-02-03 20:12:11
+4791,81200.3,Trucha sin aletas,8.41,7.7,2026-02-03 20:12:11
