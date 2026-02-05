@@ -4900,3 +4900,48 @@ id,product_id,name,old_price,new_price,change_date
 4899,20260,Yogur natural Danone,1.99,1.7,2026-02-05 08:09:39
 4900,68124,Danonino sabor fresa Danone,1.7,1.45,2026-02-05 08:09:44
 4901,68125,Danonino sabor fresa y plátano Danone,1.7,1.45,2026-02-05 08:09:45
+4902,8175,Manzana roja acidulce,0.6,0.58,2026-02-05 20:03:41
+4903,3506,Melón piel de sapo,6.62,6.36,2026-02-05 20:03:42
+4904,3202,Pomelo,0.64,0.62,2026-02-05 20:03:45
+4905,3076,Piña,3.54,3.56,2026-02-05 20:03:47
+4906,3050,Mango,1.07,1.1,2026-02-05 20:03:50
+4907,69239,Batata,1.15,1.18,2026-02-05 20:04:07
+4908,69487,Rama de Tomates,2.09,2.02,2026-02-05 20:04:15
+4909,69444,Tomate rosa,1.63,1.67,2026-02-05 20:04:16
+4910,69339,Calabacín blanco,1.01,0.98,2026-02-05 20:04:20
+4911,69312,Pimiento verde,0.81,0.84,2026-02-05 20:04:20
+4912,69220,Coliflor,2.38,2.4,2026-02-05 20:04:21
+4913,69236,Repollo liso,2.25,2.21,2026-02-05 20:04:21
+4914,69580,Brócoli,1.25,1.3,2026-02-05 20:04:27
+4915,69623,Alcachofa,0.53,0.56,2026-02-05 20:04:30
+4916,69038,Nabicol,0.93,0.9,2026-02-05 20:04:33
+4917,81649.1,Salmón a rodajas,34.27,36.46,2026-02-05 20:09:20
+4918,81649.4,Salmón media pieza a rodajas,16.97,17.96,2026-02-05 20:09:20
+4919,81649.2,Salmón abierto en libro sin cabeza y sin espina,34.27,36.46,2026-02-05 20:09:21
+4920,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,16.97,17.96,2026-02-05 20:09:21
+4921,81649.3,Salmón sin aletas y sin escamas,34.27,36.46,2026-02-05 20:09:21
+4922,81649.6,Salmón media pieza sin aletas y sin escamas,16.97,17.96,2026-02-05 20:09:22
+4923,81234.5,Dorada a filetes sin cabeza y sin espina,5.97,6.07,2026-02-05 20:09:24
+4924,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.97,6.07,2026-02-05 20:09:24
+4925,81234.1,Dorada limpia con cabeza,5.97,6.07,2026-02-05 20:09:24
+4926,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.97,6.07,2026-02-05 20:09:25
+4927,81234.3,Dorada sin limpiar,5.97,6.07,2026-02-05 20:09:25
+4928,81241.5,Lubina a filetes sin cabeza y sin espina,7.23,7.34,2026-02-05 20:09:26
+4929,81241.2,Lubina abierta a la espalda con espinas y con cabeza,7.23,7.34,2026-02-05 20:09:26
+4930,81241.1,Lubina limpia con cabeza,7.23,7.34,2026-02-05 20:09:26
+4931,81241.4,Lubina abierta en libro sin cabeza y sin espina,7.23,7.34,2026-02-05 20:09:27
+4932,81241.3,Lubina sin limpiar,7.23,7.34,2026-02-05 20:09:27
+4933,82610.1,Merluza a rodajas,13.63,14.66,2026-02-05 20:09:28
+4934,82610.4,Merluza media pieza a rodajas,8.61,8.71,2026-02-05 20:09:28
+4935,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.63,14.66,2026-02-05 20:09:29
+4936,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.61,8.71,2026-02-05 20:09:29
+4937,82610.6,Merluza media pieza sin aletas y sin escamas,8.61,8.71,2026-02-05 20:09:30
+4938,82610.3,Merluza sin aletas y sin escamas,13.63,14.66,2026-02-05 20:09:30
+4939,81055.1,Corvina limpia con cabeza,12.19,12.42,2026-02-05 20:09:32
+4940,81055.3,Corvina a filetes,12.19,12.42,2026-02-05 20:09:33
+4941,81055.2,Corvina abierta a la espalda con espinas y con cabeza,12.19,12.42,2026-02-05 20:09:33
+4942,81200.1,Trucha abierta en libro con cabeza,6.98,5.91,2026-02-05 20:09:34
+4943,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.98,5.91,2026-02-05 20:09:35
+4944,81200.3,Trucha sin aletas,6.98,5.91,2026-02-05 20:09:35
+4945,81225.1,Lenguado sin cabeza y sin piel,3.5,3.77,2026-02-05 20:09:36
+4946,81225.2,Lenguado sin limpiar,3.5,3.77,2026-02-05 20:09:36
