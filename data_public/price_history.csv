@@ -5104,3 +5104,72 @@ id,product_id,name,old_price,new_price,change_date
 5103,81204.2,Bacalao abierto en libro sin cabeza y sin espina,23.79,25.74,2026-02-09 08:13:45
 5104,81204.3,Bacalao media pieza a rodajas,14.64,15.84,2026-02-09 08:13:45
 5105,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,14.64,15.84,2026-02-09 08:13:45
+5106,26039,Garbanzo cocido Hacendado,0.7,0.75,2026-02-10 07:57:10
+5107,26029,Garbanzo cocido Hacendado,0.75,0.85,2026-02-10 07:57:10
+5108,26000,Alubia cocida roja Hacendado,1.25,1.2,2026-02-10 07:57:12
+5109,5330,Lenteja pardina Hacendado,2.1,2.05,2026-02-10 07:57:14
+5110,27100,Cerveza Heineken,0.89,0.79,2026-02-10 07:58:56
+5111,66445,Cerveza Amstel,0.59,0.75,2026-02-10 07:58:57
+5112,66447,Cerveza Amstel,6.6,9.0,2026-02-10 07:58:57
+5113,66027,Cerveza clásica Mahou,6.96,9.24,2026-02-10 07:58:58
+5114,66026,Cerveza especial San Miguel,6.0,6.96,2026-02-10 07:59:00
+5115,60600,Cerveza tostada Turia,10.08,8.28,2026-02-10 07:59:03
+5116,66413,Cerveza Amstel,6.36,5.52,2026-02-10 07:59:07
+5117,67154,Cerveza tostada Turia,6.84,7.92,2026-02-10 07:59:10
+5118,28494,Aperitivo de café Cerol,6.25,6.4,2026-02-10 07:59:27
+5119,52533,Lambrusco rosado frizzante dell'Emilia Piccolo Giovanni,2.15,2.3,2026-02-10 07:59:57
+5120,67112,Vino tinto cosecha Comportillo DO Rioja,2.55,2.9,2026-02-10 08:00:02
+5121,35710,Vino tinto crianza Comportillo DO Rioja,3.25,3.45,2026-02-10 08:00:03
+5122,67024,Vino tinto Borsao DO Campo de Borja,2.0,2.3,2026-02-10 08:00:07
+5123,37277,Vino tinto reserva Abadía Mantrús DO Ribera del Duero,6.0,6.3,2026-02-10 08:00:07
+5124,66295,Vino tinto crianza Torre Oria DO Utiel-Requena,2.0,2.2,2026-02-10 08:00:10
+5125,58245,Chorizo de bellota ibérico La hacienda del ibérico,10.26,6.46,2026-02-10 08:03:21
+5126,16043,Tomate triturado Hacendado,0.98,1.05,2026-02-10 08:06:36
+5127,3824,Banana,0.28,0.29,2026-02-10 08:10:47
+5128,3132,Plátano macho,0.78,0.75,2026-02-10 08:10:48
+5129,3119,Pera Conferencia,0.49,0.47,2026-02-10 08:10:50
+5130,8175,Manzana roja acidulce,0.55,0.58,2026-02-10 08:10:51
+5131,3506,Melón piel de sapo,6.09,6.2,2026-02-10 08:10:52
+5132,3076,Piña,3.92,4.06,2026-02-10 08:10:57
+5133,3026,Papaya,2.77,2.92,2026-02-10 08:10:59
+5134,69066,Patata,0.48,0.46,2026-02-10 08:11:11
+5135,69239,Batata,1.03,0.99,2026-02-10 08:11:13
+5136,69173,Yuca,2.0,1.97,2026-02-10 08:11:14
+5137,69937,Tomate ensalada,0.52,0.54,2026-02-10 08:11:17
+5138,69487,Rama de Tomates,1.94,2.02,2026-02-10 08:11:21
+5139,69444,Tomate rosa,1.7,1.77,2026-02-10 08:11:21
+5140,69584,Pepino,0.34,0.36,2026-02-10 08:11:22
+5141,69339,Calabacín blanco,0.96,0.91,2026-02-10 08:11:24
+5142,69220,Coliflor,2.54,2.52,2026-02-10 08:11:26
+5143,69236,Repollo liso,2.32,2.45,2026-02-10 08:11:26
+5144,69347,Berenjena rayada,0.76,0.74,2026-02-10 08:11:32
+5145,69038,Nabicol,0.93,0.84,2026-02-10 08:11:37
+5146,81649.1,Salmón a rodajas,36.79,33.84,2026-02-10 08:16:13
+5147,81649.2,Salmón abierto en libro sin cabeza y sin espina,36.79,33.84,2026-02-10 08:16:13
+5148,81649.4,Salmón media pieza a rodajas,17.08,15.99,2026-02-10 08:16:13
+5149,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,17.08,15.99,2026-02-10 08:16:13
+5150,81649.6,Salmón media pieza sin aletas y sin escamas,17.08,15.99,2026-02-10 08:16:14
+5151,81649.3,Salmón sin aletas y sin escamas,36.79,33.84,2026-02-10 08:16:14
+5152,81234.5,Dorada a filetes sin cabeza y sin espina,6.27,6.37,2026-02-10 08:16:16
+5153,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.27,6.37,2026-02-10 08:16:16
+5154,81234.1,Dorada limpia con cabeza,6.27,6.37,2026-02-10 08:16:16
+5155,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.27,6.37,2026-02-10 08:16:17
+5156,81234.3,Dorada sin limpiar,6.27,6.37,2026-02-10 08:16:17
+5157,81241.5,Lubina a filetes sin cabeza y sin espina,7.56,7.34,2026-02-10 08:16:18
+5158,81241.2,Lubina abierta a la espalda con espinas y con cabeza,7.56,7.34,2026-02-10 08:16:18
+5159,81241.1,Lubina limpia con cabeza,7.56,7.34,2026-02-10 08:16:18
+5160,81241.4,Lubina abierta en libro sin cabeza y sin espina,7.56,7.34,2026-02-10 08:16:19
+5161,81241.3,Lubina sin limpiar,7.56,7.34,2026-02-10 08:16:19
+5162,82610.1,Merluza a rodajas,15.38,14.66,2026-02-10 08:16:20
+5163,82610.2,Merluza abierta en libro sin cabeza y sin espina,15.38,14.66,2026-02-10 08:16:20
+5164,82610.3,Merluza sin aletas y sin escamas,15.38,14.66,2026-02-10 08:16:21
+5165,81204.1,Bacalao a rodajas,25.74,25.21,2026-02-10 08:16:22
+5166,81204.2,Bacalao abierto en libro sin cabeza y sin espina,25.74,25.21,2026-02-10 08:16:23
+5167,81204.3,Bacalao media pieza a rodajas,15.84,14.78,2026-02-10 08:16:23
+5168,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,15.84,14.78,2026-02-10 08:16:23
+5169,81055.2,Corvina abierta a la espalda con espinas y con cabeza,13.34,13.11,2026-02-10 08:16:24
+5170,81055.1,Corvina limpia con cabeza,13.34,13.11,2026-02-10 08:16:24
+5171,81055.3,Corvina a filetes,13.34,13.11,2026-02-10 08:16:25
+5172,81704,Sepia limpia,8.45,8.29,2026-02-10 08:16:25
+5173,63440,Masa para empanadillas y postres Buitoni,1.15,1.25,2026-02-10 08:17:46
+5174,9860,Masa gruesa para empanadas Buitoni estilo Argentino,2.3,2.4,2026-02-10 08:17:48
