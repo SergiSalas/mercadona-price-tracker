@@ -5984,3 +5984,52 @@ id,product_id,name,old_price,new_price,change_date
 5983,22905,Recarga jabón de manos dermoprotector Deliplus,1.5,1.4,2026-02-24 08:00:05
 5984,35266,Gelatina gato adulto selección de aves Quartett,1.8,1.9,2026-02-24 08:06:17
 5985,35267,Gelatina gato adulto selección de pescado Quartett,1.8,1.9,2026-02-24 08:06:18
+5986,8936,Filetes de vacuno añojo para plancha,7.41,7.98,2026-02-24 20:06:49
+5987,3028,Manzana Golden,0.48,0.46,2026-02-24 20:14:27
+5988,3021,Manzana Granny Smith,0.41,0.38,2026-02-24 20:14:29
+5989,8175,Manzana roja acidulce,0.58,0.55,2026-02-24 20:14:29
+5990,3210,Limón,0.55,0.58,2026-02-24 20:14:30
+5991,3506,Melón piel de sapo,6.64,6.7,2026-02-24 20:14:30
+5992,3202,Pomelo,0.78,0.82,2026-02-24 20:14:32
+5993,3830,Aguacate,1.23,1.18,2026-02-24 20:14:33
+5994,3076,Piña,3.56,3.62,2026-02-24 20:14:34
+5995,3050,Mango,1.4,1.43,2026-02-24 20:14:35
+5996,69066,Patata,0.44,0.42,2026-02-24 20:14:46
+5997,69239,Batata,0.87,0.85,2026-02-24 20:14:47
+5998,69173,Yuca,2.0,1.97,2026-02-24 20:14:48
+5999,69968,Tomate canario,0.42,0.4,2026-02-24 20:14:51
+6000,69912,Tomate pera,0.26,0.24,2026-02-24 20:14:51
+6001,69444,Tomate rosa,1.73,1.7,2026-02-24 20:14:54
+6002,69339,Calabacín blanco,0.84,0.82,2026-02-24 20:14:57
+6003,69320,Pimiento verde freír,0.25,0.23,2026-02-24 20:14:57
+6004,69220,Coliflor,2.23,2.19,2026-02-24 20:14:58
+6005,69326,Berenjena,0.8,0.78,2026-02-24 20:15:03
+6006,69580,Brócoli,1.33,1.27,2026-02-24 20:15:03
+6007,69347,Berenjena rayada,0.74,0.71,2026-02-24 20:15:04
+6008,69038,Nabicol,0.87,0.84,2026-02-24 20:15:08
+6009,81649.1,Salmón a rodajas,30.66,29.02,2026-02-24 20:18:52
+6010,81649.2,Salmón abierto en libro sin cabeza y sin espina,30.66,29.02,2026-02-24 20:18:52
+6011,81649.4,Salmón media pieza a rodajas,15.11,14.34,2026-02-24 20:18:52
+6012,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,15.11,14.34,2026-02-24 20:18:53
+6013,81649.6,Salmón media pieza sin aletas y sin escamas,15.11,14.34,2026-02-24 20:18:53
+6014,81649.3,Salmón sin aletas y sin escamas,30.66,29.02,2026-02-24 20:18:53
+6015,81234.1,Dorada limpia con cabeza,5.77,4.88,2026-02-24 20:18:54
+6016,81234.5,Dorada a filetes sin cabeza y sin espina,5.77,4.88,2026-02-24 20:18:55
+6017,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.77,4.88,2026-02-24 20:18:55
+6018,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.77,4.88,2026-02-24 20:18:55
+6019,81234.3,Dorada sin limpiar,5.77,4.88,2026-02-24 20:18:56
+6020,82610.1,Merluza a rodajas,13.73,13.5,2026-02-24 20:18:58
+6021,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.73,13.5,2026-02-24 20:18:58
+6022,82610.4,Merluza media pieza a rodajas,7.88,7.43,2026-02-24 20:18:58
+6023,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.88,7.43,2026-02-24 20:18:59
+6024,82610.6,Merluza media pieza sin aletas y sin escamas,7.88,7.43,2026-02-24 20:18:59
+6025,82610.3,Merluza sin aletas y sin escamas,13.73,13.5,2026-02-24 20:18:59
+6026,81204.3,Bacalao media pieza a rodajas,13.75,13.04,2026-02-24 20:19:00
+6027,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,13.75,13.04,2026-02-24 20:19:00
+6028,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.49,14.26,2026-02-24 20:19:01
+6029,81055.1,Corvina limpia con cabeza,14.49,14.26,2026-02-24 20:19:01
+6030,81055.3,Corvina a filetes,14.49,14.26,2026-02-24 20:19:02
+6031,81704,Sepia limpia,6.86,7.66,2026-02-24 20:19:02
+6032,81200.1,Trucha abierta en libro con cabeza,6.0,5.46,2026-02-24 20:19:03
+6033,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.0,5.46,2026-02-24 20:19:03
+6034,81200.3,Trucha sin aletas,6.0,5.46,2026-02-24 20:19:03
