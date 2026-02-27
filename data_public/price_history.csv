@@ -6196,3 +6196,54 @@ id,product_id,name,old_price,new_price,change_date
 6195,69326,Berenjena,0.78,0.56,2026-02-27 07:53:33
 6196,86480,Insecticida moscas y mosquitos Bosque Verde perfumado,2.25,2.35,2026-02-27 07:54:40
 6197,35530,Insecticida moscas y mosquitos Bosque Verde sin perfume,2.25,2.35,2026-02-27 07:54:41
+6198,3132,Plátano macho,0.78,0.81,2026-02-27 19:56:45
+6199,3028,Manzana Golden,0.48,0.46,2026-02-27 19:56:46
+6200,8177,Manzana roja dulce,0.65,0.62,2026-02-27 19:56:47
+6201,3505.2,1/4 Sandía baja en semillas,4.64,4.19,2026-02-27 19:56:49
+6202,3505.1,Media sandía baja en semillas,9.88,8.32,2026-02-27 19:56:49
+6203,3529,Sandía baja en semillas,17.7,16.5,2026-02-27 19:56:49
+6204,3202,Pomelo,0.82,0.84,2026-02-27 19:56:52
+6205,3830,Aguacate,1.18,1.23,2026-02-27 19:56:54
+6206,3076,Piña,3.5,3.52,2026-02-27 19:56:54
+6207,3050,Mango,1.31,1.16,2026-02-27 19:56:56
+6208,69173,Yuca,1.93,1.9,2026-02-27 19:57:10
+6209,69937,Tomate ensalada,0.5,0.52,2026-02-27 19:57:13
+6210,69912,Tomate pera,0.24,0.26,2026-02-27 19:57:14
+6211,69338,Calabacín verde,0.8,0.78,2026-02-27 19:57:20
+6212,69339,Calabacín blanco,0.86,0.84,2026-02-27 19:57:21
+6213,69220,Coliflor,2.17,2.21,2026-02-27 19:57:22
+6214,69236,Repollo liso,2.18,2.14,2026-02-27 19:57:22
+6215,69580,Brócoli,1.22,1.2,2026-02-27 19:57:28
+6216,81649.1,Salmón a rodajas,27.92,28.91,2026-02-27 20:01:55
+6217,81649.2,Salmón abierto en libro sin cabeza y sin espina,27.92,28.91,2026-02-27 20:01:56
+6218,81649.4,Salmón media pieza a rodajas,14.24,14.56,2026-02-27 20:01:56
+6219,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,14.24,14.56,2026-02-27 20:01:56
+6220,81649.6,Salmón media pieza sin aletas y sin escamas,14.24,14.56,2026-02-27 20:01:57
+6221,81649.3,Salmón sin aletas y sin escamas,27.92,28.91,2026-02-27 20:01:57
+6222,81234.1,Dorada limpia con cabeza,5.27,5.57,2026-02-27 20:01:58
+6223,81234.5,Dorada a filetes sin cabeza y sin espina,5.27,5.57,2026-02-27 20:01:59
+6224,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.27,5.57,2026-02-27 20:01:59
+6225,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.27,5.57,2026-02-27 20:01:59
+6226,81234.3,Dorada sin limpiar,5.27,5.57,2026-02-27 20:02:00
+6227,81241.1,Lubina limpia con cabeza,5.15,5.26,2026-02-27 20:02:00
+6228,81241.5,Lubina a filetes sin cabeza y sin espina,5.15,5.26,2026-02-27 20:02:01
+6229,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.15,5.26,2026-02-27 20:02:01
+6230,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.15,5.26,2026-02-27 20:02:01
+6231,81241.3,Lubina sin limpiar,5.15,5.26,2026-02-27 20:02:01
+6232,82610.1,Merluza a rodajas,13.28,13.16,2026-02-27 20:02:02
+6233,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.28,13.16,2026-02-27 20:02:03
+6234,82610.4,Merluza media pieza a rodajas,6.98,7.65,2026-02-27 20:02:03
+6235,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,6.98,7.65,2026-02-27 20:02:03
+6236,82610.3,Merluza sin aletas y sin escamas,13.28,13.16,2026-02-27 20:02:03
+6237,81204.1,Bacalao a rodajas,22.68,25.73,2026-02-27 20:02:04
+6238,82610.6,Merluza media pieza sin aletas y sin escamas,6.98,7.65,2026-02-27 20:02:04
+6239,81204.2,Bacalao abierto en libro sin cabeza y sin espina,22.68,25.73,2026-02-27 20:02:05
+6240,81204.3,Bacalao media pieza a rodajas,13.4,13.51,2026-02-27 20:02:05
+6241,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,13.4,13.51,2026-02-27 20:02:05
+6242,81055.1,Corvina limpia con cabeza,14.38,14.61,2026-02-27 20:02:06
+6243,81055.3,Corvina a filetes,14.38,14.61,2026-02-27 20:02:07
+6244,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.38,14.61,2026-02-27 20:02:07
+6245,81704,Sepia limpia,7.82,9.09,2026-02-27 20:02:07
+6246,81200.1,Trucha abierta en libro con cabeza,5.37,5.73,2026-02-27 20:02:08
+6247,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.37,5.73,2026-02-27 20:02:09
+6248,81200.3,Trucha sin aletas,5.37,5.73,2026-02-27 20:02:09
