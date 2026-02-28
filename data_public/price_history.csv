@@ -6248,3 +6248,44 @@ id,product_id,name,old_price,new_price,change_date
 6247,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.37,5.73,2026-02-27 20:02:09
 6248,81200.3,Trucha sin aletas,5.37,5.73,2026-02-27 20:02:09
 6249,61416,Patatas prefritas gajo Hacendado ultracongeladas,1.8,1.7,2026-02-28 07:35:00
+6250,3819,Plátano de Canarias IGP,0.37,0.35,2026-02-28 19:51:42
+6251,3505.2,1/4 Sandía baja en semillas,4.19,4.11,2026-02-28 19:51:48
+6252,3505.1,Media sandía baja en semillas,8.32,8.56,2026-02-28 19:51:48
+6253,3529,Sandía baja en semillas,16.5,14.66,2026-02-28 19:51:48
+6254,3897,Lima,0.41,0.46,2026-02-28 19:51:52
+6255,3076,Piña,3.52,3.62,2026-02-28 19:51:54
+6256,3050,Mango,1.16,1.1,2026-02-28 19:51:56
+6257,3026,Papaya,3.61,3.32,2026-02-28 19:51:56
+6258,69173,Yuca,1.9,1.97,2026-02-28 19:52:12
+6259,69937,Tomate ensalada,0.52,0.54,2026-02-28 19:52:16
+6260,69912,Tomate pera,0.26,0.28,2026-02-28 19:52:17
+6261,69935,Tomate negro,0.35,0.32,2026-02-28 19:52:19
+6262,69487,Rama de Tomates,1.73,1.82,2026-02-28 19:52:20
+6263,69444,Tomate rosa,1.73,1.7,2026-02-28 19:52:20
+6264,69339,Calabacín blanco,0.84,0.82,2026-02-28 19:52:24
+6265,69236,Repollo liso,2.14,2.12,2026-02-28 19:52:26
+6266,81649.1,Salmón a rodajas,28.91,27.92,2026-02-28 19:57:40
+6267,81649.4,Salmón media pieza a rodajas,14.56,14.89,2026-02-28 19:57:40
+6268,81649.2,Salmón abierto en libro sin cabeza y sin espina,28.91,27.92,2026-02-28 19:57:41
+6269,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,14.56,14.89,2026-02-28 19:57:41
+6270,81649.3,Salmón sin aletas y sin escamas,28.91,27.92,2026-02-28 19:57:41
+6271,81649.6,Salmón media pieza sin aletas y sin escamas,14.56,14.89,2026-02-28 19:57:42
+6272,81234.1,Dorada limpia con cabeza,5.57,6.17,2026-02-28 19:57:43
+6273,81234.5,Dorada a filetes sin cabeza y sin espina,5.57,6.17,2026-02-28 19:57:44
+6274,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.57,6.17,2026-02-28 19:57:44
+6275,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.57,6.17,2026-02-28 19:57:45
+6276,81234.3,Dorada sin limpiar,5.57,6.17,2026-02-28 19:57:45
+6277,81241.5,Lubina a filetes sin cabeza y sin espina,5.26,5.48,2026-02-28 19:57:46
+6278,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.26,5.48,2026-02-28 19:57:46
+6279,81241.1,Lubina limpia con cabeza,5.26,5.48,2026-02-28 19:57:46
+6280,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.26,5.48,2026-02-28 19:57:47
+6281,81241.3,Lubina sin limpiar,5.26,5.48,2026-02-28 19:57:47
+6282,81204.1,Bacalao a rodajas,25.73,28.67,2026-02-28 19:57:50
+6283,81204.2,Bacalao abierto en libro sin cabeza y sin espina,25.73,28.67,2026-02-28 19:57:51
+6284,81055.3,Corvina a filetes,14.61,14.72,2026-02-28 19:57:53
+6285,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.61,14.72,2026-02-28 19:57:53
+6286,81055.1,Corvina limpia con cabeza,14.61,14.72,2026-02-28 19:57:53
+6287,81704,Sepia limpia,9.09,8.93,2026-02-28 19:57:54
+6288,81200.1,Trucha abierta en libro con cabeza,5.73,6.0,2026-02-28 19:57:55
+6289,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.73,6.0,2026-02-28 19:57:55
+6290,81200.3,Trucha sin aletas,5.73,6.0,2026-02-28 19:57:56
