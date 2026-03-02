@@ -6289,3 +6289,76 @@ id,product_id,name,old_price,new_price,change_date
 6288,81200.1,Trucha abierta en libro con cabeza,5.73,6.0,2026-02-28 19:57:55
 6289,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.73,6.0,2026-02-28 19:57:55
 6290,81200.3,Trucha sin aletas,5.73,6.0,2026-02-28 19:57:56
+6291,27314,Agua mineral grande Bezoya,4.14,4.5,2026-03-02 07:44:58
+6292,27230,Agua mineral grande Bezoya,0.69,0.75,2026-03-02 07:44:59
+6293,27735,Gaseosa La Casera grande,1.0,1.29,2026-03-02 07:45:08
+6294,27733,Gaseosa La Casera grande,1.92,2.55,2026-03-02 07:45:08
+6295,29625,Bebida isotónica limón Aquarius,0.99,0.89,2026-03-02 07:45:09
+6296,29605,Bebida isotónica limón Aquarius,7.44,6.88,2026-03-02 07:45:09
+6297,29608,Bebida isotónica limón Aquarius,1.91,2.1,2026-03-02 07:45:09
+6298,29604,Bebida isotónica naranja Aquarius,7.44,6.88,2026-03-02 07:45:10
+6299,29609,Bebida isotónica naranja Aquarius,1.91,2.1,2026-03-02 07:45:10
+6300,29612,Bebida isotónica limón Aquarius zero azúcar,1.69,2.1,2026-03-02 07:45:11
+6301,29624,Bebida isotónica naranja Aquarius,0.99,0.89,2026-03-02 07:45:11
+6302,28670,Bebida energética Energy Ultra zero Monster,4.76,6.68,2026-03-02 07:45:15
+6303,28119,Bebida energética Energy Ultra zero Monster,1.45,1.79,2026-03-02 07:45:16
+6304,8870,Bebida energética Red Bull,6.3,7.92,2026-03-02 07:45:18
+6305,27321,Refresco Coca-Cola,9.96,11.16,2026-03-02 07:45:25
+6306,27426,Refresco Coca-Cola Zero azúcar,9.96,11.16,2026-03-02 07:45:27
+6307,27184,Refresco Coca-Cola light,7.38,8.37,2026-03-02 07:45:30
+6308,26997,Refresco Coca-Cola Zero Zero,9.96,11.16,2026-03-02 07:45:31
+6309,27602,Refresco Fanta limón,0.8,0.75,2026-03-02 07:45:37
+6310,13817,Refresco Fanta limón,6.93,5.94,2026-03-02 07:45:37
+6311,27608,Refresco Fanta limón zero azúcares añadidos,0.8,0.75,2026-03-02 07:45:38
+6312,8779,Refresco Fanta limón zero azúcares añadidos,6.16,4.24,2026-03-02 07:45:38
+6313,27761,Refresco limón Schweppes original,5.2,7.76,2026-03-02 07:45:40
+6314,26990,Refresco lima limón Sprite,1.35,1.65,2026-03-02 07:45:41
+6315,27571,Refresco Fanta naranja,6.93,5.94,2026-03-02 07:45:44
+6316,27502,Refresco Fanta naranja,0.8,0.75,2026-03-02 07:45:45
+6317,8778,Refresco Fanta naranja zero azúcares añadidos,6.16,4.24,2026-03-02 07:45:45
+6318,27510,Refresco Fanta naranja zero azúcares añadidos,0.8,0.75,2026-03-02 07:45:46
+6319,27666,Tónica original Schweppes,5.2,7.84,2026-03-02 07:45:48
+6320,27487,Tónica zero calorías Schweppes,5.2,7.84,2026-03-02 07:45:51
+6321,11688,Refresco té sabor limón Fuze Tea,1.49,1.99,2026-03-02 07:45:57
+6322,27759,Bebida Florida Sunny Delight,1.65,1.99,2026-03-02 07:46:00
+6323,16285,Barritas de barquillo Kit-Kat bañadas de chocolate con leche,1.95,2.3,2026-03-02 07:47:59
+6324,14468,Surtido bombones de chocolate Belga Hacendado,4.9,4.6,2026-03-02 07:48:02
+6325,9040,Preparado lácteo crecimiento Peques 3 Puleva,1.99,1.89,2026-03-02 07:48:26
+6326,9049,Preparado lácteo crecimiento Peques 3 Puleva,11.94,11.34,2026-03-02 07:48:26
+6327,9034,Preparado lácteo con cereales crecimiento Peques 3 Puleva,1.99,1.89,2026-03-02 07:48:27
+6328,9057,Preparado lácteo con cereales crecimiento Peques 3 Puleva,11.94,11.34,2026-03-02 07:48:27
+6329,20321,Preparado lácteo con cereales y frutas Peques 3 Puleva,2.0,1.89,2026-03-02 07:48:29
+6330,9826,Cerveza especial Mahou,6.7,8.4,2026-03-02 07:48:53
+6331,28069,Cerveza Amstel,1.29,1.59,2026-03-02 07:49:01
+6332,86046,Cerveza Amstel,7.74,9.54,2026-03-02 07:49:01
+6333,66587,Cerveza especial Estrella Galicia,7.32,8.16,2026-03-02 07:49:07
+6334,66352,Vino blanco semidulce Diamante DO Rioja,4.75,4.65,2026-03-02 07:49:48
+6335,13204,Cacao soluble instantáneo Nesquik,7.5,6.4,2026-03-02 07:50:03
+6336,10005,Chocolate líquido a la taza Hacendado,2.45,2.25,2026-03-02 07:50:06
+6337,35987,Cereales de arroz inflado Choco Krispies Kellogg's con chocolate,3.65,2.95,2026-03-02 07:51:56
+6338,14087,Galletas tostadas Tosta Rica,2.5,2.95,2026-03-02 07:52:09
+6339,51073,Queso untar original Philadelphia,2.85,2.3,2026-03-02 07:54:02
+6340,51079,Queso untar light Philadelphia,2.85,2.3,2026-03-02 07:54:03
+6341,62048,Preparado de paella y sopa Hacendado ultracongelado,4.1,4.25,2026-03-02 07:54:45
+6342,7026,Caldo de cocido casero Gallina Blanca,2.2,1.85,2026-03-02 07:56:31
+6343,7024,Caldo de pollo casero Gallina Blanca,2.2,1.85,2026-03-02 07:56:31
+6344,46204,Agua de colonia S3 Classic fresh,3.5,3.75,2026-03-02 07:59:57
+6345,11677,Agua de colonia S3 Mediterránea,3.5,3.75,2026-03-02 08:00:10
+6346,19951,Eau de parfum mujer Como Tú Sakai,12.0,8.0,2026-03-02 08:00:13
+6347,8268,Manzanas rojas acidulces,3.4,3.89,2026-03-02 08:00:59
+6348,69669,Zanahorias,0.8,0.85,2026-03-02 08:01:34
+6349,10712,Leche semidesnatada Asturiana,1.17,1.13,2026-03-02 08:02:05
+6350,10531,Leche semidesnatada Asturiana,7.02,6.78,2026-03-02 08:02:05
+6351,10146,Bebida láctea Omega 3 Puleva con leche desnatada,11.34,10.5,2026-03-02 08:02:08
+6352,10884,Bebida láctea Omega 3 Puleva con leche desnatada,1.89,1.75,2026-03-02 08:02:09
+6353,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,11.7,10.5,2026-03-02 08:02:10
+6354,10282,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,1.95,1.75,2026-03-02 08:02:11
+6355,10532,Leche desnatada Asturiana,6.78,6.54,2026-03-02 08:02:12
+6356,10801,Leche desnatada Asturiana,1.13,1.09,2026-03-02 08:02:13
+6357,10617,Leche entera Asturiana,1.29,1.24,2026-03-02 08:02:17
+6358,10530,Leche entera Asturiana,7.74,7.44,2026-03-02 08:02:17
+6359,10043,Batido de chocolate 90% leche Puleva,2.8,2.5,2026-03-02 08:02:30
+6360,13598,Nata montada azucarada Hacendado,1.65,1.5,2026-03-02 08:02:44
+6361,87789,Salpicón de marisco Hacendado,4.96,5.18,2026-03-02 08:06:03
+6362,81443,Chirla,3.95,4.35,2026-03-02 08:06:05
+6363,87350,Filetes de Gallineta descongelada,5.7,6.08,2026-03-02 08:06:45
