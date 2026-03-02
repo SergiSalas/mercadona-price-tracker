@@ -6362,3 +6362,60 @@ id,product_id,name,old_price,new_price,change_date
 6361,87789,Salpicón de marisco Hacendado,4.96,5.18,2026-03-02 08:06:03
 6362,81443,Chirla,3.95,4.35,2026-03-02 08:06:05
 6363,87350,Filetes de Gallineta descongelada,5.7,6.08,2026-03-02 08:06:45
+6364,21364,Crema facial hidratante con color Skiny Glow Tint Deliplus con pigmentos encapsulados,9.0,7.5,2026-03-02 19:59:42
+6365,3819,Plátano de Canarias IGP,0.35,0.37,2026-03-02 20:01:54
+6366,3132,Plátano macho,0.81,0.84,2026-03-02 20:01:55
+6367,3119,Pera Conferencia,0.47,0.44,2026-03-02 20:01:56
+6368,3021,Manzana Granny Smith,0.38,0.43,2026-03-02 20:01:58
+6369,3505.2,1/4 Sandía baja en semillas,4.11,4.32,2026-03-02 20:01:59
+6370,3505.1,Media sandía baja en semillas,8.56,8.8,2026-03-02 20:01:59
+6371,3529,Sandía baja en semillas,14.66,17.04,2026-03-02 20:01:59
+6372,3202,Pomelo,0.84,0.82,2026-03-02 20:02:02
+6373,3820,Kiwi verde,0.42,0.39,2026-03-02 20:02:03
+6374,3076,Piña,3.62,4.18,2026-03-02 20:02:05
+6375,3026,Papaya,3.32,3.61,2026-03-02 20:02:06
+6376,69937,Tomate ensalada,0.54,0.52,2026-03-02 20:02:23
+6377,69912,Tomate pera,0.28,0.3,2026-03-02 20:02:23
+6378,69487,Rama de Tomates,1.82,1.8,2026-03-02 20:02:26
+6379,69310,Pimiento rojo,0.87,0.9,2026-03-02 20:02:29
+6380,69320,Pimiento verde freír,0.25,0.28,2026-03-02 20:02:29
+6381,69312,Pimiento verde,0.87,0.84,2026-03-02 20:02:30
+6382,69220,Coliflor,2.21,2.11,2026-03-02 20:02:31
+6383,69236,Repollo liso,2.12,2.09,2026-03-02 20:02:31
+6384,69326,Berenjena,0.56,0.58,2026-03-02 20:02:36
+6385,69580,Brócoli,1.2,1.14,2026-03-02 20:02:36
+6386,69347,Berenjena rayada,0.71,0.69,2026-03-02 20:02:37
+6387,81649.1,Salmón a rodajas,27.92,28.91,2026-03-02 20:06:40
+6388,81649.4,Salmón media pieza a rodajas,14.89,15.99,2026-03-02 20:06:40
+6389,81649.2,Salmón abierto en libro sin cabeza y sin espina,27.92,28.91,2026-03-02 20:06:41
+6390,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,14.89,15.99,2026-03-02 20:06:41
+6391,81649.6,Salmón media pieza sin aletas y sin escamas,14.89,15.99,2026-03-02 20:06:41
+6392,81649.3,Salmón sin aletas y sin escamas,27.92,28.91,2026-03-02 20:06:41
+6393,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.17,6.27,2026-03-02 20:06:43
+6394,81234.1,Dorada limpia con cabeza,6.17,6.27,2026-03-02 20:06:43
+6395,81234.5,Dorada a filetes sin cabeza y sin espina,6.17,6.27,2026-03-02 20:06:44
+6396,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.17,6.27,2026-03-02 20:06:44
+6397,81234.3,Dorada sin limpiar,6.17,6.27,2026-03-02 20:06:44
+6398,81241.5,Lubina a filetes sin cabeza y sin espina,5.48,5.69,2026-03-02 20:06:45
+6399,81241.2,Lubina abierta a la espalda con espinas y con cabeza,5.48,5.69,2026-03-02 20:06:45
+6400,81241.1,Lubina limpia con cabeza,5.48,5.69,2026-03-02 20:06:45
+6401,81241.4,Lubina abierta en libro sin cabeza y sin espina,5.48,5.69,2026-03-02 20:06:46
+6402,81241.3,Lubina sin limpiar,5.48,5.69,2026-03-02 20:06:46
+6403,82610.1,Merluza a rodajas,13.16,13.5,2026-03-02 20:06:47
+6404,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.16,13.5,2026-03-02 20:06:47
+6405,82610.4,Merluza media pieza a rodajas,7.65,8.33,2026-03-02 20:06:47
+6406,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.65,8.33,2026-03-02 20:06:48
+6407,82610.6,Merluza media pieza sin aletas y sin escamas,7.65,8.33,2026-03-02 20:06:48
+6408,82610.3,Merluza sin aletas y sin escamas,13.16,13.5,2026-03-02 20:06:48
+6409,81204.1,Bacalao a rodajas,28.67,29.73,2026-03-02 20:06:49
+6410,81204.2,Bacalao abierto en libro sin cabeza y sin espina,28.67,29.73,2026-03-02 20:06:49
+6411,81204.3,Bacalao media pieza a rodajas,13.51,13.63,2026-03-02 20:06:49
+6412,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,13.51,13.63,2026-03-02 20:06:50
+6413,81055.3,Corvina a filetes,14.72,16.22,2026-03-02 20:06:51
+6414,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.72,16.22,2026-03-02 20:06:51
+6415,81055.1,Corvina limpia con cabeza,14.72,16.22,2026-03-02 20:06:51
+6416,81704,Sepia limpia,8.93,8.45,2026-03-02 20:06:52
+6417,81200.1,Trucha abierta en libro con cabeza,6.0,5.73,2026-03-02 20:06:52
+6418,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.0,5.73,2026-03-02 20:06:53
+6419,81200.3,Trucha sin aletas,6.0,5.73,2026-03-02 20:06:53
+6420,82099,Bizcochos Hacendado,1.85,2.0,2026-03-02 20:07:55
