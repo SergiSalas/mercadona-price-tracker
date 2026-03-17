@@ -7226,3 +7226,48 @@ id,product_id,name,old_price,new_price,change_date
 7225,10801,Leche desnatada Asturiana,1.09,1.13,2026-03-17 08:06:17
 7226,71403,Fregona Microfibra Absorbente Bosque Verde,2.8,2.7,2026-03-17 08:08:23
 7227,81661.2,Boquerón limpio sin cabeza,1.19,1.59,2026-03-17 08:09:59
+7228,3021,Manzana Granny Smith,0.53,0.5,2026-03-17 20:13:29
+7229,3170,Pera Ercolina,0.39,0.35,2026-03-17 20:13:29
+7230,3505.2,1/4 Sandía baja en semillas,3.95,3.82,2026-03-17 20:13:30
+7231,3505.1,Media sandía baja en semillas,8.51,8.22,2026-03-17 20:13:30
+7232,3529,Sandía baja en semillas,13.96,13.87,2026-03-17 20:13:30
+7233,3506,Melón piel de sapo,6.87,7.22,2026-03-17 20:13:31
+7234,3202,Pomelo,0.64,0.62,2026-03-17 20:13:33
+7235,3830,Aguacate,1.12,1.18,2026-03-17 20:13:34
+7236,3076,Piña,3.8,3.96,2026-03-17 20:13:34
+7237,3050,Mango,1.1,1.13,2026-03-17 20:13:36
+7238,3026,Papaya,3.12,3.07,2026-03-17 20:13:36
+7239,69239,Batata,1.34,1.41,2026-03-17 20:13:47
+7240,69968,Tomate canario,0.36,0.38,2026-03-17 20:13:51
+7241,69487,Rama de Tomates,1.8,1.73,2026-03-17 20:13:53
+7242,69444,Tomate rosa,1.16,1.22,2026-03-17 20:13:53
+7243,69339,Calabacín blanco,0.86,0.84,2026-03-17 20:13:56
+7244,69220,Coliflor,2.5,2.38,2026-03-17 20:13:57
+7245,69312,Pimiento verde,0.87,0.9,2026-03-17 20:13:57
+7246,69580,Brócoli,1.27,1.2,2026-03-17 20:14:02
+7247,81649.1,Salmón a rodajas,37.56,38.33,2026-03-17 20:17:36
+7248,81649.2,Salmón abierto en libro sin cabeza y sin espina,37.56,38.33,2026-03-17 20:17:37
+7249,81649.4,Salmón media pieza a rodajas,19.49,19.6,2026-03-17 20:17:37
+7250,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,19.49,19.6,2026-03-17 20:17:37
+7251,81649.6,Salmón media pieza sin aletas y sin escamas,19.49,19.6,2026-03-17 20:17:38
+7252,81649.3,Salmón sin aletas y sin escamas,37.56,38.33,2026-03-17 20:17:38
+7253,81241.5,Lubina a filetes sin cabeza y sin espina,4.27,4.16,2026-03-17 20:17:41
+7254,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.27,4.16,2026-03-17 20:17:41
+7255,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.27,4.16,2026-03-17 20:17:41
+7256,81241.1,Lubina limpia con cabeza,4.27,4.16,2026-03-17 20:17:41
+7257,81241.3,Lubina sin limpiar,4.27,4.16,2026-03-17 20:17:42
+7258,82610.1,Merluza a rodajas,15.3,15.53,2026-03-17 20:17:42
+7259,82610.4,Merluza media pieza a rodajas,8.21,8.55,2026-03-17 20:17:42
+7260,82610.2,Merluza abierta en libro sin cabeza y sin espina,15.3,15.53,2026-03-17 20:17:43
+7261,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.21,8.55,2026-03-17 20:17:43
+7262,82610.6,Merluza media pieza sin aletas y sin escamas,8.21,8.55,2026-03-17 20:17:43
+7263,82610.3,Merluza sin aletas y sin escamas,15.3,15.53,2026-03-17 20:17:43
+7264,81204.1,Bacalao a rodajas,19.39,19.04,2026-03-17 20:17:44
+7265,81204.2,Bacalao abierto en libro sin cabeza y sin espina,19.39,19.04,2026-03-17 20:17:45
+7266,81055.3,Corvina a filetes,14.03,14.61,2026-03-17 20:17:46
+7267,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.03,14.61,2026-03-17 20:17:46
+7268,81055.1,Corvina limpia con cabeza,14.03,14.61,2026-03-17 20:17:46
+7269,81704,Sepia limpia,8.93,9.41,2026-03-17 20:17:47
+7270,81200.1,Trucha abierta en libro con cabeza,5.55,5.64,2026-03-17 20:17:47
+7271,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.55,5.64,2026-03-17 20:17:48
+7272,81200.3,Trucha sin aletas,5.55,5.64,2026-03-17 20:17:48
