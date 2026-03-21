@@ -7459,3 +7459,48 @@ id,product_id,name,old_price,new_price,change_date
 7458,66413,Cerveza Amstel,5.52,6.36,2026-03-21 07:36:02
 7459,28400,Vermouth blanco Martini,11.9,11.0,2026-03-21 07:36:21
 7460,28401,Vermouth rojo Martini,11.9,11.0,2026-03-21 07:36:21
+7461,3132,Plátano macho,0.81,0.78,2026-03-21 19:47:35
+7462,3028,Manzana Golden,0.44,0.42,2026-03-21 19:47:36
+7463,3021,Manzana Granny Smith,0.48,0.43,2026-03-21 19:47:37
+7464,3505.1,Media sandía baja en semillas,7.1,7.05,2026-03-21 19:47:38
+7465,3506,Melón piel de sapo,7.52,7.48,2026-03-21 19:47:39
+7466,3529,Sandía baja en semillas,13.37,13.02,2026-03-21 19:47:39
+7467,3820,Kiwi verde,0.42,0.46,2026-03-21 19:47:42
+7468,3050,Mango,1.46,1.16,2026-03-21 19:47:44
+7469,3026,Papaya,2.77,2.82,2026-03-21 19:47:44
+7470,69239,Batata,1.34,1.37,2026-03-21 19:47:54
+7471,69173,Yuca,1.88,1.98,2026-03-21 19:47:55
+7472,69968,Tomate canario,0.34,0.32,2026-03-21 19:47:58
+7473,69487,Rama de Tomates,1.51,1.54,2026-03-21 19:48:00
+7474,69310,Pimiento rojo,1.16,1.19,2026-03-21 19:48:02
+7475,69339,Calabacín blanco,0.86,0.89,2026-03-21 19:48:03
+7476,69338,Calabacín verde,0.8,0.82,2026-03-21 19:48:03
+7477,69220,Coliflor,2.34,2.3,2026-03-21 19:48:04
+7478,69236,Repollo liso,2.2,2.21,2026-03-21 19:48:04
+7479,69580,Brócoli,1.2,1.3,2026-03-21 19:48:08
+7480,69347,Berenjena rayada,0.71,0.69,2026-03-21 19:48:09
+7481,81649.1,Salmón a rodajas,38.33,38.54,2026-03-21 19:51:37
+7482,81649.2,Salmón abierto en libro sin cabeza y sin espina,38.33,38.54,2026-03-21 19:51:37
+7483,81649.4,Salmón media pieza a rodajas,20.04,20.37,2026-03-21 19:51:37
+7484,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,20.04,20.37,2026-03-21 19:51:37
+7485,81649.6,Salmón media pieza sin aletas y sin escamas,20.04,20.37,2026-03-21 19:51:38
+7486,81649.3,Salmón sin aletas y sin escamas,38.33,38.54,2026-03-21 19:51:38
+7487,82610.1,Merluza a rodajas,14.74,14.06,2026-03-21 19:51:42
+7488,82610.2,Merluza abierta en libro sin cabeza y sin espina,14.74,14.06,2026-03-21 19:51:43
+7489,82610.3,Merluza sin aletas y sin escamas,14.74,14.06,2026-03-21 19:51:43
+7490,81204.1,Bacalao a rodajas,24.32,25.85,2026-03-21 19:51:44
+7491,81204.2,Bacalao abierto en libro sin cabeza y sin espina,24.32,25.85,2026-03-21 19:51:44
+7492,81204.3,Bacalao media pieza a rodajas,11.28,11.16,2026-03-21 19:51:44
+7493,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,11.28,11.16,2026-03-21 19:51:45
+7494,81055.1,Corvina limpia con cabeza,16.56,15.87,2026-03-21 19:51:45
+7495,81055.3,Corvina a filetes,16.56,15.87,2026-03-21 19:51:46
+7496,81055.2,Corvina abierta a la espalda con espinas y con cabeza,16.56,15.87,2026-03-21 19:51:46
+7497,81704,Sepia limpia,9.89,8.61,2026-03-21 19:51:46
+7498,81200.1,Trucha abierta en libro con cabeza,6.44,6.8,2026-03-21 19:51:47
+7499,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.44,6.8,2026-03-21 19:51:47
+7500,81200.3,Trucha sin aletas,6.44,6.8,2026-03-21 19:51:47
+7501,83692.4,Caballa Verdel a filetes sin cabeza y sin tripa,2.92,3.06,2026-03-21 19:51:50
+7502,83692.3,Caballa Verdel a rodajas sin cabeza y sin tripa,2.92,3.06,2026-03-21 19:51:50
+7503,83692.2,Caballa Verdel sin cabeza y sin tripa,2.92,3.06,2026-03-21 19:51:50
+7504,83692.1,Caballa Verdel sin tripa,2.92,3.06,2026-03-21 19:51:50
+7505,83692.5,Caballa Verdel abierta a la espalda con espinas y con cabeza,2.92,3.06,2026-03-21 19:51:51
