@@ -7910,3 +7910,92 @@ id,product_id,name,old_price,new_price,change_date
 7909,81200.1,Trucha abierta en libro con cabeza,5.55,5.64,2026-03-28 19:57:05
 7910,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.55,5.64,2026-03-28 19:57:05
 7911,81200.3,Trucha sin aletas,5.55,5.64,2026-03-28 19:57:06
+7912,29608,Bebida isotónica limón Aquarius,2.1,1.91,2026-03-30 09:16:14
+7913,29612,Bebida isotónica limón Aquarius zero azúcar,2.1,1.69,2026-03-30 09:16:15
+7914,29609,Bebida isotónica naranja Aquarius,2.1,1.91,2026-03-30 09:16:15
+7915,28670,Bebida energética Energy Ultra zero Monster,5.36,6.68,2026-03-30 09:16:18
+7916,28016,Bebida energética Energy Monster,1.45,1.79,2026-03-30 09:16:19
+7917,28119,Bebida energética Energy Ultra zero Monster,1.45,1.79,2026-03-30 09:16:19
+7918,28664,Bebida energética energy Monster,5.36,6.68,2026-03-30 09:16:19
+7919,13814,Bebida energética Mango Loco Monster,1.45,1.79,2026-03-30 09:16:21
+7920,13815,Bebida energética Mango Loco Monster,5.36,6.68,2026-03-30 09:16:21
+7921,16440,Bebida energética Energy Ultra zero Strawberry Monster,1.45,1.79,2026-03-30 09:16:23
+7922,28181,Refresco Coca-Cola,1.39,1.55,2026-03-30 09:16:24
+7923,9886,Refresco Coca-Cola,2.4,3.0,2026-03-30 09:16:24
+7924,27348,Refresco Coca-Cola,4.1,3.8,2026-03-30 09:16:24
+7925,9887,Refresco Coca-Cola Zero azúcar,2.4,3.0,2026-03-30 09:16:27
+7926,27449,Refresco Coca-Cola Zero azúcar,3.8,4.1,2026-03-30 09:16:27
+7927,13816,Refresco Coca-Cola Zero azúcar,1.39,1.55,2026-03-30 09:16:28
+7928,28180,Refresco Coca-Cola Zero Zero,3.8,4.1,2026-03-30 09:16:29
+7929,27602,Refresco Fanta limón,0.8,0.75,2026-03-30 09:16:34
+7930,13817,Refresco Fanta limón,6.93,5.94,2026-03-30 09:16:34
+7931,27608,Refresco Fanta limón zero azúcares añadidos,0.8,0.75,2026-03-30 09:16:34
+7932,8779,Refresco Fanta limón zero azúcares añadidos,6.16,4.24,2026-03-30 09:16:34
+7933,27761,Refresco limón Schweppes original,4.0,7.76,2026-03-30 09:16:36
+7934,27845,Refresco lima limón Sprite,0.55,0.65,2026-03-30 09:16:37
+7935,28176,Refresco lima limón Sprite,4.0,4.88,2026-03-30 09:16:37
+7936,26990,Refresco lima limón Sprite,1.65,1.35,2026-03-30 09:16:37
+7937,27502,Refresco Fanta naranja,0.8,0.75,2026-03-30 09:16:39
+7938,27571,Refresco Fanta naranja,6.93,5.94,2026-03-30 09:16:39
+7939,27510,Refresco Fanta naranja zero azúcares añadidos,0.8,0.75,2026-03-30 09:16:40
+7940,8778,Refresco Fanta naranja zero azúcares añadidos,6.16,4.24,2026-03-30 09:16:40
+7941,27545,Refresco Fanta naranja zero azúcares añadidos,1.59,1.85,2026-03-30 09:16:40
+7942,29247,Tónica original Schweppes,1.8,2.05,2026-03-30 09:16:43
+7943,33026,Mix de pepinillos y cebollitas Hacendado,1.95,1.85,2026-03-30 09:17:01
+7944,14474,Pepinillos agridulces Hacendado,1.75,1.65,2026-03-30 09:17:02
+7945,12126,Chocolate puro Valor,4.6,5.25,2026-03-30 09:18:07
+7946,9288,Papilla verduritas con pollo Hero Solo buenas noches +6 meses,3.3,2.85,2026-03-30 09:18:36
+7947,9298,Papilla lentejas con verduritas Hero Solo recetas caseras +8 meses,3.3,2.95,2026-03-30 09:18:37
+7948,9040,Preparado lácteo crecimiento Peques 3 Puleva,1.89,1.99,2026-03-30 09:18:40
+7949,9049,Preparado lácteo crecimiento Peques 3 Puleva,11.34,11.94,2026-03-30 09:18:40
+7950,9034,Preparado lácteo con cereales crecimiento Peques 3 Puleva,1.89,1.99,2026-03-30 09:18:41
+7951,9057,Preparado lácteo con cereales crecimiento Peques 3 Puleva,11.34,11.94,2026-03-30 09:18:41
+7952,20321,Preparado lácteo con cereales y frutas Peques 3 Puleva,1.89,2.0,2026-03-30 09:18:43
+7953,35602,Papilla 8 cereales con galleta María Nestlé +6 meses,4.95,5.75,2026-03-30 09:18:44
+7954,35601,Papilla 8 cereales con miel Nestlé +6 meses,4.95,5.75,2026-03-30 09:18:44
+7955,66922,Sangría Casón Histórico,1.75,1.65,2026-03-30 09:19:36
+7956,60748,Tinto de verano zero limón Casón Histórico,1.15,1.0,2026-03-30 09:19:37
+7957,67818,Tinto de verano limón Casón Histórico,1.3,1.0,2026-03-30 09:19:38
+7958,86348,Café con leche en cápsula Hacendado,3.55,3.45,2026-03-30 09:20:01
+7959,23405,Café con leche en cápsula descafeinado Hacendado,3.55,3.45,2026-03-30 09:20:02
+7960,67659,Café cortado en cápsula Hacendado,3.55,3.45,2026-03-30 09:20:02
+7961,23404,Cortado en cápsula descafeinado Hacendado,3.55,3.45,2026-03-30 09:20:02
+7962,15923,Café molido mezcla Hacendado,2.7,2.65,2026-03-30 09:20:06
+7963,15922,Café molido mezcla Hacendado,5.2,5.0,2026-03-30 09:20:06
+7964,13592,Café molido descafeinado Hacendado,2.7,2.65,2026-03-30 09:20:07
+7965,13593,Café molido descafeinado Hacendado,5.2,5.0,2026-03-30 09:20:07
+7966,22163,Café soluble Classic Hacendado,4.4,4.25,2026-03-30 09:20:10
+7967,22164,Café soluble descafeinado Hacendado,4.65,4.55,2026-03-30 09:20:12
+7968,14976,Brochetas de cerdo adobadas,3.23,3.17,2026-03-30 09:20:54
+7969,21554,Carrilladas de cerdo al vino,7.9,8.9,2026-03-30 09:20:55
+7970,21807,Chuletas de cordero palo y riñonada,8.99,8.76,2026-03-30 09:20:56
+7971,21810,Chuletas de cordero paletilla,7.1,6.87,2026-03-30 09:20:57
+7972,51079,Queso untar light Philadelphia,2.3,2.9,2026-03-30 09:22:52
+7973,51073,Queso untar original Philadelphia,2.3,2.9,2026-03-30 09:22:52
+7974,63321,San Jacobos empanados de york y queso Hacendado ultracongelados,1.35,1.45,2026-03-30 09:23:50
+7975,63407,Empanadillas de atún Hacendado ultracongeladas,1.9,2.0,2026-03-30 09:23:53
+7976,13413,Tequeños de queso Hacendado ultracongelados,4.8,4.7,2026-03-30 09:23:56
+7977,61371,Pimientos del piquillo rellenos de bacalao Hacendado ultracongelados,2.1,2.0,2026-03-30 09:24:12
+7978,61405,Patatas prefritas corte grueso Hacendado ultracongeladas,3.1,3.0,2026-03-30 09:24:16
+7979,15206,Melocotón en almíbar Hacendado,2.45,2.35,2026-03-30 09:24:38
+7980,15203,Piña en su jugo Hacendado rodajas,2.5,2.4,2026-03-30 09:24:38
+7981,7026,Caldo de cocido casero Gallina Blanca,1.85,2.2,2026-03-30 09:24:48
+7982,7024,Caldo de pollo casero Gallina Blanca,1.85,2.2,2026-03-30 09:24:48
+7983,20955,Champú anticaspa Citrus Fresh H&S cabello graso,3.95,3.9,2026-03-30 09:25:11
+7984,20956,Champú anticaspa Menthol Fresh H&S,3.95,3.9,2026-03-30 09:25:11
+7985,35397,Champú anticaspa Citric Ultrex cabello graso,2.5,2.3,2026-03-30 09:25:12
+7986,35398,Champú anticaspa Menthol Ultrex todo tipo de cabello,2.5,2.3,2026-03-30 09:25:12
+7987,20954,Champú y acondicionador anticaspa Classic 2 en 1 H&S,3.95,3.9,2026-03-30 09:25:12
+7988,35399,Champú y acondicionador anticaspa Classic 2 en 1 Ultrex todo tipo de cabello,2.5,2.3,2026-03-30 09:25:12
+7989,3897,Lima,0.32,0.31,2026-03-30 09:28:40
+7990,14379,Moras,3.0,2.85,2026-03-30 09:28:44
+7991,69937,Tomate ensalada,0.42,0.46,2026-03-30 09:28:57
+7992,69338,Calabacín verde,0.82,0.72,2026-03-30 09:29:02
+7993,68408,Puerros,2.16,2.03,2026-03-30 09:29:10
+7994,3527,Calabaza cacahuete cortada a trozos,2.11,1.92,2026-03-30 09:29:11
+7995,69656,Espárragos verdes finos,2.45,2.25,2026-03-30 09:29:12
+7996,10884,Bebida láctea Omega 3 Puleva con leche desnatada,1.75,1.89,2026-03-30 09:29:28
+7997,10146,Bebida láctea Omega 3 Puleva con leche desnatada,10.5,11.34,2026-03-30 09:29:28
+7998,10282,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,1.75,1.95,2026-03-30 09:29:30
+7999,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,10.5,11.7,2026-03-30 09:29:30
+8000,87240,Porciones de merluza del Cabo,9.1,9.43,2026-03-30 09:32:50
