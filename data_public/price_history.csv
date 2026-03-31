@@ -8073,3 +8073,53 @@ id,product_id,name,old_price,new_price,change_date
 8072,80771,Tortilla de patata Hacendado,2.8,2.6,2026-03-31 09:22:13
 8073,80895,Tortilla de patata y cebolla Hacendado,2.8,2.6,2026-03-31 09:22:13
 8074,80795,Ensaladilla rusa Hacendado,3.0,2.8,2026-03-31 09:22:25
+8075,3119,Pera Conferencia,0.47,0.49,2026-03-31 21:18:15
+8076,3505.2,1/4 Sandía baja en semillas,4.29,4.27,2026-03-31 21:18:17
+8077,3505.1,Media sandía baja en semillas,8.43,8.35,2026-03-31 21:18:18
+8078,3529,Sandía baja en semillas,15.06,15.04,2026-03-31 21:18:18
+8079,3506,Melón piel de sapo,6.45,6.74,2026-03-31 21:18:19
+8080,3210,Limón,0.6,0.62,2026-03-31 21:18:20
+8081,3235,Naranja de mesa,0.6,0.59,2026-03-31 21:18:21
+8082,3202,Pomelo,0.68,0.7,2026-03-31 21:18:21
+8083,3820,Kiwi verde,0.49,0.46,2026-03-31 21:18:22
+8084,3076,Piña,3.56,3.66,2026-03-31 21:18:23
+8085,3050,Mango,1.36,1.57,2026-03-31 21:18:25
+8086,3026,Papaya,3.27,3.22,2026-03-31 21:18:25
+8087,69239,Batata,1.44,1.47,2026-03-31 21:18:41
+8088,69173,Yuca,1.85,1.82,2026-03-31 21:18:41
+8089,69937,Tomate ensalada,0.46,0.48,2026-03-31 21:18:45
+8090,69487,Rama de Tomates,1.87,1.77,2026-03-31 21:18:49
+8091,69444,Tomate rosa,1.29,1.33,2026-03-31 21:18:50
+8092,69584,Pepino,0.41,0.43,2026-03-31 21:18:51
+8093,69310,Pimiento rojo,1.13,1.16,2026-03-31 21:18:53
+8094,69338,Calabacín verde,0.7,0.72,2026-03-31 21:18:54
+8095,69312,Pimiento verde,0.87,0.84,2026-03-31 21:18:55
+8096,69220,Coliflor,2.6,2.62,2026-03-31 21:18:56
+8097,69580,Brócoli,1.27,1.3,2026-03-31 21:19:02
+8098,69326,Berenjena,0.77,0.79,2026-03-31 21:19:03
+8099,69347,Berenjena rayada,0.74,0.71,2026-03-31 21:19:03
+8100,81649.1,Salmón a rodajas,43.26,47.44,2026-03-31 21:23:54
+8101,81649.4,Salmón media pieza a rodajas,22.23,23.18,2026-03-31 21:23:54
+8102,81649.2,Salmón abierto en libro sin cabeza y sin espina,43.26,47.44,2026-03-31 21:23:55
+8103,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,22.23,23.18,2026-03-31 21:23:55
+8104,81649.3,Salmón sin aletas y sin escamas,43.26,47.44,2026-03-31 21:23:55
+8105,81649.6,Salmón media pieza sin aletas y sin escamas,22.23,23.18,2026-03-31 21:23:56
+8106,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.37,5.47,2026-03-31 21:23:57
+8107,81234.1,Dorada limpia con cabeza,5.37,5.47,2026-03-31 21:23:57
+8108,81234.5,Dorada a filetes sin cabeza y sin espina,5.37,5.47,2026-03-31 21:23:58
+8109,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.37,5.47,2026-03-31 21:23:58
+8110,81234.3,Dorada sin limpiar,5.37,5.47,2026-03-31 21:23:58
+8111,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.38,4.27,2026-03-31 21:23:59
+8112,81241.1,Lubina limpia con cabeza,4.38,4.27,2026-03-31 21:23:59
+8113,81241.5,Lubina a filetes sin cabeza y sin espina,4.38,4.27,2026-03-31 21:24:00
+8114,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.38,4.27,2026-03-31 21:24:00
+8115,81241.3,Lubina sin limpiar,4.38,4.27,2026-03-31 21:24:00
+8116,81204.3,Bacalao media pieza a rodajas,12.46,12.22,2026-03-31 21:24:04
+8117,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,12.46,12.22,2026-03-31 21:24:04
+8118,81055.1,Corvina limpia con cabeza,14.95,14.03,2026-03-31 21:24:05
+8119,81055.3,Corvina a filetes,14.95,14.03,2026-03-31 21:24:06
+8120,81055.2,Corvina abierta a la espalda con espinas y con cabeza,14.95,14.03,2026-03-31 21:24:06
+8121,81704,Sepia limpia,8.61,7.98,2026-03-31 21:24:06
+8122,81200.1,Trucha abierta en libro con cabeza,5.64,6.62,2026-03-31 21:24:08
+8123,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.64,6.62,2026-03-31 21:24:08
+8124,81200.3,Trucha sin aletas,5.64,6.62,2026-03-31 21:24:08
