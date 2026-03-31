@@ -1,251 +1,400 @@
-import requests
+import os
+import csv
 import sqlite3
 import time
+import requests
 from datetime import datetime
 
-DEFAULT_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
-    "Accept": "application/json",
-    "Accept-Language": "es-ES,es;q=0.9"
-}
-REQUEST_TIMEOUT = 15
-
-def safe_get(url):
-    """GET con headers/timeout y manejo de excepciones."""
-    try:
-        return requests.get(url, headers=DEFAULT_HEADERS, timeout=REQUEST_TIMEOUT)
-    except requests.RequestException as e:
-        print(f"❌ Error de red al llamar {url}: {e}")
-        return None
+# ── CONFIG ───────────────────────────────────────────────────────────────────────────────
 
 BASE_URL = "https://tienda.mercadona.es/api"
-DB_PATH = "data/mercadona_prices.db"
+DB_PATH  = "data/mercadona_prices.db"
+SLEEP_REQ = 0.1   # segundos entre requests
+RETRIES   = 3
 
-# Lista para almacenar los cambios de precio detectados
-price_changes = []
+DEFAULT_HEADERS = {
+    "User-Agent":      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
+    "Accept":          "application/json",
+    "Accept-Language": "es-ES,es;q=0.9",
+}
 
-def init_db():
-    """Inicializa la base de datos, incluyendo el unit_size en la tabla de productos."""
+price_changes: list[tuple] = []
+
+
+# ── TAXONOMÍA CANÓNICA ─────────────────────────────────────────────────────────────────
+# Mercadona ya tiene categorías en español y bien estructuradas.
+# El mapeo se aplica sobre el nombre de la subcategoría (nivel hoja).
+# Se evalúan en orden: el primer match gana.
+
+_CANONICAL_RULES: list[tuple[str, str]] = [
+    # Lácteos
+    ("lácteo",            "Lacteos"),
+    ("leche",              "Lacteos"),
+    ("yogur",              "Lacteos"),
+    ("queso",              "Lacteos"),
+    ("mantequilla",        "Lacteos"),
+    ("nata ",              "Lacteos"),
+    ("huevo",              "Lacteos"),
+    ("mantecado",          "Lacteos"),
+    # Carnes
+    ("carne",              "Carnes"),
+    ("ave ",               "Carnes"),
+    ("aves ",              "Carnes"),
+    ("embutido",           "Carnes"),
+    ("charcutería",       "Carnes"),
+    ("jamón",              "Carnes"),
+    ("pollo",              "Carnes"),
+    ("pavo",               "Carnes"),
+    ("cerdo",              "Carnes"),
+    ("ternera",            "Carnes"),
+    # Pescados y Mariscos
+    ("pescado",            "Pescados y Mariscos"),
+    ("marisco",            "Pescados y Mariscos"),
+    ("atún",              "Pescados y Mariscos"),
+    ("sardína",            "Pescados y Mariscos"),
+    # Frutas y Verduras
+    ("fruta",              "Frutas y Verduras"),
+    ("verdura",            "Frutas y Verduras"),
+    ("hortaliza",          "Frutas y Verduras"),
+    ("ensalada",           "Frutas y Verduras"),
+    # Panadería
+    ("pan ",               "Panaderia y Bolleria"),
+    ("bollería",           "Panaderia y Bolleria"),
+    ("pastelería",         "Panaderia y Bolleria"),
+    ("galleta",            "Panaderia y Bolleria"),
+    ("bizcocho",           "Panaderia y Bolleria"),
+    # Congelados
+    ("congelad",           "Congelados"),
+    # Bebidas
+    ("agua",               "Bebidas"),
+    ("refresco",           "Bebidas"),
+    ("cerveza",            "Bebidas"),
+    ("vino",               "Bebidas"),
+    ("cava",               "Bebidas"),
+    ("zumo",               "Bebidas"),
+    ("café",              "Bebidas"),
+    ("cafe ",              "Bebidas"),
+    ("infusión",           "Bebidas"),
+    ("isótonic",           "Bebidas"),
+    ("energétic",          "Bebidas"),
+    ("tónica",             "Bebidas"),
+    # Conservas
+    ("conserva",           "Conservas"),
+    ("enlatado",           "Conservas"),
+    # Pasta, Arroz y Legumbres
+    ("pasta",              "Pasta, Arroz y Legumbres"),
+    ("arroz",              "Pasta, Arroz y Legumbres"),
+    ("legumbre",           "Pasta, Arroz y Legumbres"),
+    # Cereales y Desayunos
+    ("cereal",             "Cereales y Desayunos"),
+    ("desayuno",           "Cereales y Desayunos"),
+    ("muesli",             "Cereales y Desayunos"),
+    # Aceites y Condimentos
+    ("aceite",             "Aceites y Condimentos"),
+    ("vinagre",            "Aceites y Condimentos"),
+    ("especia",            "Aceites y Condimentos"),
+    ("salsa",              "Aceites y Condimentos"),
+    ("mayonesa",           "Aceites y Condimentos"),
+    ("ketchup",            "Aceites y Condimentos"),
+    ("mostaza",            "Aceites y Condimentos"),
+    ("sal ",               "Aceites y Condimentos"),
+    # Snacks y Aperitivos
+    ("aperitivo",          "Snacks y Aperitivos"),
+    ("snack",              "Snacks y Aperitivos"),
+    ("patatas fritas",     "Snacks y Aperitivos"),
+    ("fruto seco",         "Snacks y Aperitivos"),
+    ("aceituna",           "Snacks y Aperitivos"),
+    ("encurtido",          "Snacks y Aperitivos"),
+    # Dulces y Postres
+    ("chocolate",          "Dulces y Postres"),
+    ("dulce",              "Dulces y Postres"),
+    ("postre",             "Dulces y Postres"),
+    ("mermelada",          "Dulces y Postres"),
+    (" miel ",             "Dulces y Postres"),
+    ("cacao",              "Dulces y Postres"),
+    # Higiene Personal
+    ("higiene",            "Higiene Personal"),
+    ("cuidado personal",   "Higiene Personal"),
+    ("cosmética",          "Higiene Personal"),
+    ("perfumería",         "Higiene Personal"),
+    ("farmacia",           "Higiene Personal"),
+    ("dental",             "Higiene Personal"),
+    # Limpieza del Hogar
+    ("limpieza",           "Limpieza del Hogar"),
+    ("detergente",         "Limpieza del Hogar"),
+    ("hogar",              "Limpieza del Hogar"),
+    ("fregasuelo",         "Limpieza del Hogar"),
+    # Bebés y Niños
+    ("bebé",               "Bebes y Ninos"),
+    ("infantil",           "Bebes y Ninos"),
+    # Mascotas
+    ("mascota",            "Mascotas"),
+    ("perro",              "Mascotas"),
+    ("gato",               "Mascotas"),
+]
+
+
+def get_canonical_category(subcategory_name: str) -> str:
+    """
+    Mapea el nombre de la subcategoría de Mercadona (en español) a la
+    categoría canónica unificada compartida con BonPreu y Consum.
+
+    Ejemplos:
+        "Aceite, vinagre y sal"    → "Aceites y Condimentos"
+        "Patatas fritas y snacks"  → "Snacks y Aperitivos"
+        "Agua"                     → "Bebidas"
+    """
+    if not subcategory_name:
+        return "Otros"
+    name_lower = f" {subcategory_name.lower()} "
+    for keyword, canonical in _CANONICAL_RULES:
+        if keyword in name_lower:
+            return canonical
+    return "Otros"
+
+
+# ── HTTP ───────────────────────────────────────────────────────────────────────────────
+
+def safe_get(url: str) -> requests.Response | None:
+    for attempt in range(1, RETRIES + 1):
+        try:
+            r = requests.get(url, headers=DEFAULT_HEADERS, timeout=15)
+            if r.status_code == 200:
+                return r
+            print(f"  ⚠️  HTTP {r.status_code} — {url} (intento {attempt}/{RETRIES})")
+        except requests.RequestException as e:
+            print(f"  ❌ Error de red: {e} (intento {attempt}/{RETRIES})")
+        time.sleep(2)
+    return None
+
+
+# ── DB ────────────────────────────────────────────────────────────────────────────────
+
+def init_db() -> None:
     print("📦 Inicializando base de datos...")
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
-    # Se añade la columna unit_size (tipo REAL) a la tabla products
-    cursor.execute('''
+    cur  = conn.cursor()
+    cur.execute('''
         CREATE TABLE IF NOT EXISTS products (
-            id TEXT PRIMARY KEY,
-            name TEXT,
-            last_price REAL,
-            unit_size REAL,
-            last_update TIMESTAMP
+            id                 TEXT PRIMARY KEY,
+            name               TEXT,
+            last_price         REAL,
+            unit_size          REAL,
+            image_url          TEXT,
+            canonical_category TEXT,
+            last_update        TIMESTAMP
         )
     ''')
-    cursor.execute('''
+    cur.execute('''
         CREATE TABLE IF NOT EXISTS price_history (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            product_id TEXT,
-            name TEXT,
-            old_price REAL,
-            new_price REAL,
+            id          INTEGER PRIMARY KEY AUTOINCREMENT,
+            product_id  TEXT,
+            name        TEXT,
+            old_price   REAL,
+            new_price   REAL,
             change_date TIMESTAMP,
             FOREIGN KEY (product_id) REFERENCES products(id)
         )
     ''')
+
+    # Migración segura: añade columnas nuevas en DBs existentes
+    _add_column_if_missing(cur, "products", "image_url",          "TEXT")
+    _add_column_if_missing(cur, "products", "canonical_category", "TEXT")
+
     conn.commit()
     conn.close()
     print("✅ Base de datos lista.")
 
-def get_product_details(product_id):
-    """Obtiene los detalles del producto y, si hay variación en el precio, lo almacena en price_changes.
-       Además, extrae y guarda el unit_size."""
-    retries = 3  # Número de intentos permitidos antes de abandonar
-    attempt = 0
 
-    while attempt < retries:
-        print(f"🔍 Obteniendo detalles del producto ID {product_id} (Intento {attempt + 1}/{retries})...")
-        url = f"{BASE_URL}/products/{product_id}"
-        response = safe_get(url)
-        if response is None:
-            attempt += 1
-            time.sleep(2)
-            continue
+def _add_column_if_missing(cur: sqlite3.Cursor, table: str, column: str, col_type: str) -> None:
+    cur.execute(f"PRAGMA table_info({table})")
+    existing = {row[1] for row in cur.fetchall()}
+    if column not in existing:
+        cur.execute(f"ALTER TABLE {table} ADD COLUMN {column} {col_type}")
+        print(f"  🔧 Columna '{column}' añadida a '{table}'")
 
-        if response.status_code == 200:
-            product_data = response.json()
-            product_name = product_data.get("display_name", "Sin nombre")
-            price_info = product_data.get("price_instructions", {})
-            new_price = float(price_info.get("unit_price", 0))
-            # Extraemos unit_size; si no existe se guarda como None
-            unit_size = price_info.get("unit_size")
-            now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-            print(f"ℹ️ Procesando {product_name} ({new_price}€) - Unit size: {unit_size}")
+# ── PROCESADO DE PRODUCTO ─────────────────────────────────────────────────────────────
 
-            conn = sqlite3.connect(DB_PATH)
-            cursor = conn.cursor()
+def process_product(p: dict, subcategory_name: str) -> None:
+    """
+    Procesa un producto del listado de categoría de Mercadona.
 
-            # Verificar si el producto ya existe en la BD (ahora se recupera last_price y unit_size)
-            cursor.execute("SELECT last_price, unit_size FROM products WHERE id = ?", (product_id,))
-            result = cursor.fetchone()
+    Todos los campos necesarios están disponibles en el dict del producto
+    (display_name, price_instructions, thumbnail) — no hace falta llamar
+    a /api/products/{id} individualmente.
 
-            if result:
-                old_price, old_unit_size = result
-                if old_price != new_price:
-                    change_msg = f"{product_name}: {old_price}€ → {new_price}€"
-                    price_changes.append((product_id, product_name, old_price, new_price, now))
-                    print(f"🔄 Cambio detectado en {product_name}: {old_price}€ → {new_price}€")
-                    # Se insertan los cambios en el historial
-                    cursor.execute('''
-                        INSERT INTO price_history (product_id, name, old_price, new_price, change_date)
-                        VALUES (?, ?, ?, ?, ?)
-                    ''', (product_id, product_name, old_price, new_price, now))
-                # Actualizamos el producto con el nuevo precio, unit_size y la fecha
-                cursor.execute("UPDATE products SET last_price = ?, unit_size = ?, last_update = ? WHERE id = ?",
-                               (new_price, unit_size, now, product_id))
-            else:
-                print(f"✅ Nuevo producto detectado: {product_name} ({new_price}€) - Unit size: {unit_size}")
-                cursor.execute("INSERT INTO products (id, name, last_price, unit_size, last_update) VALUES (?, ?, ?, ?, ?)",
-                               (product_id, product_name, new_price, unit_size, now))
-            conn.commit()
-            conn.close()
-
-            print(f"✔️ Información de {product_name} consultada.\n")
-            time.sleep(0.1)  # Evita sobrecargar la API
-            return
-        else:
-            print(f"❌ Error al obtener detalles del producto {product_id} (Código: {response.status_code})")
-            attempt += 1
-            time.sleep(2)  # Esperar 2 segundos antes de reintentar
-
-    print(f"❌ No se pudo obtener los detalles del producto {product_id} tras {retries} intentos.")
-
-def get_products(subcategory_id):
-    """Obtiene los productos de una subcategoría y consulta sus precios."""
-    print(f"📂 Consultando productos en la subcategoría ID {subcategory_id}...")
-    url = f"{BASE_URL}/categories/{subcategory_id}"
-    response = safe_get(url)
-    if response is None:
-        print(f"❌ Error de red al obtener productos de la subcategoría {subcategory_id}")
+    Mercadona no tiene precios de oferta tradicionales (offer_price siempre
+    null). Las bajadas de precio se rastrean mediante price_history.
+    """
+    product_id = str(p.get("id", "")).strip()
+    if not product_id:
         return
 
-    if response.status_code == 200:
-        subcategory_data = response.json()
-        if "products" in subcategory_data and isinstance(subcategory_data["products"], list):
-            print(f"🔎 Se encontraron {len(subcategory_data['products'])} productos en esta subcategoría.")
-            for product in subcategory_data["products"]:
-                get_product_details(product["id"])
-        if "categories" in subcategory_data and isinstance(subcategory_data["categories"], list):
-            for subcat in subcategory_data["categories"]:
-                if "products" in subcat and isinstance(subcat["products"], list):
-                    print(f"📂 Subcategoría secundaria encontrada: ID {subcat['id']}...")
-                    for product in subcat["products"]:
-                        get_product_details(product["id"])
-    else:
-        print(f"❌ Error al obtener productos de la subcategoría {subcategory_id}")
+    name      = p.get("display_name", "Sin nombre").strip()
+    thumbnail = p.get("thumbnail", "") or ""
+    # El thumbnail viene como URL directa o puede ser None
+    image_url = thumbnail.strip() if isinstance(thumbnail, str) else ""
 
-def get_categories():
-    """Recorre todas las categorías y obtiene los productos."""
-    print("📌 Obteniendo lista de categorías...")
-    url = f"{BASE_URL}/categories/"
-    response = safe_get(url)
+    price_info = p.get("price_instructions", {})
+    new_price  = float(price_info.get("unit_price") or 0)
+    unit_size  = price_info.get("unit_size")   # REAL, puede ser None
+
+    canonical_category = get_canonical_category(subcategory_name)
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    conn = sqlite3.connect(DB_PATH)
+    cur  = conn.cursor()
+
+    cur.execute("SELECT last_price FROM products WHERE id = ?", (product_id,))
+    row = cur.fetchone()
+
+    if row:
+        old_price = row[0]
+        if old_price != new_price:
+            arrow = "📈" if new_price > old_price else "📉"
+            print(f"  {arrow} {name}: {old_price}€ → {new_price}€")
+            price_changes.append((product_id, name, old_price, new_price, now))
+            cur.execute('''
+                INSERT INTO price_history (product_id, name, old_price, new_price, change_date)
+                VALUES (?, ?, ?, ?, ?)
+            ''', (product_id, name, old_price, new_price, now))
+        cur.execute('''
+            UPDATE products
+            SET name=?, last_price=?, unit_size=?, image_url=?,
+                canonical_category=?, last_update=?
+            WHERE id=?
+        ''', (name, new_price, unit_size, image_url, canonical_category, now, product_id))
+    else:
+        cur.execute('''
+            INSERT INTO products
+                (id, name, last_price, unit_size, image_url, canonical_category, last_update)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
+        ''', (product_id, name, new_price, unit_size, image_url, canonical_category, now))
+
+    conn.commit()
+    conn.close()
+
+
+# ── FETCH ─────────────────────────────────────────────────────────────────────────────
+
+def get_products_for_subcategory(subcat_id: int, subcat_name: str) -> int:
+    """
+    Llama a /api/categories/{id} y procesa todos los productos del resultado.
+    El endpoint devuelve productos con name, price y thumbnail sin necesidad
+    de llamadas adicionales por producto.
+    """
+    response = safe_get(f"{BASE_URL}/categories/{subcat_id}")
+    if response is None:
+        print(f"  ❌ Saltando subcategoría '{subcat_name}' tras {RETRIES} intentos")
+        return 0
+
+    data  = response.json()
+    count = 0
+
+    # Los productos pueden estar directamente o dentro de sub-subcategorías
+    for product in data.get("products", []):
+        process_product(product, subcat_name)
+        count += 1
+
+    for sub in data.get("categories", []):
+        sub_name = sub.get("name", subcat_name)
+        for product in sub.get("products", []):
+            process_product(product, sub_name)
+            count += 1
+
+    return count
+
+
+def get_all_categories() -> None:
+    print("📌 Obteniendo árbol de categorías...")
+    response = safe_get(f"{BASE_URL}/categories/")
     if response is None:
         print("❌ Error de red al obtener categorías.")
         return
 
-    if response.status_code == 200:
-        categorias = response.json()
-        if "results" in categorias:
-            for category in categorias["results"]:
-                print(f"📂 Procesando categoría: {category['name']}...")
-                if "categories" in category:
-                    for subcategory in category["categories"]:
-                        print(f"📂 Procesando subcategoría: {subcategory['name']}...")
-                        get_products(subcategory["id"])
-    print("🔍 Proceso completado.")
+    data       = response.json()
+    categories = data.get("results", [])
+    grand_total = 0
 
-def save_price_changes():
-    """Guarda todos los cambios de precio (almacenados en price_changes) en la base de datos."""
-    if not price_changes:
-        print("✅ No hubo cambios de precios en esta ejecución.")
-        return
+    for category in categories:
+        cat_name = category["name"]
+        subcats  = category.get("categories", [])
+        print(f"\n📂 {cat_name} ({len(subcats)} subcategorías)")
 
-    print("\n📥 Guardando cambios de precio en la base de datos...")
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
+        for subcat in subcats:
+            subcat_id   = subcat["id"]
+            subcat_name = subcat["name"]
+            print(f"  └─ {subcat_name}")
+            n = get_products_for_subcategory(subcat_id, subcat_name)
+            grand_total += n
+            print(f"     ✔️ {n} productos")
+            time.sleep(SLEEP_REQ)
 
-    for change in price_changes:
-        product_id, product_name, old_price, new_price, now = change
-        cursor.execute('''
-            INSERT INTO price_history (product_id, name, old_price, new_price, change_date)
-            VALUES (?, ?, ?, ?, ?)
-        ''', (product_id, product_name, old_price, new_price, now))
-        # Actualizar el producto en la tabla principal (ya se hace en get_product_details, pero se refuerza aquí)
-        cursor.execute("UPDATE products SET last_price = ?, last_update = ? WHERE id = ?",
-                       (new_price, now, product_id))
-    conn.commit()
-    conn.close()
-    print("✅ Cambios de precios guardados correctamente.")
-    
-def export_to_csv():
-    """Exporta las tablas 'products' y 'price_history' a CSV en data_public/."""
-    import os, csv
+    print(f"\n📊 Total productos procesados: {grand_total}")
 
+
+# ── EXPORT CSV ──────────────────────────────────────────────────────────────────────────
+
+def export_to_csv() -> None:
     os.makedirs("data_public", exist_ok=True)
-
     conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
+    cur  = conn.cursor()
 
-    # Export: products
     with open("data_public/products.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["id", "name", "last_price", "unit_size", "last_update"])  # cabeceras
-        for row in cursor.execute("""
-            SELECT id, name, last_price, unit_size, last_update
-            FROM products
-            ORDER BY name COLLATE NOCASE
+        w.writerow(["id", "name", "last_price", "unit_size",
+                    "image_url", "canonical_category", "last_update"])
+        for row in cur.execute("""
+            SELECT id, name, last_price, unit_size,
+                   image_url, canonical_category, last_update
+            FROM products ORDER BY name COLLATE NOCASE
         """):
             w.writerow(row)
 
-    # Export: price_history
     with open("data_public/price_history.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["id", "product_id", "name", "old_price", "new_price", "change_date"])  # cabeceras
-        for row in cursor.execute("""
+        w.writerow(["id", "product_id", "name", "old_price", "new_price", "change_date"])
+        for row in cur.execute("""
             SELECT id, product_id, name, old_price, new_price, change_date
-            FROM price_history
-            ORDER BY change_date DESC, id DESC
+            FROM price_history ORDER BY change_date DESC, id DESC
         """):
             w.writerow(row)
 
     conn.close()
-    print("📤 Exportación a CSV completada en data_public/")
+    print("📤 CSV exportados en data_public/")
 
+
+# ── MAIN ──────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    start_time = time.time()
-    print("🚀 Iniciando proceso de actualización de precios...\n")
+    start = time.time()
+    print("🚀 Iniciando actualización de precios Mercadona...\n")
 
     try:
         init_db()
-        get_categories()
-        save_price_changes()
+        get_all_categories()
     finally:
-        # Exporta CSV ocurra lo que ocurra
         try:
             export_to_csv()
         except Exception as e:
-            print(f"⚠️ No se pudo exportar CSV: {e}")
+            print(f"⚠️  No se pudo exportar CSV: {e}")
 
-    end_time = time.time()
-    elapsed_time = end_time - start_time
-    print("\n📌 Resumen de cambios de precios:")
+    elapsed = time.time() - start
+
+    print("\n" + "═" * 50)
+    print("📌 RESUMEN DE CAMBIOS DE PRECIO")
+    print("═" * 50)
     if price_changes:
-        for change in price_changes:
-            product_id, product_name, old_price, new_price, now = change
-            print(f"🔄 {product_name}: {old_price}€ → {new_price}€")
+        for pid, name, old, new, ts in price_changes:
+            d    = "📈" if new > old else "📉"
+            diff = round(new - old, 2)
+            sign = "+" if diff > 0 else ""
+            print(f"  {d} {name}: {old}€ → {new}€  ({sign}{diff}€)")
+        print(f"\n  Total cambios: {len(price_changes)}")
     else:
-        print("✅ No hubo cambios de precios en esta ejecución.")
+        print("  ✅ Sin cambios de precio en esta ejecución.")
 
-    print(f"\n⏱️ Tiempo total de ejecución: {elapsed_time:.2f} segundos")
-    print("🚀 Proceso finalizado con éxito.")
-
-
+    print(f"\n⏱️  Tiempo total: {elapsed:.1f}s")
+    print("🏁 Proceso finalizado.")
