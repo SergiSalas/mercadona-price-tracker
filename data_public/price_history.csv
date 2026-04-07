@@ -8570,3 +8570,59 @@ id,product_id,name,old_price,new_price,change_date
 8569,22651,Yogur griego sabor limón Hacendado,1.7,1.65,2026-04-07 09:04:30
 8570,20571,Yogur griego stracciatella Hacendado,1.9,1.85,2026-04-07 09:04:30
 8571,20029,Kéfir natural sabor suave,1.2,1.1,2026-04-07 09:04:31
+8572,50935,Queso tierno de vaca Hacendado,6.7,6.5,2026-04-07 21:02:09
+8573,3238,Mandarina,0.31,0.28,2026-04-07 21:02:22
+8574,3050,Mango,1.62,1.65,2026-04-07 21:02:22
+8575,3028,Manzana Golden,0.42,0.44,2026-04-07 21:02:22
+8576,3021,Manzana Granny Smith,0.48,0.5,2026-04-07 21:02:22
+8577,3506,Melón piel de sapo,6.89,7.02,2026-04-07 21:02:22
+8578,3235,Naranja de mesa,0.55,0.57,2026-04-07 21:02:22
+8579,3026,Papaya,2.87,2.77,2026-04-07 21:02:22
+8580,3076,Piña,4.18,3.9,2026-04-07 21:02:22
+8581,3819,Plátano de Canarias IGP,0.37,0.35,2026-04-07 21:02:22
+8582,3202,Pomelo,0.82,0.8,2026-04-07 21:02:22
+8583,69239,Batata,1.61,1.57,2026-04-07 21:02:23
+8584,69326,Berenjena,0.77,0.74,2026-04-07 21:02:23
+8585,69580,Brócoli,1.3,1.27,2026-04-07 21:02:23
+8586,69338,Calabacín verde,0.7,0.68,2026-04-07 21:02:23
+8587,69220,Coliflor,2.56,2.46,2026-04-07 21:02:23
+8588,69038,Nabicol,0.81,0.87,2026-04-07 21:02:23
+8589,69312,Pimiento verde,0.78,0.84,2026-04-07 21:02:23
+8590,69320,Pimiento verde freír,0.23,0.25,2026-04-07 21:02:23
+8591,69487,Rama de Tomates,1.87,1.98,2026-04-07 21:02:23
+8592,69236,Repollo liso,2.3,2.29,2026-04-07 21:02:23
+8593,69968,Tomate canario,0.33,0.35,2026-04-07 21:02:23
+8594,69937,Tomate ensalada,0.53,0.44,2026-04-07 21:02:23
+8595,81204.1,Bacalao a rodajas,35.34,34.1,2026-04-07 21:02:33
+8596,81204.2,Bacalao abierto en libro sin cabeza y sin espina,35.34,34.1,2026-04-07 21:02:33
+8597,81055.3,Corvina a filetes,16.91,18.52,2026-04-07 21:02:33
+8598,81055.2,Corvina abierta a la espalda con espinas y con cabeza,16.91,18.52,2026-04-07 21:02:33
+8599,81055.1,Corvina limpia con cabeza,16.91,18.52,2026-04-07 21:02:33
+8600,81234.5,Dorada a filetes sin cabeza y sin espina,6.47,6.37,2026-04-07 21:02:33
+8601,81234.2,Dorada abierta a la espalda con espinas y con cabeza,6.47,6.37,2026-04-07 21:02:33
+8602,81234.4,Dorada abierta en libro sin cabeza y sin espina,6.47,6.37,2026-04-07 21:02:33
+8603,81234.1,Dorada limpia con cabeza,6.47,6.37,2026-04-07 21:02:33
+8604,81234.3,Dorada sin limpiar,6.47,6.37,2026-04-07 21:02:33
+8605,81225.1,Lenguado sin cabeza y sin piel,3.5,3.23,2026-04-07 21:02:33
+8606,81225.2,Lenguado sin limpiar,3.5,3.23,2026-04-07 21:02:33
+8607,81241.5,Lubina a filetes sin cabeza y sin espina,4.16,4.05,2026-04-07 21:02:33
+8608,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.16,4.05,2026-04-07 21:02:33
+8609,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.16,4.05,2026-04-07 21:02:33
+8610,81241.1,Lubina limpia con cabeza,4.16,4.05,2026-04-07 21:02:33
+8611,81241.3,Lubina sin limpiar,4.16,4.05,2026-04-07 21:02:33
+8612,82610.1,Merluza a rodajas,13.05,12.49,2026-04-07 21:02:33
+8613,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.05,12.49,2026-04-07 21:02:33
+8614,82610.4,Merluza media pieza a rodajas,8.55,7.54,2026-04-07 21:02:33
+8615,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.55,7.54,2026-04-07 21:02:33
+8616,82610.6,Merluza media pieza sin aletas y sin escamas,8.55,7.54,2026-04-07 21:02:33
+8617,82610.3,Merluza sin aletas y sin escamas,13.05,12.49,2026-04-07 21:02:33
+8618,81649.1,Salmón a rodajas,38.72,32.03,2026-04-07 21:02:33
+8619,81649.2,Salmón abierto en libro sin cabeza y sin espina,38.72,32.03,2026-04-07 21:02:33
+8620,81649.4,Salmón media pieza a rodajas,15.89,15.54,2026-04-07 21:02:33
+8621,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,15.89,15.54,2026-04-07 21:02:33
+8622,81649.6,Salmón media pieza sin aletas y sin escamas,15.89,15.54,2026-04-07 21:02:33
+8623,81649.3,Salmón sin aletas y sin escamas,38.72,32.03,2026-04-07 21:02:33
+8624,81704,Sepia limpia,10.21,9.89,2026-04-07 21:02:33
+8625,81200.1,Trucha abierta en libro con cabeza,8.23,8.77,2026-04-07 21:02:33
+8626,81200.2,Trucha abierta en libro sin cabeza y sin espina,8.23,8.77,2026-04-07 21:02:33
+8627,81200.3,Trucha sin aletas,8.23,8.77,2026-04-07 21:02:33
