@@ -8731,3 +8731,47 @@ id,product_id,name,old_price,new_price,change_date
 8730,20260,Yogur natural Danone,1.7,1.99,2026-04-09 09:11:14
 8731,68124,Danonino sabor fresa Danone,1.45,1.7,2026-04-09 09:11:15
 8732,68125,Danonino sabor fresa y plátano Danone,1.45,1.7,2026-04-09 09:11:15
+8733,3830,Aguacate,1.29,1.4,2026-04-09 21:05:45
+8734,3897,Lima,0.4,0.35,2026-04-09 21:05:45
+8735,3050,Mango,1.68,1.74,2026-04-09 21:05:45
+8736,8175,Manzana roja acidulce,0.62,0.59,2026-04-09 21:05:45
+8737,3506,Melón piel de sapo,6.95,6.62,2026-04-09 21:05:45
+8738,3076,Piña,3.62,3.56,2026-04-09 21:05:45
+8739,3132,Plátano macho,0.81,0.78,2026-04-09 21:05:45
+8740,3202,Pomelo,0.66,0.59,2026-04-09 21:05:45
+8741,69623,Alcachofa,0.3,0.36,2026-04-09 21:05:46
+8742,69239,Batata,1.41,1.27,2026-04-09 21:05:46
+8743,69580,Brócoli,1.33,1.38,2026-04-09 21:05:46
+8744,69338,Calabacín verde,0.67,0.68,2026-04-09 21:05:46
+8745,69220,Coliflor,2.38,2.4,2026-04-09 21:05:46
+8746,69038,Nabicol,0.87,0.84,2026-04-09 21:05:46
+8747,69584,Pepino,0.41,0.43,2026-04-09 21:05:46
+8748,69310,Pimiento rojo,1.25,1.22,2026-04-09 21:05:46
+8749,69320,Pimiento verde freír,0.25,0.28,2026-04-09 21:05:46
+8750,69487,Rama de Tomates,2.0,1.84,2026-04-09 21:05:46
+8751,69236,Repollo liso,2.14,2.09,2026-04-09 21:05:46
+8752,69968,Tomate canario,0.35,0.33,2026-04-09 21:05:46
+8753,69937,Tomate ensalada,0.44,0.42,2026-04-09 21:05:46
+8754,69444,Tomate rosa,1.26,1.29,2026-04-09 21:05:46
+8755,81204.1,Bacalao a rodajas,35.89,31.21,2026-04-09 21:05:56
+8756,81204.2,Bacalao abierto en libro sin cabeza y sin espina,35.89,31.21,2026-04-09 21:05:56
+8757,81204.3,Bacalao media pieza a rodajas,17.19,17.33,2026-04-09 21:05:56
+8758,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.19,17.33,2026-04-09 21:05:56
+8759,81055.3,Corvina a filetes,20.47,20.24,2026-04-09 21:05:56
+8760,81055.2,Corvina abierta a la espalda con espinas y con cabeza,20.47,20.24,2026-04-09 21:05:56
+8761,81055.1,Corvina limpia con cabeza,20.47,20.24,2026-04-09 21:05:56
+8762,81234.5,Dorada a filetes sin cabeza y sin espina,5.47,4.98,2026-04-09 21:05:56
+8763,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.47,4.98,2026-04-09 21:05:56
+8764,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.47,4.98,2026-04-09 21:05:56
+8765,81234.1,Dorada limpia con cabeza,5.47,4.98,2026-04-09 21:05:56
+8766,81234.3,Dorada sin limpiar,5.47,4.98,2026-04-09 21:05:56
+8767,82610.4,Merluza media pieza a rodajas,7.88,7.99,2026-04-09 21:05:56
+8768,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.88,7.99,2026-04-09 21:05:56
+8769,82610.6,Merluza media pieza sin aletas y sin escamas,7.88,7.99,2026-04-09 21:05:56
+8770,81649.1,Salmón a rodajas,32.03,38.0,2026-04-09 21:05:56
+8771,81649.2,Salmón abierto en libro sin cabeza y sin espina,32.03,38.0,2026-04-09 21:05:56
+8772,81649.4,Salmón media pieza a rodajas,17.21,18.88,2026-04-09 21:05:56
+8773,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,17.21,18.88,2026-04-09 21:05:56
+8774,81649.6,Salmón media pieza sin aletas y sin escamas,17.21,18.88,2026-04-09 21:05:56
+8775,81649.3,Salmón sin aletas y sin escamas,32.03,38.0,2026-04-09 21:05:56
+8776,81704,Sepia limpia,9.25,6.7,2026-04-09 21:05:56
