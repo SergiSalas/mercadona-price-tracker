@@ -8995,3 +8995,57 @@ id,product_id,name,old_price,new_price,change_date
 8994,44912,Gel de higiene íntima Deliplus,1.25,1.2,2026-04-14 09:18:11
 8995,52996,Spray repelente fuerte Deliplus antimosquitos,2.75,2.7,2026-04-14 09:18:13
 8996,12836,Trampa con cebo contra hormigas Bosque Verde,3.6,3.45,2026-04-14 09:18:16
+8997,3830,Aguacate,1.46,1.4,2026-04-14 21:14:05
+8998,3820,Kiwi verde,0.42,0.39,2026-04-14 21:14:05
+8999,3050,Mango,1.74,1.8,2026-04-14 21:14:05
+9000,3028,Manzana Golden,0.44,0.46,2026-04-14 21:14:05
+9001,3021,Manzana Granny Smith,0.5,0.48,2026-04-14 21:14:05
+9002,8177,Manzana roja dulce,0.84,0.81,2026-04-14 21:14:05
+9003,3506,Melón piel de sapo,6.97,7.28,2026-04-14 21:14:05
+9004,3235,Naranja de mesa,0.57,0.56,2026-04-14 21:14:05
+9005,3026,Papaya,2.62,2.97,2026-04-14 21:14:05
+9006,3076,Piña,3.76,3.72,2026-04-14 21:14:05
+9007,3132,Plátano macho,0.81,0.78,2026-04-14 21:14:05
+9008,3202,Pomelo,0.53,0.59,2026-04-14 21:14:05
+9009,69239,Batata,1.17,1.31,2026-04-14 21:14:06
+9010,69326,Berenjena,0.7,0.73,2026-04-14 21:14:06
+9011,69580,Brócoli,1.4,1.48,2026-04-14 21:14:06
+9012,69220,Coliflor,2.6,2.62,2026-04-14 21:14:06
+9013,69038,Nabicol,0.87,0.9,2026-04-14 21:14:06
+9014,69310,Pimiento rojo,1.16,1.19,2026-04-14 21:14:06
+9015,69312,Pimiento verde,0.84,0.9,2026-04-14 21:14:06
+9016,69320,Pimiento verde freír,0.28,0.25,2026-04-14 21:14:06
+9017,69487,Rama de Tomates,1.84,1.76,2026-04-14 21:14:06
+9018,69236,Repollo liso,2.03,2.12,2026-04-14 21:14:06
+9019,69937,Tomate ensalada,0.42,0.44,2026-04-14 21:14:06
+9020,81204.1,Bacalao a rodajas,29.01,34.38,2026-04-14 21:14:15
+9021,81204.2,Bacalao abierto en libro sin cabeza y sin espina,29.01,34.38,2026-04-14 21:14:15
+9022,81055.3,Corvina a filetes,20.01,18.52,2026-04-14 21:14:15
+9023,81055.2,Corvina abierta a la espalda con espinas y con cabeza,20.01,18.52,2026-04-14 21:14:15
+9024,81055.1,Corvina limpia con cabeza,20.01,18.52,2026-04-14 21:14:15
+9025,81234.5,Dorada a filetes sin cabeza y sin espina,4.88,4.78,2026-04-14 21:14:15
+9026,81234.2,Dorada abierta a la espalda con espinas y con cabeza,4.88,4.78,2026-04-14 21:14:15
+9027,81234.4,Dorada abierta en libro sin cabeza y sin espina,4.88,4.78,2026-04-14 21:14:15
+9028,81234.1,Dorada limpia con cabeza,4.88,4.78,2026-04-14 21:14:15
+9029,81234.3,Dorada sin limpiar,4.88,4.78,2026-04-14 21:14:15
+9030,81241.5,Lubina a filetes sin cabeza y sin espina,4.05,4.16,2026-04-14 21:14:15
+9031,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.05,4.16,2026-04-14 21:14:15
+9032,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.05,4.16,2026-04-14 21:14:15
+9033,81241.1,Lubina limpia con cabeza,4.05,4.16,2026-04-14 21:14:15
+9034,81241.3,Lubina sin limpiar,4.05,4.16,2026-04-14 21:14:15
+9035,82610.1,Merluza a rodajas,12.26,12.71,2026-04-14 21:14:15
+9036,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.26,12.71,2026-04-14 21:14:15
+9037,82610.4,Merluza media pieza a rodajas,7.99,9.45,2026-04-14 21:14:15
+9038,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.99,9.45,2026-04-14 21:14:15
+9039,82610.6,Merluza media pieza sin aletas y sin escamas,7.99,9.45,2026-04-14 21:14:15
+9040,82610.3,Merluza sin aletas y sin escamas,12.26,12.71,2026-04-14 21:14:15
+9041,81649.1,Salmón a rodajas,40.27,40.75,2026-04-14 21:14:15
+9042,81649.2,Salmón abierto en libro sin cabeza y sin espina,40.27,40.75,2026-04-14 21:14:15
+9043,81649.4,Salmón media pieza a rodajas,20.2,20.08,2026-04-14 21:14:15
+9044,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,20.2,20.08,2026-04-14 21:14:15
+9045,81649.6,Salmón media pieza sin aletas y sin escamas,20.2,20.08,2026-04-14 21:14:15
+9046,81649.3,Salmón sin aletas y sin escamas,40.27,40.75,2026-04-14 21:14:15
+9047,81704,Sepia limpia,5.58,6.06,2026-04-14 21:14:15
+9048,81200.1,Trucha abierta en libro con cabeza,9.31,7.97,2026-04-14 21:14:15
+9049,81200.2,Trucha abierta en libro sin cabeza y sin espina,9.31,7.97,2026-04-14 21:14:15
+9050,81200.3,Trucha sin aletas,9.31,7.97,2026-04-14 21:14:15
