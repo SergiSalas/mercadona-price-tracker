@@ -9079,3 +9079,61 @@ id,product_id,name,old_price,new_price,change_date
 9078,3819,Plátano de Canarias IGP,0.35,0.37,2026-04-15 09:18:23
 9079,80771,Tortilla de patata Hacendado,2.6,2.8,2026-04-15 09:18:37
 9080,80895,Tortilla de patata y cebolla Hacendado,2.6,2.8,2026-04-15 09:18:37
+9081,3897,Lima,0.35,0.31,2026-04-15 21:16:35
+9082,3210,Limón,0.69,0.72,2026-04-15 21:16:35
+9083,3050,Mango,1.8,1.83,2026-04-15 21:16:35
+9084,3028,Manzana Golden,0.46,0.44,2026-04-15 21:16:35
+9085,3021,Manzana Granny Smith,0.48,0.46,2026-04-15 21:16:35
+9086,8175,Manzana roja acidulce,0.59,0.62,2026-04-15 21:16:35
+9087,8177,Manzana roja dulce,0.81,0.78,2026-04-15 21:16:35
+9088,3506,Melón piel de sapo,7.28,7.88,2026-04-15 21:16:35
+9089,3026,Papaya,2.97,3.07,2026-04-15 21:16:35
+9090,3076,Piña,3.72,3.68,2026-04-15 21:16:35
+9091,3819,Plátano de Canarias IGP,0.37,0.38,2026-04-15 21:16:35
+9092,3132,Plátano macho,0.78,0.81,2026-04-15 21:16:35
+9093,3202,Pomelo,0.59,0.6,2026-04-15 21:16:35
+9094,69239,Batata,1.31,1.47,2026-04-15 21:16:36
+9095,69326,Berenjena,0.73,0.75,2026-04-15 21:16:36
+9096,69580,Brócoli,1.48,1.51,2026-04-15 21:16:36
+9097,69339,Calabacín blanco,0.84,0.86,2026-04-15 21:16:36
+9098,69220,Coliflor,2.62,2.67,2026-04-15 21:16:36
+9099,69038,Nabicol,0.9,0.99,2026-04-15 21:16:36
+9100,69310,Pimiento rojo,1.19,1.16,2026-04-15 21:16:36
+9101,69312,Pimiento verde,0.9,0.87,2026-04-15 21:16:36
+9102,69320,Pimiento verde freír,0.25,0.28,2026-04-15 21:16:36
+9103,69487,Rama de Tomates,1.76,1.65,2026-04-15 21:16:36
+9104,69236,Repollo liso,2.12,2.41,2026-04-15 21:16:36
+9105,69912,Tomate pera,0.22,0.24,2026-04-15 21:16:36
+9106,69444,Tomate rosa,1.29,1.33,2026-04-15 21:16:36
+9107,69173,Yuca,1.85,1.82,2026-04-15 21:16:36
+9108,81055.3,Corvina a filetes,18.52,15.53,2026-04-15 21:16:48
+9109,81055.2,Corvina abierta a la espalda con espinas y con cabeza,18.52,15.53,2026-04-15 21:16:48
+9110,81055.1,Corvina limpia con cabeza,18.52,15.53,2026-04-15 21:16:48
+9111,81234.5,Dorada a filetes sin cabeza y sin espina,4.78,4.98,2026-04-15 21:16:48
+9112,81234.2,Dorada abierta a la espalda con espinas y con cabeza,4.78,4.98,2026-04-15 21:16:48
+9113,81234.4,Dorada abierta en libro sin cabeza y sin espina,4.78,4.98,2026-04-15 21:16:48
+9114,81234.1,Dorada limpia con cabeza,4.78,4.98,2026-04-15 21:16:48
+9115,81234.3,Dorada sin limpiar,4.78,4.98,2026-04-15 21:16:48
+9116,81225.1,Lenguado sin cabeza y sin piel,3.23,3.5,2026-04-15 21:16:48
+9117,81225.2,Lenguado sin limpiar,3.23,3.5,2026-04-15 21:16:48
+9118,81241.5,Lubina a filetes sin cabeza y sin espina,4.16,4.27,2026-04-15 21:16:48
+9119,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.16,4.27,2026-04-15 21:16:48
+9120,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.16,4.27,2026-04-15 21:16:48
+9121,81241.1,Lubina limpia con cabeza,4.16,4.27,2026-04-15 21:16:48
+9122,81241.3,Lubina sin limpiar,4.16,4.27,2026-04-15 21:16:48
+9123,82610.1,Merluza a rodajas,12.71,15.08,2026-04-15 21:16:48
+9124,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.71,15.08,2026-04-15 21:16:48
+9125,82610.4,Merluza media pieza a rodajas,9.45,9.68,2026-04-15 21:16:48
+9126,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,9.45,9.68,2026-04-15 21:16:48
+9127,82610.6,Merluza media pieza sin aletas y sin escamas,9.45,9.68,2026-04-15 21:16:48
+9128,82610.3,Merluza sin aletas y sin escamas,12.71,15.08,2026-04-15 21:16:48
+9129,81649.1,Salmón a rodajas,40.75,40.15,2026-04-15 21:16:48
+9130,81649.2,Salmón abierto en libro sin cabeza y sin espina,40.75,40.15,2026-04-15 21:16:48
+9131,81649.4,Salmón media pieza a rodajas,20.08,18.64,2026-04-15 21:16:48
+9132,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,20.08,18.64,2026-04-15 21:16:48
+9133,81649.6,Salmón media pieza sin aletas y sin escamas,20.08,18.64,2026-04-15 21:16:48
+9134,81649.3,Salmón sin aletas y sin escamas,40.75,40.15,2026-04-15 21:16:48
+9135,81704,Sepia limpia,6.06,7.82,2026-04-15 21:16:48
+9136,81200.1,Trucha abierta en libro con cabeza,7.97,6.35,2026-04-15 21:16:48
+9137,81200.2,Trucha abierta en libro sin cabeza y sin espina,7.97,6.35,2026-04-15 21:16:48
+9138,81200.3,Trucha sin aletas,7.97,6.35,2026-04-15 21:16:48
