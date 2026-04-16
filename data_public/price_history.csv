@@ -9184,3 +9184,55 @@ id,product_id,name,old_price,new_price,change_date
 9183,69338,Calabacín verde,0.52,0.7,2026-04-16 09:19:32
 9184,12056,Carbón vegetal Bosque Verde,4.25,4.05,2026-04-16 09:19:37
 9185,71533,Gamuzas atrapa polvo Bosque Verde,1.8,1.7,2026-04-16 09:19:38
+9186,3830,Aguacate,1.4,1.23,2026-04-16 21:12:32
+9187,3824,Banana,0.26,0.28,2026-04-16 21:12:32
+9188,3820,Kiwi verde,0.39,0.36,2026-04-16 21:12:32
+9189,3210,Limón,0.72,0.75,2026-04-16 21:12:32
+9190,3050,Mango,1.83,1.8,2026-04-16 21:12:32
+9191,3021,Manzana Granny Smith,0.46,0.43,2026-04-16 21:12:32
+9192,3506,Melón piel de sapo,7.88,7.96,2026-04-16 21:12:32
+9193,3026,Papaya,3.07,3.12,2026-04-16 21:12:32
+9194,3076,Piña,3.68,3.64,2026-04-16 21:12:32
+9195,3819,Plátano de Canarias IGP,0.37,0.38,2026-04-16 21:12:32
+9196,3202,Pomelo,0.6,0.57,2026-04-16 21:12:32
+9197,69239,Batata,1.47,1.54,2026-04-16 21:12:33
+9198,69326,Berenjena,0.75,0.77,2026-04-16 21:12:33
+9199,69580,Brócoli,1.51,1.48,2026-04-16 21:12:33
+9200,69339,Calabacín blanco,0.86,0.84,2026-04-16 21:12:33
+9201,69338,Calabacín verde,0.7,0.68,2026-04-16 21:12:33
+9202,69220,Coliflor,2.67,2.64,2026-04-16 21:12:33
+9203,69038,Nabicol,0.99,1.02,2026-04-16 21:12:33
+9204,69310,Pimiento rojo,1.16,1.19,2026-04-16 21:12:33
+9205,69312,Pimiento verde,0.87,0.92,2026-04-16 21:12:33
+9206,69320,Pimiento verde freír,0.28,0.25,2026-04-16 21:12:33
+9207,69487,Rama de Tomates,1.65,1.73,2026-04-16 21:12:33
+9208,69236,Repollo liso,2.41,2.48,2026-04-16 21:12:33
+9209,69937,Tomate ensalada,0.44,0.46,2026-04-16 21:12:33
+9210,69912,Tomate pera,0.24,0.26,2026-04-16 21:12:33
+9211,69444,Tomate rosa,1.33,1.36,2026-04-16 21:12:33
+9212,69173,Yuca,1.82,1.85,2026-04-16 21:12:33
+9213,81204.1,Bacalao a rodajas,34.38,27.64,2026-04-16 21:12:42
+9214,81204.2,Bacalao abierto en libro sin cabeza y sin espina,34.38,27.64,2026-04-16 21:12:42
+9215,81204.3,Bacalao media pieza a rodajas,17.88,16.23,2026-04-16 21:12:42
+9216,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.88,16.23,2026-04-16 21:12:42
+9217,81234.5,Dorada a filetes sin cabeza y sin espina,4.98,5.37,2026-04-16 21:12:42
+9218,81234.2,Dorada abierta a la espalda con espinas y con cabeza,4.98,5.37,2026-04-16 21:12:42
+9219,81234.4,Dorada abierta en libro sin cabeza y sin espina,4.98,5.37,2026-04-16 21:12:42
+9220,81234.1,Dorada limpia con cabeza,4.98,5.37,2026-04-16 21:12:42
+9221,81234.3,Dorada sin limpiar,4.98,5.37,2026-04-16 21:12:42
+9222,82610.1,Merluza a rodajas,15.08,13.95,2026-04-16 21:12:42
+9223,82610.2,Merluza abierta en libro sin cabeza y sin espina,15.08,13.95,2026-04-16 21:12:42
+9224,82610.4,Merluza media pieza a rodajas,9.68,8.89,2026-04-16 21:12:42
+9225,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,9.68,8.89,2026-04-16 21:12:42
+9226,82610.6,Merluza media pieza sin aletas y sin escamas,9.68,8.89,2026-04-16 21:12:42
+9227,82610.3,Merluza sin aletas y sin escamas,15.08,13.95,2026-04-16 21:12:42
+9228,81649.1,Salmón a rodajas,40.15,38.96,2026-04-16 21:12:42
+9229,81649.2,Salmón abierto en libro sin cabeza y sin espina,40.15,38.96,2026-04-16 21:12:42
+9230,81649.4,Salmón media pieza a rodajas,18.64,18.88,2026-04-16 21:12:42
+9231,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,18.64,18.88,2026-04-16 21:12:42
+9232,81649.6,Salmón media pieza sin aletas y sin escamas,18.64,18.88,2026-04-16 21:12:42
+9233,81649.3,Salmón sin aletas y sin escamas,40.15,38.96,2026-04-16 21:12:42
+9234,81704,Sepia limpia,7.82,8.61,2026-04-16 21:12:42
+9235,81200.1,Trucha abierta en libro con cabeza,6.35,5.91,2026-04-16 21:12:42
+9236,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.35,5.91,2026-04-16 21:12:42
+9237,81200.3,Trucha sin aletas,6.35,5.91,2026-04-16 21:12:42
