@@ -9280,3 +9280,52 @@ id,product_id,name,old_price,new_price,change_date
 9279,16442,Detergente ropa todo en 1 frescor floral Ariel Pods en cápsulas,6.9,4.95,2026-04-17 09:19:56
 9280,52146,Snack gato aperitivo líquido Compy,1.6,1.5,2026-04-17 09:20:04
 9281,39109,Bebida Bahamas Hacendado,1.4,1.25,2026-04-17 09:20:15
+9282,3830,Aguacate,1.23,1.29,2026-04-17 20:59:46
+9283,3897,Lima,0.31,0.35,2026-04-17 20:59:46
+9284,3210,Limón,0.75,0.78,2026-04-17 20:59:46
+9285,3238,Mandarina,0.31,0.28,2026-04-17 20:59:46
+9286,3050,Mango,1.8,1.86,2026-04-17 20:59:46
+9287,3506,Melón piel de sapo,7.96,8.1,2026-04-17 20:59:46
+9288,3235,Naranja de mesa,0.56,0.54,2026-04-17 20:59:46
+9289,3026,Papaya,3.12,3.07,2026-04-17 20:59:46
+9290,3819,Plátano de Canarias IGP,0.37,0.38,2026-04-17 20:59:46
+9291,3132,Plátano macho,0.81,0.78,2026-04-17 20:59:46
+9292,3202,Pomelo,0.57,0.6,2026-04-17 20:59:46
+9293,69623,Alcachofa,0.38,0.36,2026-04-17 20:59:47
+9294,69239,Batata,1.54,1.61,2026-04-17 20:59:47
+9295,69326,Berenjena,0.77,0.81,2026-04-17 20:59:47
+9296,69347,Berenjena rayada,0.69,0.71,2026-04-17 20:59:47
+9297,69580,Brócoli,1.48,1.56,2026-04-17 20:59:47
+9298,69338,Calabacín verde,0.68,0.67,2026-04-17 20:59:47
+9299,69220,Coliflor,2.64,2.56,2026-04-17 20:59:47
+9300,69038,Nabicol,1.02,1.05,2026-04-17 20:59:47
+9301,69312,Pimiento verde,0.92,0.98,2026-04-17 20:59:47
+9302,69320,Pimiento verde freír,0.25,0.28,2026-04-17 20:59:47
+9303,69236,Repollo liso,2.48,2.61,2026-04-17 20:59:47
+9304,69968,Tomate canario,0.35,0.33,2026-04-17 20:59:47
+9305,69173,Yuca,1.85,1.82,2026-04-17 20:59:47
+9306,81204.1,Bacalao a rodajas,27.64,32.45,2026-04-17 20:59:57
+9307,81204.2,Bacalao abierto en libro sin cabeza y sin espina,27.64,32.45,2026-04-17 20:59:57
+9308,81204.3,Bacalao media pieza a rodajas,16.23,19.11,2026-04-17 20:59:57
+9309,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,16.23,19.11,2026-04-17 20:59:57
+9310,81055.3,Corvina a filetes,15.53,15.87,2026-04-17 20:59:57
+9311,81055.2,Corvina abierta a la espalda con espinas y con cabeza,15.53,15.87,2026-04-17 20:59:57
+9312,81055.1,Corvina limpia con cabeza,15.53,15.87,2026-04-17 20:59:57
+9313,81234.5,Dorada a filetes sin cabeza y sin espina,5.37,5.27,2026-04-17 20:59:57
+9314,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.37,5.27,2026-04-17 20:59:57
+9315,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.37,5.27,2026-04-17 20:59:57
+9316,81234.1,Dorada limpia con cabeza,5.37,5.27,2026-04-17 20:59:57
+9317,81234.3,Dorada sin limpiar,5.37,5.27,2026-04-17 20:59:57
+9318,81241.5,Lubina a filetes sin cabeza y sin espina,4.27,4.38,2026-04-17 20:59:57
+9319,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.27,4.38,2026-04-17 20:59:57
+9320,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.27,4.38,2026-04-17 20:59:57
+9321,81241.1,Lubina limpia con cabeza,4.27,4.38,2026-04-17 20:59:57
+9322,81241.3,Lubina sin limpiar,4.27,4.38,2026-04-17 20:59:57
+9323,26989,Migas de bacalao al estilo inglés Hacendado,2.8,3.92,2026-04-17 20:59:57
+9324,81649.4,Salmón media pieza a rodajas,18.88,18.4,2026-04-17 20:59:57
+9325,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,18.88,18.4,2026-04-17 20:59:57
+9326,81649.6,Salmón media pieza sin aletas y sin escamas,18.88,18.4,2026-04-17 20:59:57
+9327,81704,Sepia limpia,8.61,9.41,2026-04-17 20:59:57
+9328,81200.1,Trucha abierta en libro con cabeza,5.91,5.82,2026-04-17 20:59:57
+9329,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.91,5.82,2026-04-17 20:59:57
+9330,81200.3,Trucha sin aletas,5.91,5.82,2026-04-17 20:59:57
