@@ -9472,3 +9472,49 @@ id,product_id,name,old_price,new_price,change_date
 9471,82610.3,Merluza sin aletas y sin escamas,13.0,12.99,2026-04-21 09:22:21
 9472,81100.2,Sardina limpia sin cabeza,1.19,1.39,2026-04-21 09:22:21
 9473,81100.1,Sardina sin limpiar,1.19,1.39,2026-04-21 09:22:21
+9474,3830,Aguacate,1.46,1.51,2026-04-21 21:10:30
+9475,3820,Kiwi verde,0.36,0.39,2026-04-21 21:10:30
+9476,3210,Limón,0.81,0.78,2026-04-21 21:10:30
+9477,3050,Mango,1.83,1.68,2026-04-21 21:10:30
+9478,3021,Manzana Granny Smith,0.43,0.41,2026-04-21 21:10:30
+9479,8177,Manzana roja dulce,0.76,0.7,2026-04-21 21:10:30
+9480,3506,Melón piel de sapo,7.66,7.41,2026-04-21 21:10:30
+9481,3026,Papaya,3.07,2.97,2026-04-21 21:10:30
+9482,3076,Piña,3.66,4.38,2026-04-21 21:10:30
+9483,69239,Batata,1.57,1.51,2026-04-21 21:10:31
+9484,69326,Berenjena,0.77,0.75,2026-04-21 21:10:31
+9485,69580,Brócoli,1.48,1.35,2026-04-21 21:10:31
+9486,69220,Coliflor,2.69,2.79,2026-04-21 21:10:31
+9487,69487,Rama de Tomates,1.73,1.76,2026-04-21 21:10:31
+9488,69236,Repollo liso,2.48,2.34,2026-04-21 21:10:31
+9489,69968,Tomate canario,0.33,0.31,2026-04-21 21:10:31
+9490,69444,Tomate rosa,1.36,1.43,2026-04-21 21:10:31
+9491,69173,Yuca,1.85,1.75,2026-04-21 21:10:31
+9492,81204.1,Bacalao a rodajas,32.45,31.08,2026-04-21 21:10:42
+9493,81204.2,Bacalao abierto en libro sin cabeza y sin espina,32.45,31.08,2026-04-21 21:10:42
+9494,81055.3,Corvina a filetes,13.92,16.1,2026-04-21 21:10:42
+9495,81055.2,Corvina abierta a la espalda con espinas y con cabeza,13.92,16.1,2026-04-21 21:10:42
+9496,81055.1,Corvina limpia con cabeza,13.92,16.1,2026-04-21 21:10:42
+9497,81234.5,Dorada a filetes sin cabeza y sin espina,5.07,5.27,2026-04-21 21:10:42
+9498,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.07,5.27,2026-04-21 21:10:42
+9499,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.07,5.27,2026-04-21 21:10:42
+9500,81234.1,Dorada limpia con cabeza,5.07,5.27,2026-04-21 21:10:42
+9501,81234.3,Dorada sin limpiar,5.07,5.27,2026-04-21 21:10:42
+9502,81225.1,Lenguado sin cabeza y sin piel,3.5,3.23,2026-04-21 21:10:42
+9503,81225.2,Lenguado sin limpiar,3.5,3.23,2026-04-21 21:10:42
+9504,82610.1,Merluza a rodajas,12.99,12.88,2026-04-21 21:10:42
+9505,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.99,12.88,2026-04-21 21:10:42
+9506,82610.4,Merluza media pieza a rodajas,8.97,8.05,2026-04-21 21:10:42
+9507,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.97,8.05,2026-04-21 21:10:42
+9508,82610.6,Merluza media pieza sin aletas y sin escamas,8.97,8.05,2026-04-21 21:10:42
+9509,82610.3,Merluza sin aletas y sin escamas,12.99,12.88,2026-04-21 21:10:42
+9510,81649.1,Salmón a rodajas,40.75,40.87,2026-04-21 21:10:42
+9511,81649.2,Salmón abierto en libro sin cabeza y sin espina,40.75,40.87,2026-04-21 21:10:42
+9512,81649.4,Salmón media pieza a rodajas,19.72,20.2,2026-04-21 21:10:42
+9513,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,19.72,20.2,2026-04-21 21:10:42
+9514,81649.6,Salmón media pieza sin aletas y sin escamas,19.72,20.2,2026-04-21 21:10:42
+9515,81649.3,Salmón sin aletas y sin escamas,40.75,40.87,2026-04-21 21:10:42
+9516,81704,Sepia limpia,9.41,9.89,2026-04-21 21:10:42
+9517,81200.1,Trucha abierta en libro con cabeza,6.0,6.35,2026-04-21 21:10:42
+9518,81200.2,Trucha abierta en libro sin cabeza y sin espina,6.0,6.35,2026-04-21 21:10:42
+9519,81200.3,Trucha sin aletas,6.0,6.35,2026-04-21 21:10:42
