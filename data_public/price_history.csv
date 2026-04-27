@@ -9799,3 +9799,39 @@ id,product_id,name,old_price,new_price,change_date
 9798,10504,Leche entera Asturiana,10.98,11.94,2026-04-27 10:04:53
 9799,10502,Leche semidesnatada Asturiana,1.7,1.85,2026-04-27 10:04:53
 9800,10505,Leche semidesnatada Asturiana,10.2,11.1,2026-04-27 10:04:53
+9801,3830,Aguacate,1.51,1.34,2026-04-27 21:20:06
+9802,3210,Limón,0.78,0.75,2026-04-27 21:20:06
+9803,3050,Mango,1.68,1.86,2026-04-27 21:20:06
+9804,3028,Manzana Golden,0.46,0.44,2026-04-27 21:20:06
+9805,3021,Manzana Granny Smith,0.43,0.46,2026-04-27 21:20:06
+9806,3235,Naranja de mesa,0.57,0.59,2026-04-27 21:20:06
+9807,3026,Papaya,2.82,2.72,2026-04-27 21:20:06
+9808,3119,Pera Conferencia,0.51,0.47,2026-04-27 21:20:06
+9809,3076,Piña,4.4,4.1,2026-04-27 21:20:06
+9810,69580,Brócoli,1.12,1.14,2026-04-27 21:20:07
+9811,69339,Calabacín blanco,0.84,0.89,2026-04-27 21:20:07
+9812,69220,Coliflor,3.12,2.93,2026-04-27 21:20:07
+9813,69310,Pimiento rojo,1.19,1.13,2026-04-27 21:20:07
+9814,69312,Pimiento verde,1.01,0.98,2026-04-27 21:20:07
+9815,69320,Pimiento verde freír,0.25,0.23,2026-04-27 21:20:07
+9816,69236,Repollo liso,1.91,1.84,2026-04-27 21:20:07
+9817,69937,Tomate ensalada,0.55,0.57,2026-04-27 21:20:07
+9818,69444,Tomate rosa,1.84,1.8,2026-04-27 21:20:07
+9819,69173,Yuca,1.62,1.58,2026-04-27 21:20:07
+9820,81204.1,Bacalao a rodajas,28.56,28.94,2026-04-27 21:20:16
+9821,81204.2,Bacalao abierto en libro sin cabeza y sin espina,28.56,28.94,2026-04-27 21:20:16
+9822,81204.3,Bacalao media pieza a rodajas,17.47,17.21,2026-04-27 21:20:16
+9823,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.47,17.21,2026-04-27 21:20:16
+9824,81055.3,Corvina a filetes,13.57,14.15,2026-04-27 21:20:16
+9825,81055.2,Corvina abierta a la espalda con espinas y con cabeza,13.57,14.15,2026-04-27 21:20:16
+9826,81055.1,Corvina limpia con cabeza,13.57,14.15,2026-04-27 21:20:16
+9827,82610.4,Merluza media pieza a rodajas,7.59,7.25,2026-04-27 21:20:16
+9828,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.59,7.25,2026-04-27 21:20:16
+9829,82610.6,Merluza media pieza sin aletas y sin escamas,7.59,7.25,2026-04-27 21:20:16
+9830,81649.1,Salmón a rodajas,42.18,41.47,2026-04-27 21:20:16
+9831,81649.2,Salmón abierto en libro sin cabeza y sin espina,42.18,41.47,2026-04-27 21:20:16
+9832,81649.4,Salmón media pieza a rodajas,19.96,20.2,2026-04-27 21:20:16
+9833,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,19.96,20.2,2026-04-27 21:20:16
+9834,81649.6,Salmón media pieza sin aletas y sin escamas,19.96,20.2,2026-04-27 21:20:16
+9835,81649.3,Salmón sin aletas y sin escamas,42.18,41.47,2026-04-27 21:20:16
+9836,81704,Sepia limpia,9.41,9.73,2026-04-27 21:20:16
