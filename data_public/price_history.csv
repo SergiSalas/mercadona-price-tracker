@@ -10026,3 +10026,48 @@ id,product_id,name,old_price,new_price,change_date
 10025,81200.1,Trucha abierta en libro con cabeza,5.01,5.1,2026-04-30 21:20:11
 10026,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.01,5.1,2026-04-30 21:20:11
 10027,81200.3,Trucha sin aletas,5.01,5.1,2026-04-30 21:20:11
+10028,3830,Aguacate,1.29,1.23,2026-05-01 21:10:45
+10029,3210,Limón,0.72,0.69,2026-05-01 21:10:45
+10030,3050,Mango,1.89,1.86,2026-05-01 21:10:45
+10031,3021,Manzana Granny Smith,0.48,0.46,2026-05-01 21:10:45
+10032,8175,Manzana roja acidulce,0.62,0.65,2026-05-01 21:10:45
+10033,3026,Papaya,2.82,2.77,2026-05-01 21:10:45
+10034,3170,Pera Ercolina,0.35,0.31,2026-05-01 21:10:45
+10035,3076,Piña,4.16,3.96,2026-05-01 21:10:45
+10036,69239,Batata,1.37,1.27,2026-05-01 21:10:46
+10037,69326,Berenjena,0.75,0.73,2026-05-01 21:10:46
+10038,69580,Brócoli,1.27,1.3,2026-05-01 21:10:46
+10039,69339,Calabacín blanco,0.91,0.94,2026-05-01 21:10:46
+10040,69338,Calabacín verde,0.72,0.7,2026-05-01 21:10:46
+10041,69220,Coliflor,2.62,2.52,2026-05-01 21:10:46
+10042,69487,Rama de Tomates,1.73,1.84,2026-05-01 21:10:46
+10043,69236,Repollo liso,1.87,1.85,2026-05-01 21:10:46
+10044,69912,Tomate pera,0.29,0.26,2026-05-01 21:10:46
+10045,69444,Tomate rosa,1.73,1.7,2026-05-01 21:10:46
+10046,69173,Yuca,1.82,1.88,2026-05-01 21:10:46
+10047,81204.1,Bacalao a rodajas,37.4,36.03,2026-05-01 21:10:54
+10048,81204.2,Bacalao abierto en libro sin cabeza y sin espina,37.4,36.03,2026-05-01 21:10:54
+10049,81055.3,Corvina a filetes,15.18,15.53,2026-05-01 21:10:54
+10050,81055.2,Corvina abierta a la espalda con espinas y con cabeza,15.18,15.53,2026-05-01 21:10:54
+10051,81055.1,Corvina limpia con cabeza,15.18,15.53,2026-05-01 21:10:54
+10052,81234.5,Dorada a filetes sin cabeza y sin espina,3.88,3.98,2026-05-01 21:10:54
+10053,81234.2,Dorada abierta a la espalda con espinas y con cabeza,3.88,3.98,2026-05-01 21:10:54
+10054,81234.4,Dorada abierta en libro sin cabeza y sin espina,3.88,3.98,2026-05-01 21:10:54
+10055,81234.1,Dorada limpia con cabeza,3.88,3.98,2026-05-01 21:10:54
+10056,81234.3,Dorada sin limpiar,3.88,3.98,2026-05-01 21:10:54
+10057,82610.1,Merluza a rodajas,12.88,13.11,2026-05-01 21:10:54
+10058,82610.2,Merluza abierta en libro sin cabeza y sin espina,12.88,13.11,2026-05-01 21:10:54
+10059,82610.4,Merluza media pieza a rodajas,7.25,7.13,2026-05-01 21:10:54
+10060,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.25,7.13,2026-05-01 21:10:54
+10061,82610.6,Merluza media pieza sin aletas y sin escamas,7.25,7.13,2026-05-01 21:10:54
+10062,82610.3,Merluza sin aletas y sin escamas,12.88,13.11,2026-05-01 21:10:54
+10063,81649.1,Salmón a rodajas,45.77,46.37,2026-05-01 21:10:54
+10064,81649.2,Salmón abierto en libro sin cabeza y sin espina,45.77,46.37,2026-05-01 21:10:54
+10065,81649.4,Salmón media pieza a rodajas,21.51,21.87,2026-05-01 21:10:54
+10066,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,21.51,21.87,2026-05-01 21:10:54
+10067,81649.6,Salmón media pieza sin aletas y sin escamas,21.51,21.87,2026-05-01 21:10:54
+10068,81649.3,Salmón sin aletas y sin escamas,45.77,46.37,2026-05-01 21:10:54
+10069,81704,Sepia limpia,10.37,10.85,2026-05-01 21:10:54
+10070,81200.1,Trucha abierta en libro con cabeza,5.1,5.28,2026-05-01 21:10:54
+10071,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.1,5.28,2026-05-01 21:10:54
+10072,81200.3,Trucha sin aletas,5.1,5.28,2026-05-01 21:10:54
