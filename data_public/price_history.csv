@@ -10136,3 +10136,81 @@ id,product_id,name,old_price,new_price,change_date
 10135,81200.1,Trucha abierta en libro con cabeza,5.28,5.19,2026-05-02 20:58:20
 10136,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.28,5.19,2026-05-02 20:58:20
 10137,81200.3,Trucha sin aletas,5.28,5.19,2026-05-02 20:58:20
+10138,8870,Bebida energética Red Bull,6.3,7.92,2026-05-04 10:16:24
+10139,35183,Salsa fresca Carbonara Hacendado,1.55,1.45,2026-05-04 10:16:24
+10140,17409,Salsa fresca Queso Hacendado,1.55,1.45,2026-05-04 10:16:24
+10141,7972,Salsa fresca Setas Hacendado,1.55,1.45,2026-05-04 10:16:24
+10142,17410,Salsa fresca Trufa Hacendado,1.55,1.45,2026-05-04 10:16:24
+10143,28181,Refresco Coca-Cola,1.39,1.55,2026-05-04 10:16:25
+10144,13816,Refresco Coca-Cola Zero azúcar,1.39,1.55,2026-05-04 10:16:25
+10145,27759,Bebida Florida Sunny Delight,1.65,1.99,2026-05-04 10:16:26
+10146,12562,Chocolate con leche extrafino Nestlé,1.8,1.5,2026-05-04 10:16:29
+10147,35602,Papilla 8 cereales con galleta María Nestlé +6 meses,5.75,4.95,2026-05-04 10:16:30
+10148,35601,Papilla 8 cereales con miel Nestlé +6 meses,5.75,4.95,2026-05-04 10:16:30
+10149,9034,Preparado lácteo con cereales crecimiento Peques 3 Puleva,1.99,1.79,2026-05-04 10:16:30
+10150,9057,Preparado lácteo con cereales crecimiento Peques 3 Puleva,11.94,10.74,2026-05-04 10:16:30
+10151,20321,Preparado lácteo con cereales y frutas Peques 3 Puleva,2.0,1.79,2026-05-04 10:16:30
+10152,9040,Preparado lácteo crecimiento Peques 3 Puleva,1.99,1.79,2026-05-04 10:16:30
+10153,9049,Preparado lácteo crecimiento Peques 3 Puleva,11.94,10.74,2026-05-04 10:16:30
+10154,66465,Cerveza Clásica Steinburg,5.7,5.4,2026-05-04 10:16:31
+10155,66463,Cerveza Clásica Steinburg,0.32,0.31,2026-05-04 10:16:31
+10156,66462,Cerveza Clásica Steinburg,3.84,3.72,2026-05-04 10:16:31
+10157,66486,Cerveza Suave Steinburg,0.31,0.3,2026-05-04 10:16:31
+10158,66485,Cerveza Suave Steinburg,3.72,3.6,2026-05-04 10:16:31
+10159,28715,Ginebra London Dry Gin Larios,12.2,12.75,2026-05-04 10:16:32
+10160,28610,Whisky escocés Red Label Johnnie Walker,14.45,16.5,2026-05-04 10:16:32
+10161,13204,Cacao soluble instantáneo Nesquik,6.4,7.5,2026-05-04 10:16:34
+10162,14798,Café en grano Colombia Hacendado,7.5,7.3,2026-05-04 10:16:35
+10163,11021,Café en grano Hacendado descafeinado,7.0,6.8,2026-05-04 10:16:35
+10164,19924,Café en grano fuerte Hacendado,6.0,5.5,2026-05-04 10:16:35
+10165,14799,Café en grano natural Hacendado,6.0,5.5,2026-05-04 10:16:35
+10166,13592,Café molido descafeinado Hacendado,2.65,2.55,2026-05-04 10:16:35
+10167,13593,Café molido descafeinado Hacendado,5.0,4.9,2026-05-04 10:16:35
+10168,11171,Café molido fuerte Hacendado,2.6,2.55,2026-05-04 10:16:35
+10169,13700,Café molido fuerte Hacendado,4.9,4.7,2026-05-04 10:16:35
+10170,15923,Café molido mezcla Hacendado,2.65,2.55,2026-05-04 10:16:35
+10171,15922,Café molido mezcla Hacendado,5.0,4.9,2026-05-04 10:16:35
+10172,11753,Café molido natural Bonka,3.55,3.95,2026-05-04 10:16:35
+10173,11172,Café molido natural Hacendado,2.6,2.55,2026-05-04 10:16:35
+10174,11178,Café molido natural Hacendado,4.9,4.7,2026-05-04 10:16:35
+10175,11101,Café soluble descafeinado Nescafé classic,8.5,7.45,2026-05-04 10:16:35
+10176,11136,Café soluble natural Nescafé classic,8.5,7.45,2026-05-04 10:16:35
+10177,14713,Barritas de avena Crunchy Nature Valley con chocolate negro,2.6,1.95,2026-05-04 10:16:39
+10178,14087,Galletas tostadas Tosta Rica,2.95,2.5,2026-05-04 10:16:39
+10179,51068,Queso fundido con palitos La vaca que ríe,2.35,2.59,2026-05-04 10:16:42
+10180,24242,Calamar troceado limpio Hacendado congelado,6.0,5.9,2026-05-04 10:16:45
+10181,62228,Filetes de merluza del Cabo sin piel Hacendado ultracongelados,5.7,5.6,2026-05-04 10:16:45
+10182,24274,Sepia faraónica troceada limpia Hacendado congelada,6.0,5.9,2026-05-04 10:16:45
+10183,22081,Fumet caldo de pescado Hacendado,3.0,2.85,2026-05-04 10:16:47
+10184,52590,Aceite de Ricino Deliplus,3.45,2.95,2026-05-04 10:16:50
+10185,3716,Fresón,4.45,2.89,2026-05-04 10:16:53
+10186,69580,Brócoli,1.38,1.17,2026-05-04 10:16:54
+10187,69656,Espárragos verdes finos,1.9,1.5,2026-05-04 10:16:54
+10188,69585,Maíz dulce en mazorca,3.15,3.0,2026-05-04 10:16:54
+10189,69669,Zanahorias,0.85,0.8,2026-05-04 10:16:54
+10190,69586,Zanahorias,1.35,1.2,2026-05-04 10:16:54
+10191,10043,Batido de chocolate 90% leche Puleva,2.75,2.3,2026-05-04 10:16:55
+10192,10884,Bebida láctea Omega 3 Puleva con leche desnatada,1.89,1.69,2026-05-04 10:16:55
+10193,10146,Bebida láctea Omega 3 Puleva con leche desnatada,11.34,10.14,2026-05-04 10:16:55
+10194,10282,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,1.95,1.69,2026-05-04 10:16:55
+10195,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,11.7,10.14,2026-05-04 10:16:55
+10196,14176,Horchata de chufa sin azúcares añadidos Hacendado,1.7,1.6,2026-05-04 10:16:55
+10197,60345,Leche condensada Hacendado,2.55,2.45,2026-05-04 10:16:55
+10198,60347,Leche condensada Hacendado,2.2,2.1,2026-05-04 10:16:55
+10199,60348,Leche condensada Hacendado,3.6,3.45,2026-05-04 10:16:55
+10200,60346,Leche condensada desnatada Hacendado,2.55,2.45,2026-05-04 10:16:55
+10201,10801,Leche desnatada Asturiana,1.13,1.05,2026-05-04 10:16:55
+10202,10532,Leche desnatada Asturiana,6.78,6.3,2026-05-04 10:16:55
+10203,10617,Leche entera Asturiana,1.29,1.19,2026-05-04 10:16:55
+10204,10530,Leche entera Asturiana,7.74,7.14,2026-05-04 10:16:55
+10205,10712,Leche semidesnatada Asturiana,1.17,1.09,2026-05-04 10:16:55
+10206,10531,Leche semidesnatada Asturiana,7.02,6.54,2026-05-04 10:16:55
+10207,10812,Leche semidesnatada de cabra Hacendado,1.87,1.97,2026-05-04 10:16:55
+10208,10806,Leche semidesnatada de cabra Hacendado,11.22,11.82,2026-05-04 10:16:55
+10209,15909,Margarina Flora Proactiv,2.69,3.19,2026-05-04 10:16:55
+10210,87292,Langostino cocido,6.3,6.45,2026-05-04 10:17:01
+10211,27548,Elaborado de merluza y langostino,3.3,3.2,2026-05-04 10:17:02
+10212,23643,Pan de molde 100% integral sin corteza Hacendado,1.2,1.15,2026-05-04 10:17:05
+10213,82302,Pan de molde con 55% centeno Hacendado,1.47,1.4,2026-05-04 10:17:05
+10214,83869,Pan de molde semillas y pipas de calabaza Hacendado,1.65,1.6,2026-05-04 10:17:05
+10215,29017,Preparado para repostería con impulsor incorporado Hacendado,1.05,1.0,2026-05-04 10:17:05
