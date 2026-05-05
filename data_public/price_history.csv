@@ -10286,3 +10286,54 @@ id,product_id,name,old_price,new_price,change_date
 10285,81204.2,Bacalao abierto en libro sin cabeza y sin espina,36.03,33.41,2026-05-05 09:54:28
 10286,81204.3,Bacalao media pieza a rodajas,20.21,18.74,2026-05-05 09:54:28
 10287,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,20.21,18.74,2026-05-05 09:54:28
+10288,58286,Jamón de bellota ibérico 50% La Hacienda del Ibérico,414.0,368.0,2026-05-05 21:17:43
+10289,50935,Queso tierno de vaca Hacendado,6.5,6.0,2026-05-05 21:17:44
+10290,3505.2,1/4 Sandía baja en semillas,3.74,3.16,2026-05-05 21:17:55
+10291,3897,Lima,0.35,0.4,2026-05-05 21:17:55
+10292,3210,Limón,0.66,0.69,2026-05-05 21:17:55
+10293,3021,Manzana Granny Smith,0.43,0.41,2026-05-05 21:17:55
+10294,3505.1,Media sandía baja en semillas,6.15,5.83,2026-05-05 21:17:55
+10295,3515,Medio melón piel de sapo,4.02,4.59,2026-05-05 21:17:55
+10296,3506,Melón piel de sapo,8.16,7.78,2026-05-05 21:17:55
+10297,3026,Papaya,2.67,2.48,2026-05-05 21:17:55
+10298,3076,Piña,4.28,4.06,2026-05-05 21:17:55
+10299,3529,Sandía baja en semillas,10.54,9.5,2026-05-05 21:17:55
+10300,69623,Alcachofa,0.38,0.4,2026-05-05 21:17:56
+10301,69239,Batata,1.11,1.04,2026-05-05 21:17:56
+10302,69580,Brócoli,1.3,1.41,2026-05-05 21:17:56
+10303,69339,Calabacín blanco,0.89,0.84,2026-05-05 21:17:56
+10304,69220,Coliflor,2.56,2.54,2026-05-05 21:17:56
+10305,69487,Rama de Tomates,2.0,2.03,2026-05-05 21:17:56
+10306,69236,Repollo liso,2.05,2.09,2026-05-05 21:17:56
+10307,69937,Tomate ensalada,0.57,0.59,2026-05-05 21:17:56
+10308,69444,Tomate rosa,1.67,1.7,2026-05-05 21:17:56
+10309,69173,Yuca,1.91,1.88,2026-05-05 21:17:56
+10310,83692.4,Caballa Verdel a filetes sin cabeza y sin tripa,3.32,3.49,2026-05-05 21:18:04
+10311,83692.3,Caballa Verdel a rodajas sin cabeza y sin tripa,3.32,3.49,2026-05-05 21:18:04
+10312,83692.5,Caballa Verdel abierta a la espalda con espinas y con cabeza,3.32,3.49,2026-05-05 21:18:04
+10313,83692.2,Caballa Verdel sin cabeza y sin tripa,3.32,3.49,2026-05-05 21:18:04
+10314,83692.1,Caballa Verdel sin tripa,3.32,3.49,2026-05-05 21:18:04
+10315,81055.3,Corvina a filetes,18.29,18.86,2026-05-05 21:18:04
+10316,81055.2,Corvina abierta a la espalda con espinas y con cabeza,18.29,18.86,2026-05-05 21:18:04
+10317,81055.1,Corvina limpia con cabeza,18.29,18.86,2026-05-05 21:18:04
+10318,81234.5,Dorada a filetes sin cabeza y sin espina,4.68,5.17,2026-05-05 21:18:04
+10319,81234.2,Dorada abierta a la espalda con espinas y con cabeza,4.68,5.17,2026-05-05 21:18:04
+10320,81234.4,Dorada abierta en libro sin cabeza y sin espina,4.68,5.17,2026-05-05 21:18:04
+10321,81234.1,Dorada limpia con cabeza,4.68,5.17,2026-05-05 21:18:04
+10322,81234.3,Dorada sin limpiar,4.68,5.17,2026-05-05 21:18:04
+10323,82610.1,Merluza a rodajas,13.69,13.57,2026-05-05 21:18:04
+10324,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.69,13.57,2026-05-05 21:18:04
+10325,82610.4,Merluza media pieza a rodajas,7.25,7.48,2026-05-05 21:18:04
+10326,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.25,7.48,2026-05-05 21:18:04
+10327,82610.6,Merluza media pieza sin aletas y sin escamas,7.25,7.48,2026-05-05 21:18:04
+10328,82610.3,Merluza sin aletas y sin escamas,13.69,13.57,2026-05-05 21:18:04
+10329,81649.1,Salmón a rodajas,46.01,42.78,2026-05-05 21:18:04
+10330,81649.2,Salmón abierto en libro sin cabeza y sin espina,46.01,42.78,2026-05-05 21:18:04
+10331,81649.4,Salmón media pieza a rodajas,18.88,17.09,2026-05-05 21:18:04
+10332,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,18.88,17.09,2026-05-05 21:18:04
+10333,81649.6,Salmón media pieza sin aletas y sin escamas,18.88,17.09,2026-05-05 21:18:04
+10334,81649.3,Salmón sin aletas y sin escamas,46.01,42.78,2026-05-05 21:18:04
+10335,81704,Sepia limpia,10.69,10.05,2026-05-05 21:18:04
+10336,81200.1,Trucha abierta en libro con cabeza,5.1,5.19,2026-05-05 21:18:04
+10337,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.1,5.19,2026-05-05 21:18:04
+10338,81200.3,Trucha sin aletas,5.1,5.19,2026-05-05 21:18:04
