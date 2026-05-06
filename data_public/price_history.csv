@@ -10350,3 +10350,58 @@ id,product_id,name,old_price,new_price,change_date
 10349,3505.2,1/4 Sandía baja en semillas,3.16,2.72,2026-05-06 10:07:54
 10350,3505.1,Media sandía baja en semillas,5.83,5.01,2026-05-06 10:07:54
 10351,3529,Sandía baja en semillas,9.5,7.87,2026-05-06 10:07:54
+10352,3505.2,1/4 Sandía baja en semillas,2.72,2.68,2026-05-06 21:44:51
+10353,69326,Berenjena,0.7,0.73,2026-05-06 21:44:51
+10354,69347,Berenjena rayada,0.67,0.69,2026-05-06 21:44:51
+10355,69580,Brócoli,1.41,1.43,2026-05-06 21:44:51
+10356,69339,Calabacín blanco,0.84,0.82,2026-05-06 21:44:51
+10357,69220,Coliflor,2.54,2.52,2026-05-06 21:44:51
+10358,3210,Limón,0.69,0.72,2026-05-06 21:44:51
+10359,3050,Mango,1.65,1.62,2026-05-06 21:44:51
+10360,8175,Manzana roja acidulce,0.62,0.59,2026-05-06 21:44:51
+10361,8177,Manzana roja dulce,0.7,0.68,2026-05-06 21:44:51
+10362,3505.1,Media sandía baja en semillas,5.01,5.03,2026-05-06 21:44:51
+10363,3515,Medio melón piel de sapo,4.59,3.86,2026-05-06 21:44:51
+10364,3506,Melón piel de sapo,7.78,6.79,2026-05-06 21:44:51
+10365,3026,Papaya,2.48,2.43,2026-05-06 21:44:51
+10366,69310,Pimiento rojo,1.11,1.08,2026-05-06 21:44:51
+10367,69320,Pimiento verde freír,0.2,0.23,2026-05-06 21:44:51
+10368,3076,Piña,4.06,3.94,2026-05-06 21:44:51
+10369,69236,Repollo liso,2.09,2.25,2026-05-06 21:44:51
+10370,3529,Sandía baja en semillas,7.87,7.83,2026-05-06 21:44:51
+10371,69173,Yuca,1.88,1.91,2026-05-06 21:44:51
+10372,81204.1,Bacalao a rodajas,33.41,33.53,2026-05-06 21:44:59
+10373,81204.2,Bacalao abierto en libro sin cabeza y sin espina,33.41,33.53,2026-05-06 21:44:59
+10374,81204.3,Bacalao media pieza a rodajas,18.74,19.13,2026-05-06 21:44:59
+10375,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,18.74,19.13,2026-05-06 21:44:59
+10376,83692.4,Caballa Verdel a filetes sin cabeza y sin tripa,3.49,3.32,2026-05-06 21:44:59
+10377,83692.3,Caballa Verdel a rodajas sin cabeza y sin tripa,3.49,3.32,2026-05-06 21:44:59
+10378,83692.5,Caballa Verdel abierta a la espalda con espinas y con cabeza,3.49,3.32,2026-05-06 21:44:59
+10379,83692.2,Caballa Verdel sin cabeza y sin tripa,3.49,3.32,2026-05-06 21:44:59
+10380,83692.1,Caballa Verdel sin tripa,3.49,3.32,2026-05-06 21:44:59
+10381,81055.3,Corvina a filetes,18.86,18.75,2026-05-06 21:44:59
+10382,81055.2,Corvina abierta a la espalda con espinas y con cabeza,18.86,18.75,2026-05-06 21:44:59
+10383,81055.1,Corvina limpia con cabeza,18.86,18.75,2026-05-06 21:44:59
+10384,81234.5,Dorada a filetes sin cabeza y sin espina,5.17,5.37,2026-05-06 21:44:59
+10385,81234.2,Dorada abierta a la espalda con espinas y con cabeza,5.17,5.37,2026-05-06 21:44:59
+10386,81234.4,Dorada abierta en libro sin cabeza y sin espina,5.17,5.37,2026-05-06 21:44:59
+10387,81234.1,Dorada limpia con cabeza,5.17,5.37,2026-05-06 21:44:59
+10388,81234.3,Dorada sin limpiar,5.17,5.37,2026-05-06 21:44:59
+10389,81241.5,Lubina a filetes sin cabeza y sin espina,4.16,4.27,2026-05-06 21:44:59
+10390,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.16,4.27,2026-05-06 21:44:59
+10391,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.16,4.27,2026-05-06 21:44:59
+10392,81241.1,Lubina limpia con cabeza,4.16,4.27,2026-05-06 21:44:59
+10393,81241.3,Lubina sin limpiar,4.16,4.27,2026-05-06 21:44:59
+10394,82610.4,Merluza media pieza a rodajas,7.48,7.94,2026-05-06 21:44:59
+10395,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,7.48,7.94,2026-05-06 21:44:59
+10396,82610.6,Merluza media pieza sin aletas y sin escamas,7.48,7.94,2026-05-06 21:44:59
+10397,81649.1,Salmón a rodajas,42.78,33.46,2026-05-06 21:44:59
+10398,81649.2,Salmón abierto en libro sin cabeza y sin espina,42.78,33.46,2026-05-06 21:44:59
+10399,81649.4,Salmón media pieza a rodajas,17.09,16.49,2026-05-06 21:44:59
+10400,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,17.09,16.49,2026-05-06 21:44:59
+10401,81649.6,Salmón media pieza sin aletas y sin escamas,17.09,16.49,2026-05-06 21:44:59
+10402,81649.3,Salmón sin aletas y sin escamas,42.78,33.46,2026-05-06 21:44:59
+10403,81704,Sepia limpia,10.05,9.89,2026-05-06 21:44:59
+10404,81200.1,Trucha abierta en libro con cabeza,5.19,5.28,2026-05-06 21:44:59
+10405,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.19,5.28,2026-05-06 21:44:59
+10406,81200.3,Trucha sin aletas,5.19,5.28,2026-05-06 21:44:59
