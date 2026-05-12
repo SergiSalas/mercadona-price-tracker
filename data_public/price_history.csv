@@ -10758,3 +10758,54 @@ id,product_id,name,old_price,new_price,change_date
 10757,43025,Limpiador Antical Bosque Verde,1.6,1.7,2026-05-12 10:26:00
 10758,35575,Lavavajillas Bosque Verde en gel,3.45,3.65,2026-05-12 10:26:01
 10759,52101,Comida perro adulto Compy original,12.8,12.3,2026-05-12 10:26:06
+10760,3505.2,1/4 Sandía baja en semillas,2.89,3.0,2026-05-12 21:50:24
+10761,3830,Aguacate,1.22,1.27,2026-05-12 21:50:24
+10762,3210,Limón,0.75,0.72,2026-05-12 21:50:24
+10763,3050,Mango,1.86,1.91,2026-05-12 21:50:24
+10764,3505.1,Media sandía baja en semillas,5.18,5.25,2026-05-12 21:50:24
+10765,3515,Medio melón piel de sapo,3.24,3.21,2026-05-12 21:50:24
+10766,3506,Melón piel de sapo,5.59,5.45,2026-05-12 21:50:24
+10767,3026,Papaya,2.37,2.42,2026-05-12 21:50:24
+10768,3076,Piña,3.58,3.5,2026-05-12 21:50:24
+10769,3819,Plátano de Canarias IGP,0.43,0.44,2026-05-12 21:50:24
+10770,3202,Pomelo,1.02,0.96,2026-05-12 21:50:24
+10771,3529,Sandía baja en semillas,8.11,8.41,2026-05-12 21:50:24
+10772,69239,Batata,1.37,1.41,2026-05-12 21:50:25
+10773,69339,Calabacín blanco,0.84,0.89,2026-05-12 21:50:25
+10774,69066,Patata,0.44,0.42,2026-05-12 21:50:25
+10775,69310,Pimiento rojo,1.0,0.97,2026-05-12 21:50:25
+10776,69312,Pimiento verde,0.84,0.81,2026-05-12 21:50:25
+10777,69487,Rama de Tomates,2.13,2.16,2026-05-12 21:50:25
+10778,69236,Repollo liso,2.07,2.05,2026-05-12 21:50:25
+10779,69937,Tomate ensalada,0.59,0.62,2026-05-12 21:50:25
+10780,69173,Yuca,1.82,1.85,2026-05-12 21:50:25
+10781,81204.3,Bacalao media pieza a rodajas,19.8,20.63,2026-05-12 21:50:35
+10782,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,19.8,20.63,2026-05-12 21:50:35
+10783,81055.3,Corvina a filetes,17.94,17.37,2026-05-12 21:50:35
+10784,81055.2,Corvina abierta a la espalda con espinas y con cabeza,17.94,17.37,2026-05-12 21:50:35
+10785,81055.1,Corvina limpia con cabeza,17.94,17.37,2026-05-12 21:50:35
+10786,81234.5,Dorada a filetes sin cabeza y sin espina,4.85,4.66,2026-05-12 21:50:35
+10787,81234.2,Dorada abierta a la espalda con espinas y con cabeza,4.85,4.66,2026-05-12 21:50:35
+10788,81234.4,Dorada abierta en libro sin cabeza y sin espina,4.85,4.66,2026-05-12 21:50:35
+10789,81234.1,Dorada limpia con cabeza,4.85,4.66,2026-05-12 21:50:35
+10790,81234.3,Dorada sin limpiar,4.85,4.66,2026-05-12 21:50:35
+10791,81241.5,Lubina a filetes sin cabeza y sin espina,4.1,4.2,2026-05-12 21:50:35
+10792,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.1,4.2,2026-05-12 21:50:35
+10793,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.1,4.2,2026-05-12 21:50:35
+10794,81241.1,Lubina limpia con cabeza,4.1,4.2,2026-05-12 21:50:35
+10795,81241.3,Lubina sin limpiar,4.1,4.2,2026-05-12 21:50:35
+10796,82610.1,Merluza a rodajas,13.57,14.03,2026-05-12 21:50:35
+10797,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.57,14.03,2026-05-12 21:50:35
+10798,82610.4,Merluza media pieza a rodajas,8.4,8.28,2026-05-12 21:50:35
+10799,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,8.4,8.28,2026-05-12 21:50:35
+10800,82610.6,Merluza media pieza sin aletas y sin escamas,8.4,8.28,2026-05-12 21:50:35
+10801,82610.3,Merluza sin aletas y sin escamas,13.57,14.03,2026-05-12 21:50:35
+10802,81649.1,Salmón a rodajas,33.46,34.66,2026-05-12 21:50:35
+10803,81649.2,Salmón abierto en libro sin cabeza y sin espina,33.46,34.66,2026-05-12 21:50:35
+10804,81649.4,Salmón media pieza a rodajas,16.97,18.28,2026-05-12 21:50:35
+10805,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,16.97,18.28,2026-05-12 21:50:35
+10806,81649.6,Salmón media pieza sin aletas y sin escamas,16.97,18.28,2026-05-12 21:50:35
+10807,81649.3,Salmón sin aletas y sin escamas,33.46,34.66,2026-05-12 21:50:35
+10808,81200.1,Trucha abierta en libro con cabeza,5.1,5.19,2026-05-12 21:50:35
+10809,81200.2,Trucha abierta en libro sin cabeza y sin espina,5.1,5.19,2026-05-12 21:50:35
+10810,81200.3,Trucha sin aletas,5.1,5.19,2026-05-12 21:50:35
