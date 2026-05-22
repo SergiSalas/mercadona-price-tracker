@@ -11360,3 +11360,51 @@ id,product_id,name,old_price,new_price,change_date
 11359,81204.3,Bacalao media pieza a rodajas,17.46,16.19,2026-05-22 10:49:15
 11360,81204.4,Bacalao media pieza abierto en libro sin cabeza y sin espina,17.46,16.19,2026-05-22 10:49:15
 11361,82757,Magdalenas sin gluten Hacendado,2.65,2.55,2026-05-22 10:49:17
+11362,3505.2,1/4 Sandía baja en semillas,2.36,2.37,2026-05-22 21:43:08
+11363,3830,Aguacate,1.11,1.06,2026-05-22 21:43:08
+11364,69347,Berenjena rayada,0.71,0.69,2026-05-22 21:43:08
+11365,69580,Brócoli,1.38,1.33,2026-05-22 21:43:08
+11366,69220,Coliflor,2.56,2.48,2026-05-22 21:43:08
+11367,3210,Limón,0.72,0.75,2026-05-22 21:43:08
+11368,3050,Mango,1.91,1.86,2026-05-22 21:43:08
+11369,3021,Manzana Granny Smith,0.5,0.53,2026-05-22 21:43:08
+11370,8175,Manzana roja acidulce,0.62,0.7,2026-05-22 21:43:08
+11371,8177,Manzana roja dulce,0.68,0.65,2026-05-22 21:43:08
+11372,3505.1,Media sandía baja en semillas,4.23,4.26,2026-05-22 21:43:08
+11373,3515,Medio melón piel de sapo,2.86,2.88,2026-05-22 21:43:08
+11374,3523,Melón Galia,5.3,3.25,2026-05-22 21:43:08
+11375,3506,Melón piel de sapo,4.66,4.62,2026-05-22 21:43:08
+11376,3026,Papaya,2.68,2.58,2026-05-22 21:43:08
+11377,3418,Paraguayo,0.59,0.54,2026-05-22 21:43:08
+11378,69066,Patata,0.42,0.44,2026-05-22 21:43:08
+11379,3076,Piña,4.3,3.74,2026-05-22 21:43:08
+11380,3132,Plátano macho,0.84,0.81,2026-05-22 21:43:08
+11381,69487,Rama de Tomates,1.83,1.76,2026-05-22 21:43:08
+11382,69236,Repollo liso,2.02,2.11,2026-05-22 21:43:08
+11383,3529,Sandía baja en semillas,6.75,6.99,2026-05-22 21:43:08
+11384,60369,Tomate ensalada,0.81,0.78,2026-05-22 21:43:08
+11385,69444,Tomate rosa,1.3,1.38,2026-05-22 21:43:08
+11386,81055.3,Corvina a filetes,16.68,17.83,2026-05-22 21:43:17
+11387,81055.2,Corvina abierta a la espalda con espinas y con cabeza,16.68,17.83,2026-05-22 21:43:17
+11388,81055.1,Corvina limpia con cabeza,16.68,17.83,2026-05-22 21:43:17
+11389,81241.5,Lubina a filetes sin cabeza y sin espina,4.62,4.41,2026-05-22 21:43:17
+11390,81241.2,Lubina abierta a la espalda con espinas y con cabeza,4.62,4.41,2026-05-22 21:43:17
+11391,81241.4,Lubina abierta en libro sin cabeza y sin espina,4.62,4.41,2026-05-22 21:43:17
+11392,81241.1,Lubina limpia con cabeza,4.62,4.41,2026-05-22 21:43:17
+11393,81241.3,Lubina sin limpiar,4.62,4.41,2026-05-22 21:43:17
+11394,82610.1,Merluza a rodajas,14.15,13.23,2026-05-22 21:43:17
+11395,82610.2,Merluza abierta en libro sin cabeza y sin espina,14.15,13.23,2026-05-22 21:43:17
+11396,82610.4,Merluza media pieza a rodajas,9.43,8.74,2026-05-22 21:43:17
+11397,82610.5,Merluza media pieza abierta en libro sin cabeza y sin espina,9.43,8.74,2026-05-22 21:43:17
+11398,82610.6,Merluza media pieza sin aletas y sin escamas,9.43,8.74,2026-05-22 21:43:17
+11399,82610.3,Merluza sin aletas y sin escamas,14.15,13.23,2026-05-22 21:43:17
+11400,81649.1,Salmón a rodajas,38.48,38.84,2026-05-22 21:43:17
+11401,81649.2,Salmón abierto en libro sin cabeza y sin espina,38.48,38.84,2026-05-22 21:43:17
+11402,81649.4,Salmón media pieza a rodajas,17.93,17.57,2026-05-22 21:43:17
+11403,81649.5,Salmón media pieza abierto en libro sin cabeza y sin espina,17.93,17.57,2026-05-22 21:43:17
+11404,81649.6,Salmón media pieza sin aletas y sin escamas,17.93,17.57,2026-05-22 21:43:17
+11405,81649.3,Salmón sin aletas y sin escamas,38.48,38.84,2026-05-22 21:43:17
+11406,81704,Sepia limpia,9.57,8.93,2026-05-22 21:43:17
+11407,81200.1,Trucha abierta en libro con cabeza,4.56,4.48,2026-05-22 21:43:17
+11408,81200.2,Trucha abierta en libro sin cabeza y sin espina,4.56,4.48,2026-05-22 21:43:17
+11409,81200.3,Trucha sin aletas,4.56,4.48,2026-05-22 21:43:17
