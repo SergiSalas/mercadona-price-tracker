@@ -13157,3 +13157,76 @@ id,product_id,name,old_price,new_price,change_date
 13156,81200.1,Trucha abierta en libro con cabeza,4.45,4.29,2026-06-18 22:24:35
 13157,81200.2,Trucha abierta en libro sin cabeza y sin espina,4.45,4.29,2026-06-18 22:24:35
 13158,81200.3,Trucha sin aletas,4.45,4.29,2026-06-18 22:24:35
+13159,66413,Cerveza Amstel,6.36,4.92,2026-06-19 12:11:31
+13160,27103,Cerveza especial San Miguel,0.74,0.5,2026-06-19 12:11:31
+13161,66026,Cerveza especial San Miguel,6.96,5.4,2026-06-19 12:11:31
+13162,60980,Cerveza tostada Turia,0.89,0.72,2026-06-19 12:11:31
+13163,60600,Cerveza tostada Turia,10.08,8.28,2026-06-19 12:11:31
+13164,79427,Toallitas bebé frescas & perfumadas Deliplus,0.9,0.95,2026-06-19 12:11:31
+13165,28032,Ginebra Dry Gin Seagram's,17.4,16.9,2026-06-19 12:11:32
+13166,28712,Ginebra London Dry Gin Beefeater,14.25,13.9,2026-06-19 12:11:32
+13167,28604,Whisky escocés Ballantine's,13.95,13.6,2026-06-19 12:11:32
+13168,28999,Bebida zumo de manzana El Lagar sin alcohol,2.4,2.5,2026-06-19 12:11:33
+13169,23862,Sidra asturiana El Mayu,0.9,1.0,2026-06-19 12:11:33
+13170,23863,Sidra asturiana El Mayu,10.8,12.0,2026-06-19 12:11:33
+13171,28515,Sidra asturiana El Mayu,1.6,1.7,2026-06-19 12:11:33
+13172,66369,Vino blanco verdejo Abadía Mantrús DO Rueda,2.65,2.5,2026-06-19 12:11:34
+13173,67112,Vino tinto cosecha Comportillo DO Rioja,2.9,2.75,2026-06-19 12:11:35
+13174,86416,Vino tinto crianza Abadía Mantrús DO Ribera del Duero,4.5,4.25,2026-06-19 12:11:35
+13175,35710,Vino tinto crianza Comportillo DO Rioja,3.25,2.9,2026-06-19 12:11:35
+13176,37277,Vino tinto reserva Abadía Mantrús DO Ribera del Duero,6.3,5.9,2026-06-19 12:11:35
+13177,66325,Vino tinto reserva Comportillo DO Rioja,4.4,4.0,2026-06-19 12:11:35
+13178,14798,Café en grano Colombia Hacendado,7.3,7.0,2026-06-19 12:11:36
+13179,11021,Café en grano Hacendado descafeinado,6.8,6.3,2026-06-19 12:11:36
+13180,19924,Café en grano fuerte Hacendado,5.5,5.0,2026-06-19 12:11:36
+13181,14799,Café en grano natural Hacendado,5.5,5.0,2026-06-19 12:11:36
+13182,73182,Coloración permanente 1 negro Colorcor,3.8,3.7,2026-06-19 12:11:53
+13183,73184,Coloración permanente 10 rubio extra claro Colorcor,3.8,3.7,2026-06-19 12:11:53
+13184,73185,Coloración permanente 100 rubio platino natural Colorcor,3.8,3.7,2026-06-19 12:11:53
+13185,73147,Coloración permanente 101 rubio platino ceniza Colorcor,3.8,3.7,2026-06-19 12:11:53
+13186,73149,Coloración permanente 2.10 negro azulado Colorcor,3.8,3.7,2026-06-19 12:11:53
+13187,73150,Coloración permanente 3 castaño oscuro Colorcor,3.8,3.7,2026-06-19 12:11:53
+13188,73195,Coloración permanente 4 castaño medio Colorcor,3.8,3.7,2026-06-19 12:11:53
+13189,73153,Coloración permanente 4.15 chocolate helado Colorcor,3.8,3.7,2026-06-19 12:11:53
+13190,73154,Coloración permanente 4.5 caoba oscuro Colorcor,3.8,3.7,2026-06-19 12:11:53
+13191,73196,Coloración permanente 5 castaño claro Colorcor,3.8,3.7,2026-06-19 12:11:53
+13192,73415,Coloración permanente 5.20 violín Colorcor,3.8,3.7,2026-06-19 12:11:53
+13193,73159,Coloración permanente 5.77 castaño claro marrón intenso Colorcor,3.8,3.7,2026-06-19 12:11:53
+13194,73160,Coloración permanente 5.79 marrón chocolate Colorcor,3.8,3.7,2026-06-19 12:11:53
+13195,73197,Coloración permanente 6 rubio oscuro Colorcor,3.8,3.7,2026-06-19 12:11:53
+13196,73162,Coloración permanente 6.1 rubio oscuro ceniza Colorcor,3.8,3.7,2026-06-19 12:11:53
+13197,73163,Coloración permanente 6.15 marrón macadamia Colorcor,3.8,3.7,2026-06-19 12:11:53
+13198,73164,Coloración permanente 6.25 marrón avellana Colorcor,3.8,3.7,2026-06-19 12:11:53
+13199,73165,Coloración permanente 6.35 marrón caramelo Colorcor,3.8,3.7,2026-06-19 12:11:53
+13200,73166,Coloración permanente 6.4 rubio oscuro cobrizo Colorcor,3.8,3.7,2026-06-19 12:11:53
+13201,73167,Coloración permanente 6.60 rojo pasión Colorcor,3.8,3.7,2026-06-19 12:11:53
+13202,73192,Coloración permanente 7 1/2.1 rubio medio ceniza Colorcor,3.8,3.7,2026-06-19 12:11:53
+13203,73168,Coloración permanente 7 rubio medio Colorcor,3.8,3.7,2026-06-19 12:11:53
+13204,73169,Coloración permanente 7.1 rubio medio ceniza Colorcor,3.8,3.7,2026-06-19 12:11:53
+13205,73170,Coloración permanente 7.3 rubio medio dorado Colorcor,3.8,3.7,2026-06-19 12:11:53
+13206,73198,Coloración permanente 7.31 nude beige Colorcor,3.8,3.7,2026-06-19 12:11:53
+13207,73171,Coloración permanente 7.40 rubio cobrizo intenso Colorcor,3.8,3.7,2026-06-19 12:11:53
+13208,73172,Coloración permanente 7.43 cobre cálido Colorcor,3.8,3.7,2026-06-19 12:11:53
+13209,73173,Coloración permanente 7.77 rubio marrón intenso Colorcor,3.8,3.7,2026-06-19 12:11:53
+13210,73194,Coloración permanente 8 1/2.1 rubio claro ceniza Colorcor,3.8,3.7,2026-06-19 12:11:53
+13211,73174,Coloración permanente 8 rubio claro Colorcor,3.8,3.7,2026-06-19 12:11:53
+13212,73175,Coloración permanente 8.1 rubio claro ceniza Colorcor,3.8,3.7,2026-06-19 12:11:53
+13213,73176,Coloración permanente 8.3 rubio claro dorado Colorcor,3.8,3.7,2026-06-19 12:11:53
+13214,73199,Coloración permanente 8.31 nude arena Colorcor,3.8,3.7,2026-06-19 12:11:53
+13215,73177,Coloración permanente 8.44 rubio claro cobrizo Colorcor,3.8,3.7,2026-06-19 12:11:53
+13216,73178,Coloración permanente 8.6 rojo intenso Colorcor,3.8,3.7,2026-06-19 12:11:53
+13217,73179,Coloración permanente 9 rubio clarísimo Colorcor,3.8,3.7,2026-06-19 12:11:53
+13218,73180,Coloración permanente 9.1 rubio clarísimo ceniza Colorcor,3.8,3.7,2026-06-19 12:11:53
+13219,73181,Coloración permanente 9.3 rubio clarísimo dorado Colorcor,3.8,3.7,2026-06-19 12:11:53
+13220,73006,Maquinillas de afeitar desechables Gillette Blue Plus 2 hojas,3.0,3.4,2026-06-19 12:11:54
+13221,76542,Crema corporal Nivea,4.0,4.5,2026-06-19 12:11:55
+13222,47554,Protegeslip Flexiform Carefree Cotton feel regular + tanga,1.7,2.05,2026-06-19 12:11:57
+13223,3515,Medio melón piel de sapo,3.34,3.1,2026-06-19 12:12:00
+13224,3506,Melón piel de sapo,5.36,4.88,2026-06-19 12:12:00
+13225,3313,Uva blanca sin semillas,3.3,2.85,2026-06-19 12:12:00
+13226,69089,Cebollas,2.0,1.6,2026-06-19 12:12:01
+13227,69079,Cebollas,3.6,3.2,2026-06-19 12:12:01
+13228,69912,Tomate pera,0.24,0.22,2026-06-19 12:12:01
+13229,69975,Tomates pera,2.21,2.0,2026-06-19 12:12:01
+13230,81100.2,Sardina limpia sin cabeza,0.9,1.19,2026-06-19 12:12:10
+13231,81100.1,Sardina sin limpiar,0.9,1.19,2026-06-19 12:12:10
