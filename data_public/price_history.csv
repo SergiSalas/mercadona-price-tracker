@@ -13665,3 +13665,83 @@ id,product_id,name,old_price,new_price,change_date
 13664,82610.1,Merluza a rodajas,13.68,13.69,2026-06-28 21:18:30
 13665,82610.2,Merluza abierta en libro sin cabeza y sin espina,13.68,13.69,2026-06-28 21:18:30
 13666,82610.3,Merluza sin aletas y sin escamas,13.68,13.69,2026-06-28 21:18:30
+13667,28119,Bebida energética Energy Ultra zero Monster,1.45,1.79,2026-06-29 12:21:05
+13668,28670,Bebida energética Energy Ultra zero Monster,4.76,6.68,2026-06-29 12:21:05
+13669,29625,Bebida isotónica limón Aquarius,0.99,0.89,2026-06-29 12:21:05
+13670,29605,Bebida isotónica limón Aquarius,7.44,6.88,2026-06-29 12:21:05
+13671,29608,Bebida isotónica limón Aquarius,1.91,2.1,2026-06-29 12:21:05
+13672,29612,Bebida isotónica limón Aquarius zero azúcar,1.69,2.1,2026-06-29 12:21:05
+13673,16438,Bebida isotónica melocotón rojo Aquarius,1.69,2.1,2026-06-29 12:21:05
+13674,29624,Bebida isotónica naranja Aquarius,0.99,0.89,2026-06-29 12:21:05
+13675,29604,Bebida isotónica naranja Aquarius,7.44,6.88,2026-06-29 12:21:05
+13676,29609,Bebida isotónica naranja Aquarius,1.91,2.1,2026-06-29 12:21:05
+13677,27321,Refresco Coca-Cola,11.16,9.96,2026-06-29 12:21:05
+13678,28181,Refresco Coca-Cola,1.55,1.39,2026-06-29 12:21:05
+13679,9886,Refresco Coca-Cola,3.0,2.7,2026-06-29 12:21:05
+13680,27348,Refresco Coca-Cola,3.8,3.95,2026-06-29 12:21:05
+13681,28180,Refresco Coca-Cola Zero Zero,3.8,3.95,2026-06-29 12:21:05
+13682,26997,Refresco Coca-Cola Zero Zero,11.16,9.96,2026-06-29 12:21:05
+13683,13816,Refresco Coca-Cola Zero azúcar,1.55,1.39,2026-06-29 12:21:05
+13684,9887,Refresco Coca-Cola Zero azúcar,3.0,2.7,2026-06-29 12:21:05
+13685,27449,Refresco Coca-Cola Zero azúcar,3.8,3.95,2026-06-29 12:21:05
+13686,27426,Refresco Coca-Cola Zero azúcar,11.16,9.96,2026-06-29 12:21:05
+13687,27184,Refresco Coca-Cola light,8.37,7.38,2026-06-29 12:21:05
+13688,13817,Refresco Fanta limón,6.93,5.39,2026-06-29 12:21:05
+13689,27610,Refresco Fanta limón,1.65,1.85,2026-06-29 12:21:05
+13690,27608,Refresco Fanta limón zero azúcares añadidos,0.8,0.69,2026-06-29 12:21:05
+13691,8779,Refresco Fanta limón zero azúcares añadidos,6.16,4.24,2026-06-29 12:21:05
+13692,27571,Refresco Fanta naranja,6.93,5.39,2026-06-29 12:21:05
+13693,17542,Refresco Fanta naranja,2.98,3.6,2026-06-29 12:21:05
+13694,27510,Refresco Fanta naranja zero azúcares añadidos,0.8,0.69,2026-06-29 12:21:05
+13695,8778,Refresco Fanta naranja zero azúcares añadidos,6.16,4.24,2026-06-29 12:21:05
+13696,27545,Refresco Fanta naranja zero azúcares añadidos,1.59,1.85,2026-06-29 12:21:05
+13697,27845,Refresco lima limón Sprite,0.55,0.65,2026-06-29 12:21:05
+13698,28176,Refresco lima limón Sprite,4.0,4.88,2026-06-29 12:21:05
+13699,26990,Refresco lima limón Sprite,1.65,1.35,2026-06-29 12:21:05
+13700,86118,Tónica original Schweppes,0.99,1.1,2026-06-29 12:21:06
+13701,86117,Tónica original Schweppes,5.52,6.3,2026-06-29 12:21:06
+13702,27667,Tónica original Schweppes,0.99,0.96,2026-06-29 12:21:06
+13703,27666,Tónica original Schweppes,5.2,7.68,2026-06-29 12:21:06
+13704,27488,Tónica zero Schweppes,0.99,0.96,2026-06-29 12:21:06
+13705,27487,Tónica zero Schweppes,5.2,7.68,2026-06-29 12:21:06
+13706,86190,Pistacho tostado Hacendado 0% sal añadida,3.5,3.4,2026-06-29 12:21:07
+13707,86202,Pistacho tostado Hacendado con sal,3.5,3.4,2026-06-29 12:21:07
+13708,35602,Papilla 8 cereales con galleta María Nestlé +6 meses,5.75,4.95,2026-06-29 12:21:10
+13709,35601,Papilla 8 cereales con miel Nestlé +6 meses,5.75,4.95,2026-06-29 12:21:10
+13710,9034,Preparado lácteo con cereales crecimiento Peques 3 Puleva,1.99,1.89,2026-06-29 12:21:10
+13711,9057,Preparado lácteo con cereales crecimiento Peques 3 Puleva,11.94,11.34,2026-06-29 12:21:10
+13712,20321,Preparado lácteo con cereales y frutas Peques 3 Puleva,2.0,1.89,2026-06-29 12:21:10
+13713,9040,Preparado lácteo crecimiento Peques 3 Puleva,1.99,1.89,2026-06-29 12:21:10
+13714,9049,Preparado lácteo crecimiento Peques 3 Puleva,11.94,11.34,2026-06-29 12:21:10
+13715,28969,Cava brut Anna Codorníu,8.0,9.95,2026-06-29 12:21:12
+13716,28400,Vermouth blanco Martini,10.0,9.75,2026-06-29 12:21:12
+13717,28401,Vermouth rojo Martini,10.0,9.75,2026-06-29 12:21:12
+13718,66324,Vino blanco El Coto DO Rioja,4.45,4.2,2026-06-29 12:21:13
+13719,13204,Cacao soluble instantáneo Nesquik,7.5,5.95,2026-06-29 12:21:14
+13720,66320,Vino tinto crianza El Coto DO Rioja,6.55,6.3,2026-06-29 12:21:14
+13721,66346,Vino tinto reserva Coto de Imaz DO Rioja,8.8,8.2,2026-06-29 12:21:14
+13722,3400,Filetes pechuga de pollo corte fino,4.72,4.54,2026-06-29 12:21:16
+13723,14713,Barritas de avena y chocolate negro Crunchy Nature Valley,2.6,1.95,2026-06-29 12:21:18
+13724,35707,Cereales copos de trigo integral y arroz Special K Classic,2.4,3.25,2026-06-29 12:21:18
+13725,23155,Gyozas de pollo y verduras Hacendado congeladas,2.15,1.95,2026-06-29 12:21:22
+13726,24291,Puntilla de la Índia Hacendado congelada,4.7,5.5,2026-06-29 12:21:24
+13727,35397,Champú anticaspa Citric Ultrex cabello graso,2.3,2.0,2026-06-29 12:21:28
+13728,35398,Champú anticaspa Menthol Ultrex todo tipo de cabello,2.3,2.0,2026-06-29 12:21:28
+13729,35399,Champú y acondicionador anticaspa Classic 2 en 1 Ultrex todo tipo de cabello,2.3,2.0,2026-06-29 12:21:28
+13730,3236,Limones,3.2,3.1,2026-06-29 12:21:33
+13731,3210,Limón,0.68,0.66,2026-06-29 12:21:33
+13732,3601,Ciruela roja,0.56,0.54,2026-06-29 12:21:34
+13733,3422,Melocotones amarillos mini,2.78,2.48,2026-06-29 12:21:34
+13734,3433,Melocotón amarillo,0.95,0.86,2026-06-29 12:21:34
+13735,3427,Nectarina,0.77,0.7,2026-06-29 12:21:34
+13736,3425,Nectarinas,2.25,2.03,2026-06-29 12:21:34
+13737,3418,Paraguayo,0.49,0.45,2026-06-29 12:21:34
+13738,3498,Paraguayos,2.25,2.03,2026-06-29 12:21:34
+13739,10043,Batido de chocolate 90% leche Puleva,2.75,2.4,2026-06-29 12:21:35
+13740,10884,Bebida láctea Omega 3 Puleva con leche desnatada,1.89,1.69,2026-06-29 12:21:35
+13741,10146,Bebida láctea Omega 3 Puleva con leche desnatada,11.34,10.14,2026-06-29 12:21:35
+13742,10282,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,1.95,1.69,2026-06-29 12:21:35
+13743,10281,Bebida láctea Omega 3 Puleva con nueces y leche desnatada,11.7,10.14,2026-06-29 12:21:35
+13744,15909,Margarina Flora Proactiv,3.19,2.69,2026-06-29 12:21:35
+13745,34923,Almendra laminada Hacendado,2.15,2.3,2026-06-29 12:21:47
+13746,52928,Almendra palitos Hacendado,1.85,2.05,2026-06-29 12:21:47
